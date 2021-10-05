@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Project Product="PHPMaker" Version="18.3.0" ProjID="{92B999EB-369F-4874-8848-2BC343EBF36E}" ProjName="juzmatch" DefaultLanguageFile="english.xml" LanguageFiles="english.xml" Cache="0" CharSet="utf-8" OutputNameType="Original" OutputNameLCase="1" BodyTitle="JUZMATCH BACKEND" BodyFont="Verdana" BodySize="0.875" HeaderLogo="./images/logoFooter2.png" FooterText="&amp;copy;2021 JUZMATCH All rights reserved." Template="C:\Users\BGTechnology\AppData\Roaming\PHPMaker2022\node_modules\@phpmaker\php2022" Destination="C:\xampp\htdocs\juzmatch-backend\" SecType="Both" SecLoginID="JtI_9Paa_DL1v62N5CGBPg" SecPasswd="dBaPJ2YO_ZXorSyX-Ap6Mg" SecTbl="users" SecLoginIDFld="user_name" SecPasswdFld="password" SecEmailFld="email" SecForgetPwdPage="1" SecChangePwdPage="1" SecChangeEmail="1" UserPhotoFld="image" SecLogInOutAuditTrail="1" SecSenderEmail="sawit204@gmail.com" SmtpServer="smtp.gmail.com" SmtpServerPort="587" SmtpSecureOption="TLS" DefaultDateFormat="5" DateSeparator="/" UploadPath="upload/" UploadAllowedFileExt="gif,jpg,jpeg,bmp,png,doc,docx,xls,xlsx,pdf,zip" CssStyles="&#xD;&#xA;" OtherGenList="custom=1,@lang_english.xml=1,composer.json=1,userpackagejson=1,src=1,colorbox=1,plugins=1,fonts=1,bootstrap=1,adminlte=1,css=1,@adminltecss=1,projcss=1,swagger=1,swaggerhtml=1,swaggeryaml=1,js=1,jquery=1,swjs=1,push_notification=1,html=1,htaccess=1,webconfig=1,apihtaccess=1,constants=1,config=1,configdev=1,configprod=1,userlevelsettings=1,layout=1,menu=1,phpfn=1,userfn=1,userglobaljs=1,usereventjs=1,email=1,error=1,error|class=1,privacy=1,privacy|class=1,cookieconsent=1,personal_data=1,personal_data|class=1,login=1,login|class=1,reset_password=1,reset_password|class=1,change_password=1,change_password|class=1,userpriv=1,userpriv|class=1,logout|class=1,apiindex=1,index=1,definitions=1,apiroutes=1,routes=1,controllerbase=1,otherscontroller=1,apicontroller=1,exportpdfcss=1,exportpdf=1,exportreportpdf=1,datetimepickerjs=1,datetimepickerscss=1,eweditor.js=1,chartjs=1,chartjsrenderer=1,filemanager.config.json.php=1,filemanager.php=1,fixedheadertablejs=1,fixedheadertableminjs=1,fixedheadertablejsmap=1,exportphpword=1,exportreportword=1,exportexcel5=1,exportexcel2007=1,exportreportexcel=1,previewjs=1,recaptcha.php=1" OtherExpanded="1" MD5Password="1" CaseSensitivePassword="1" RecPerPage="25" GrpPerPage="3" GrpPerPageList="1,2,3,5,ALL" ExportExcel="1" ExportType="ALL" SortType="2" PagerStyle="1" ListExport="1" RepeatColumns="5" AppRootFolder="C:\xampp\htdocs\juzmatch-backend\" RootRelativePath="." EmailComponent="PHP" RecipientEmail="sawit204@gmail.com" SMTPServerUsername="0lKY5TahhCvOG3rF2yWFc1b_PbOtJHMF19YeMQD5z5c" SMTPServerPassword="ZNOAZ4bd__DM8ERDhK-r0Q" LoginOption="AUTO" ChartMenuItems="1" MultiPageType="Tabs" CheckConcurrentUser="1" CheckLoginRetry="1" UserProfileRetryLockout="120" CheckPasswordExpiry="1" AuditTrailToDB="1" AuditTrailTable="audittrail" AuditTrailFieldDateTime="datetime" AuditTrailFieldScript="script" AuditTrailFieldUser="user" AuditTrailFieldAction="action" AuditTrailFieldTable="table" AuditTrailFieldField="field" AuditTrailFieldKeyValue="keyvalue" AuditTrailFieldOldValue="oldvalue" AuditTrailFieldNewValue="newvalue" GitRemoteUrl="1xlMDx738-jxWbptuM8q6tMK07xXqgd7EK4JgR1byZpmFLm6SK7kxaOSnALKWJPNkQnTO1PEPHu4iZGqM8BUVw" GitUserName="0lKY5TahhCvOG3rF2yWFc1b_PbOtJHMF19YeMQD5z5c" GitPassword="G79JaWID_eSO8vQMFEHd_lDuLrH9tsCY8dWani9_WDvJpaOZQzLZd2mPehjAT-ON" Restore="1" BrandHref="./" WebPushAnonymous="1" UseWebPushNotification="1" SubscriptionTable="subdistrict" PushServerPublicKey="BO8nOPUcQdN9x6gAFqVk2LHLXxwoizM0uR6nACJEDiqN9L5B3uluPtu9MW6oOIXSsO02-8YQz0UnC-pDXN1TuMw" PushServerPrivateKey="GlHa5g6hm0SnjTcyyIpN-irvuC4F41G1jxfBuSWNjag">
+<Project Product="PHPMaker" Version="18.3.0" ProjID="{92B999EB-369F-4874-8848-2BC343EBF36E}" ProjName="juzmatch" DefaultLanguageFile="english.xml" LanguageFiles="english.xml" Cache="0" CharSet="utf-8" OutputNameType="Original" OutputNameLCase="1" BodyTitle="JUZMATCH BACKEND" BodyFont="Verdana" BodySize="0.875" HeaderLogo="./images/logoFooter2.png" FooterText="&amp;copy;2021 JUZMATCH All rights reserved." Template="C:\Users\BGTechnology\AppData\Roaming\PHPMaker2022\node_modules\@phpmaker\php2022" Destination="C:\xampp\htdocs\juzmatch-backend\" SecType="Both" SecLoginID="JtI_9Paa_DL1v62N5CGBPg" SecPasswd="dBaPJ2YO_ZXorSyX-Ap6Mg" SecTbl="users" SecLoginIDFld="user_name" SecPasswdFld="password" SecEmailFld="email" SecForgetPwdPage="1" SecChangePwdPage="1" SecChangeEmail="1" UserPhotoFld="image" SecLogInOutAuditTrail="1" SecSenderEmail="sawit204@gmail.com" SmtpServer="smtp.gmail.com" SmtpServerPort="587" SmtpSecureOption="TLS" DefaultDateFormat="5" DateSeparator="/" UploadPath="upload/" UploadAllowedFileExt="gif,jpg,jpeg,bmp,png,doc,docx,xls,xlsx,pdf,zip" CssStyles="&#xD;&#xA;" OtherGenList="reportcontroller=1,custom=1,custom|class=1,@lang_english.xml=1,composer.json=1,userpackagejson=1,src=1,colorbox=1,plugins=1,fonts=1,bootstrap=1,adminlte=1,css=1,@adminltecss=1,projcss=1,swagger=1,swaggerhtml=1,swaggeryaml=1,js=1,jquery=1,swjs=1,push_notification=1,html=1,htaccess=1,webconfig=1,apihtaccess=1,constants=1,config=1,configdev=1,configprod=1,userlevelsettings=1,layout=1,menu=1,phpfn=1,userfn=1,userglobaljs=1,usereventjs=1,email=1,error=1,error|class=1,privacy=1,privacy|class=1,cookieconsent=1,personal_data=1,personal_data|class=1,login=1,login|class=1,reset_password=1,reset_password|class=1,change_password=1,change_password|class=1,userpriv=1,userpriv|class=1,logout|class=1,apiindex=1,index=1,definitions=1,apiroutes=1,routes=1,controllerbase=1,otherscontroller=1,apicontroller=1,exportpdfcss=1,exportpdf=1,exportreportpdf=1,datetimepickerjs=1,datetimepickerscss=1,eweditor.js=1,chartjs=1,chartjsrenderer=1,filemanager.config.json.php=1,filemanager.php=1,fixedheadertablejs=1,fixedheadertableminjs=1,fixedheadertablejsmap=1,exportphpword=1,exportreportword=1,exportexcel5=1,exportexcel2007=1,exportreportexcel=1,previewjs=1,recaptcha.php=1" OtherExpanded="1" MD5Password="1" CaseSensitivePassword="1" RecPerPage="25" GrpPerPage="3" GrpPerPageList="1,2,3,5,ALL" ExportExcel="1" ExportType="ALL" SortType="2" PagerStyle="1" ListExport="1" RepeatColumns="5" AppRootFolder="C:\xampp\htdocs\juzmatch-backend\" RootRelativePath="." EmailComponent="PHP" RecipientEmail="sawit204@gmail.com" SMTPServerUsername="0lKY5TahhCvOG3rF2yWFc1b_PbOtJHMF19YeMQD5z5c" SMTPServerPassword="ZNOAZ4bd__DM8ERDhK-r0Q" LoginOption="AUTO" ChartMenuItems="1" MultiPageType="Tabs" CheckConcurrentUser="1" CheckLoginRetry="1" UserProfileRetryLockout="120" CheckPasswordExpiry="1" AuditTrailToDB="1" AuditTrailTable="audittrail" AuditTrailFieldDateTime="datetime" AuditTrailFieldScript="script" AuditTrailFieldUser="user" AuditTrailFieldAction="action" AuditTrailFieldTable="table" AuditTrailFieldField="field" AuditTrailFieldKeyValue="keyvalue" AuditTrailFieldOldValue="oldvalue" AuditTrailFieldNewValue="newvalue" GitRemoteUrl="1xlMDx738-jxWbptuM8q6tMK07xXqgd7EK4JgR1byZpmFLm6SK7kxaOSnALKWJPNkQnTO1PEPHu4iZGqM8BUVw" GitUserName="0lKY5TahhCvOG3rF2yWFc1b_PbOtJHMF19YeMQD5z5c" GitPassword="G79JaWID_eSO8vQMFEHd_lDuLrH9tsCY8dWani9_WDvJpaOZQzLZd2mPehjAT-ON" Restore="1" BrandHref="./" WebPushAnonymous="1" UseWebPushNotification="1" SubscriptionTable="subdistrict" PushServerPublicKey="BO8nOPUcQdN9x6gAFqVk2LHLXxwoizM0uR6nACJEDiqN9L5B3uluPtu9MW6oOIXSsO02-8YQz0UnC-pDXN1TuMw" PushServerPrivateKey="GlHa5g6hm0SnjTcyyIpN-irvuC4F41G1jxfBuSWNjag">
   <Database DBID="DB" DBName="juzmatch" DBType="MySQL" DBConnectionMethod="URL" DBURL="https://uatbackend.juzmatch.com/tunnel.php" DBHost="203.150.19.170" DBPort="3306" DBUID="u-kf2kJ16wONmhv2ryv7ag" DBPwd="WB_5Rb-d8crYwhS70KDsGT9RShal5y5_l1_yskRzOx4" DBQuoteS="`" DBQuoteE="`" DBDBMSName="MySQL" DBDBMSVer="50733" DBProviderName="e.World Technology Ltd." DBProviderVer="18" MaxUploadSize="2000000" SecUserLevelFld="user_level_id" SecDefault="0,&quot;Default&quot;,0;1,&quot;Juzmatch Admin&quot;,47" SecuUserIDFld="users_id" SecUserProfileFld="memo" UseDynamicUserLevel="1" UserLevelTbl="userlevels" UserLevelIdFld="userlevelid" UserLevelNameFld="userlevelname" UserLevelPrivTbl="userlevelpermissions" UserLevelPrivTblNameFld="tablename" UserLevelPrivUserLevelFld="userlevelid" UserLevelPrivPrivFld="permission">
     <Table TblName="address" TblType="TABLE" TblGen="1" TblGenList="controller=1,info=1,list=1,list|class=1,grid=1,grid|class=1,add=1,add|class=1,view=1,view|class=1,edit=1,edit|class=1,delete=1,delete|class=1,preview=1,preview|class=1" TblList="1" TblView="1" TblEdit="1" TblAdd="1" TblIsDetail="1" TblDelete="1" TblCaption="ที่อยู่" TblUpdatable="1" TblSrchType="BASIC" TblSearchHighlight="1" TblBasicSearch="1" TblExtendedBasicSearch="1" TblSecurity="0,&quot;Default&quot;,0;1,&quot;Juzmatch Admin&quot;,47" TblLoaded="1" TblShowEmptyRows="0" TblUseGlobal="1" TblRecPerPage="20" TblRecPerPageList="10,20,50,ALL" TblGrpPerPage="3" TblGrpPerPageList="1,2,3,5,ALL" TblPagerStyle="2" TblAuditTrail="1" TblDisplayRowCount="1" TblUseButtonsForLinks="1" TblUseDropDownForAction="1" TblUseDropDownForListOptions="1" TblUseDropDownForExport="1">
       <Field FldName="address_id" FldType="3" FldTypeName="INT" NativeDataType="3" FldSupport="1" FldSort="0" FldSize="11" FldIsPrimaryKey="1" FldAutoIncrement="1" FldAttribute="96" FldValidate="INTEGER" FldGenerate="1" FldSrchOpr="=" FldCaption="address id" FldViewTag="FORMATTED TEXT" FldHtmlTag="NO" FldSelectType="Values" FldTagAPrefix="None" FldIncLeadDigit="-2" FldUseParen="-2" FldGpDigits="-2" FldColumnWrap="0" FldResizeQuality="75" />
@@ -1486,6 +1486,7 @@
       <Field FldName="uuser" FldType="3" FldTypeName="INT" NativeDataType="3" FldSupport="1" FldSize="11" FldReq="1" FldAttribute="4" FldValidate="INTEGER" FldRequired="1" FldGenerate="1" FldExport="1" FldView="1" FldEdit="1" FldAdd="1" FldAddOpt="1" FldSearch="1" FldSrchOpr="=" FldCaption="Update User" FldViewTag="FORMATTED TEXT" FldHtmlTag="TEXT" FldTagSize="30" FldSelectType="Values" FldTagAPrefix="None" FldFmtType="Number" FldIncLeadDigit="-2" FldUseParen="-2" FldGpDigits="-2" FldAutoUpdateValue="CurrentUserID()" FldMultiUpdate="1" FldResizeQuality="75" />
       <Field FldName="uip" FldType="200" FldTypeName="VARCHAR" NativeDataType="253" FldSupport="1" FldSize="255" FldReq="1" FldAttribute="4" FldRequired="1" FldGenerate="1" FldExport="1" FldView="1" FldEdit="1" FldAdd="1" FldAddOpt="1" FldSearch="1" FldSrchOpr="LIKE" FldCaption="Update IP" FldViewTag="FORMATTED TEXT" FldHtmlTag="TEXT" FldTagSize="30" FldTagMaxLength="255" FldSelectType="Values" FldTagAPrefix="None" FldIncLeadDigit="-2" FldUseParen="-2" FldGpDigits="-2" FldQuoteS="'" FldQuoteE="'" FldAutoUpdateValue="CurrentUserIP()" FldMultiUpdate="1" FldResizeQuality="75" />
     </Table>
+    <Table TblName="dashboardview.php" TblType="REPORT" TblGen="1" TblGenList="reportcontroller=1,custom=1,custom|class=1" TblList="1" TblCaption="Admin Dashboard" TblSrchType="NONE" TblBasicSearch="1" TblExtendedBasicSearch="1" TblSecurity="0,&quot;Default&quot;,0;1,&quot;Juzmatch Admin&quot;,8" TblLoaded="1" OutputFolder="/dashboard" TblReportType="custom" TblShowEmptyRows="0" TblUseGlobal="1" TblRecPerPage="20" TblRecPerPageList="10,20,50,ALL" TblGrpPerPage="3" TblGrpPerPageList="1,2,3,5,ALL" TblPagerStyle="2" TblUseButtonsForLinks="1" TblUseDropDownForAction="1" TblUseDropDownForListOptions="1" TblUseDropDownForExport="1" />
   </Database>
   <LinkDatabase DBID="juzmatch1" DBName="juzmatch" DBType="MySQL" DBConnectionMethod="DIRECT" DBHost="203.150.19.170" DBPort="3306" DBUID="u-kf2kJ16wONmhv2ryv7ag" DBPwd="WB_5Rb-d8crYwhS70KDsGT9RShal5y5_l1_yskRzOx4" DBQuoteS="`" DBQuoteE="`" DBDBMSName="MySQL" DBDBMSVer="50733" DBProviderName="e.World Technology Ltd." DBProviderVer="18" />
   <LinkDatabase DBID="juzmatch2" DBName="juzmatch" DBType="MySQL" DBConnectionMethod="URL" DBURL="https://uatbackend.juzmatch.com/tunnel.php" DBHost="203.150.19.170" DBPort="3306" DBUID="u-kf2kJ16wONmhv2ryv7ag" DBPwd="WB_5Rb-d8crYwhS70KDsGT9RShal5y5_l1_yskRzOx4" DBQuoteS="`" DBQuoteE="`" DBDBMSName="MySQL" DBDBMSVer="50733" DBProviderName="e.World Technology Ltd." DBProviderVer="18" />
@@ -1749,6 +1750,9 @@
           <Properties><![CDATA[[{"Id":"ExportList","Type":"Boolean","Value":"0"},{"Id":"ExportView","Type":"Boolean","Value":"1"},{"Id":"PageBreakRecordCount","Type":"Integer","Value":0},{"Id":"PageOrientation","Type":"String","Value":"portrait"},{"Id":"PageSize","Type":"String","Value":"a4"}]]]></Properties>
         </ExtTable>
         <ExtTable TblName="log_member">
+          <Properties><![CDATA[[{"Id":"ExportList","Type":"Boolean","Value":"0"},{"Id":"ExportView","Type":"Boolean","Value":"1"},{"Id":"PageBreakRecordCount","Type":"Integer","Value":0},{"Id":"PageOrientation","Type":"String","Value":"portrait"},{"Id":"PageSize","Type":"String","Value":"a4"}]]]></Properties>
+        </ExtTable>
+        <ExtTable TblName="dashboardview.php">
           <Properties><![CDATA[[{"Id":"ExportList","Type":"Boolean","Value":"0"},{"Id":"ExportView","Type":"Boolean","Value":"1"},{"Id":"PageBreakRecordCount","Type":"Integer","Value":0},{"Id":"PageOrientation","Type":"String","Value":"portrait"},{"Id":"PageSize","Type":"String","Value":"a4"}]]]></Properties>
         </ExtTable>
         <Properties><![CDATA[[]]]></Properties>
@@ -5296,6 +5300,9 @@
         <ExtTable TblName="log_member">
           <Properties><![CDATA[[]]]></Properties>
         </ExtTable>
+        <ExtTable TblName="dashboardview.php">
+          <Properties><![CDATA[[]]]></Properties>
+        </ExtTable>
         <Properties><![CDATA[[]]]></Properties>
       </ExtDatabase>
       <Properties><![CDATA[[{"Id":"InputGroup","Type":"Boolean","Value":"1"},{"Id":"Options","Type":"String","Value":""}]]]></Properties>
@@ -5334,6 +5341,9 @@
           <Properties><![CDATA[[]]]></Properties>
         </ExtTable>
         <ExtTable TblName="log_member">
+          <Properties><![CDATA[[]]]></Properties>
+        </ExtTable>
+        <ExtTable TblName="dashboardview.php">
           <Properties><![CDATA[[]]]></Properties>
         </ExtTable>
         <Properties><![CDATA[[]]]></Properties>
@@ -5608,6 +5618,9 @@
           <Properties><![CDATA[[{"Id":"Add","Type":"Boolean","Value":"1"},{"Id":"Edit","Type":"Boolean","Value":"1"},{"Id":"Delete","Type":"Boolean","Value":"1"},{"Id":"View","Type":"Boolean","Value":"0"},{"Id":"ViewData","Type":"Boolean","Value":"0"},{"Id":"Search","Type":"Boolean","Value":"0"}]]]></Properties>
         </ExtTable>
         <ExtTable TblName="log_member">
+          <Properties><![CDATA[[{"Id":"Add","Type":"Boolean","Value":"1"},{"Id":"Edit","Type":"Boolean","Value":"1"},{"Id":"Delete","Type":"Boolean","Value":"1"},{"Id":"View","Type":"Boolean","Value":"0"},{"Id":"ViewData","Type":"Boolean","Value":"0"},{"Id":"Search","Type":"Boolean","Value":"0"}]]]></Properties>
+        </ExtTable>
+        <ExtTable TblName="dashboardview.php">
           <Properties><![CDATA[[{"Id":"Add","Type":"Boolean","Value":"1"},{"Id":"Edit","Type":"Boolean","Value":"1"},{"Id":"Delete","Type":"Boolean","Value":"1"},{"Id":"View","Type":"Boolean","Value":"0"},{"Id":"ViewData","Type":"Boolean","Value":"0"},{"Id":"Search","Type":"Boolean","Value":"0"}]]]></Properties>
         </ExtTable>
         <Properties><![CDATA[[]]]></Properties>
@@ -5898,6 +5911,9 @@
         </ExtTable>
         <ExtTable TblName="buyer_asset">
           <Properties><![CDATA[[{"Id":"Enabled","Type":"Boolean","Value":"1"},{"Id":"TableWidth","Type":"String","Value":"100%"},{"Id":"TableHeight","Type":"String","Value":"500px"}]]]></Properties>
+        </ExtTable>
+        <ExtTable TblName="dashboardview.php">
+          <Properties><![CDATA[[{"Id":"Enabled","Type":"Boolean","Value":"0"},{"Id":"TableWidth","Type":"String","Value":"0"},{"Id":"TableHeight","Type":"String","Value":"0"}]]]></Properties>
         </ExtTable>
         <Properties><![CDATA[[]]]></Properties>
       </ExtDatabase>
@@ -9621,6 +9637,9 @@
           </ExtField>
           <Properties><![CDATA[[]]]></Properties>
         </ExtTable>
+        <ExtTable TblName="dashboardview.php">
+          <Properties><![CDATA[[]]]></Properties>
+        </ExtTable>
         <Properties><![CDATA[[]]]></Properties>
       </ExtDatabase>
       <Properties><![CDATA[[{"Id":"InputGroup","Type":"Boolean","Value":"1"},{"Id":"Options","Type":"String","Value":""}]]]></Properties>
@@ -13166,6 +13185,9 @@
         <ExtTable TblName="log_member">
           <Properties><![CDATA[[{"Id":"PermissionType","Type":"String","Value":"bool"}]]]></Properties>
         </ExtTable>
+        <ExtTable TblName="dashboardview.php">
+          <Properties><![CDATA[[{"Id":"PermissionType","Type":"String","Value":"bool"}]]]></Properties>
+        </ExtTable>
         <Properties><![CDATA[[]]]></Properties>
       </ExtDatabase>
       <Properties><![CDATA[[]]]></Properties>
@@ -13432,6 +13454,9 @@
         <ExtTable TblName="log_member">
           <Properties><![CDATA[[{"Id":"Orientation","Type":"String","Value":"portrait"},{"Id":"Size","Type":"String","Value":"A4"},{"Id":"ColumnWidth","Type":"Integer","Value":0}]]]></Properties>
         </ExtTable>
+        <ExtTable TblName="dashboardview.php">
+          <Properties><![CDATA[[{"Id":"Orientation","Type":"String","Value":"portrait"},{"Id":"Size","Type":"String","Value":"A4"},{"Id":"ColumnWidth","Type":"Integer","Value":0}]]]></Properties>
+        </ExtTable>
         <Properties><![CDATA[[]]]></Properties>
       </ExtDatabase>
       <Properties><![CDATA[[{"Id":"OoxmlVersion","Type":"String","Value":"12"}]]]></Properties>
@@ -13696,6 +13721,9 @@
           <Properties><![CDATA[[{"Id":"PageOrientation","Type":"String","Value":"ORIENTATION_DEFAULT"},{"Id":"PageSize","Type":"String","Value":"PAPERSIZE_A4"}]]]></Properties>
         </ExtTable>
         <ExtTable TblName="log_member">
+          <Properties><![CDATA[[{"Id":"PageOrientation","Type":"String","Value":"ORIENTATION_DEFAULT"},{"Id":"PageSize","Type":"String","Value":"PAPERSIZE_A4"}]]]></Properties>
+        </ExtTable>
+        <ExtTable TblName="dashboardview.php">
           <Properties><![CDATA[[{"Id":"PageOrientation","Type":"String","Value":"ORIENTATION_DEFAULT"},{"Id":"PageSize","Type":"String","Value":"PAPERSIZE_A4"}]]]></Properties>
         </ExtTable>
         <Properties><![CDATA[[]]]></Properties>
@@ -13978,6 +14006,9 @@
         </ExtTable>
         <ExtTable TblName="buyer_asset">
           <Properties><![CDATA[[{"Id":"UseDetailPreview","Type":"Boolean","Value":"1"},{"Id":"PreviewType","Type":"String","Value":"row"},{"Id":"PreviewRowColor","Type":"Color","Value":null},{"Id":"SingleRow","Type":"Boolean","Value":"0"},{"Id":"PageSize","Type":"Integer","Value":0},{"Id":"UseModalLinks","Type":"Boolean","Value":"0"}]]]></Properties>
+        </ExtTable>
+        <ExtTable TblName="dashboardview.php">
+          <Properties><![CDATA[[{"Id":"UseDetailPreview","Type":"Boolean","Value":"1"},{"Id":"PreviewType","Type":"String","Value":"row"},{"Id":"PreviewRowColor","Type":"Color","Value":""},{"Id":"SingleRow","Type":"Boolean","Value":"0"},{"Id":"PageSize","Type":"Integer","Value":0},{"Id":"UseModalLinks","Type":"Boolean","Value":"0"}]]]></Properties>
         </ExtTable>
         <Properties><![CDATA[[]]]></Properties>
       </ExtDatabase>
@@ -17709,6 +17740,9 @@
           </ExtField>
           <Properties><![CDATA[[]]]></Properties>
         </ExtTable>
+        <ExtTable TblName="dashboardview.php">
+          <Properties><![CDATA[[]]]></Properties>
+        </ExtTable>
         <Properties><![CDATA[[]]]></Properties>
       </ExtDatabase>
       <Properties><![CDATA[[]]]></Properties>
@@ -17804,6 +17838,7 @@
   <MasterDetail MasterTable="buyer_asset" DetailTable="buyer_asset_schedule" EnforceReferentialIntegrity="0" CascadeUpdate="0" CascadeDelete="0">
     <Relation MasterField="asset_id" DetailField="asset_id" />
   </MasterDetail>
+  <Menu MenuID="101" MenuText="Admin Dashboard" MenuParentID="-1" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="dashboardview.php" MenuType="" MenuCustomUrl="0" MenuLevel="0" MenuShow="1" MenuDisplayOrder="-1" MenuIconClass="" MenuNavbar="0" />
   <Menu MenuID="87" MenuText="Assets" MenuParentID="-1" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="8" MenuSecurity="" MenuUrl="" MenuType="" MenuCustomUrl="1" MenuLevel="0" MenuShow="1" MenuDisplayOrder="100" MenuIconClass="" MenuNavbar="0" />
   <Menu MenuID="10" MenuText="  ประเภททรัพย์" MenuParentID="87" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="asset_category" MenuType="" MenuCustomUrl="0" MenuLevel="1" MenuShow="0" MenuDisplayOrder="100" MenuIconClass="" MenuNavbar="0" />
   <Menu MenuID="7" MenuText="สินทรัพย์" MenuParentID="87" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="asset" MenuType="" MenuCustomUrl="0" MenuLevel="1" MenuShow="1" MenuDisplayOrder="200" MenuIconClass="" MenuNavbar="0" />
