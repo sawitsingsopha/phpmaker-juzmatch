@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Project Product="PHPMaker" Version="18.3.0" ProjID="{92B999EB-369F-4874-8848-2BC343EBF36E}" ProjName="juzmatch" DefaultLanguageFile="english.xml" LanguageFiles="english.xml" Cache="0" CharSet="utf-8" OutputNameType="Original" OutputNameLCase="1" BodyTitle="JUZMATCH BACKEND" BodyFont="Verdana" BodySize="0.875" HeaderLogo="./images/logoFooter2.png" FooterText="&amp;copy;2021 JUZMATCH All rights reserved." Template="C:\Users\BGTechnology\AppData\Roaming\PHPMaker2022\node_modules\@phpmaker\php2022" Destination="C:\xampp\htdocs\juzmatch-backend\" SecType="Both" SecLoginID="JtI_9Paa_DL1v62N5CGBPg" SecPasswd="dBaPJ2YO_ZXorSyX-Ap6Mg" SecTbl="users" SecLoginIDFld="user_name" SecPasswdFld="password" SecEmailFld="email" SecForgetPwdPage="1" SecChangePwdPage="1" SecChangeEmail="1" UserPhotoFld="image" SecLogInOutAuditTrail="1" SecForgotPwdCaptcha="1" SecChangePwdCaptcha="1" SecSenderEmail="sawit204@gmail.com" SmtpServer="smtp.gmail.com" SmtpServerPort="587" SmtpSecureOption="TLS" DefaultDateFormat="5" DateSeparator="/" UploadPath="upload/" UploadAllowedFileExt="gif,jpg,jpeg,bmp,png,doc,docx,xls,xlsx,pdf,zip" CssStyles=".ew-search-operator, .ew-filter-option {&#xD;&#xA;  display: none !important;&#xD;&#xA;}&#xD;&#xA;&#xD;&#xA;.ew-ext-search-form {&#xD;&#xA;  width: 100% !important;&#xD;&#xA;  border: 1px solid #d5d5d5;&#xD;&#xA;  margin-bottom: 20px;&#xD;&#xA;  padding: 1rem 2rem;&#xD;&#xA;  border-bottom-right-radius: 12px;&#xD;&#xA;  border-bottom-left-radius: 12px;&#xD;&#xA;}&#xD;&#xA;&#xD;&#xA;.ew-search-option {&#xD;&#xA;  margin: 0 !important;&#xD;&#xA;  width: 100%;&#xD;&#xA;}&#xD;&#xA;&#xD;&#xA;.ew-search-option .btn-group {&#xD;&#xA;  width: 100%;&#xD;&#xA;  height: 40px;&#xD;&#xA;  display: flex;&#xD;&#xA;  background-color: #021789c4;&#xD;&#xA;  border-top-right-radius: 12px;&#xD;&#xA;  border-top-left-radius: 12px;&#xD;&#xA;}&#xD;&#xA;&#xD;&#xA;.ew-search-option .btn-group .ew-search-toggle {&#xD;&#xA;    text-align: left;&#xD;&#xA;    background: transparent;&#xD;&#xA;    border: unset;&#xD;&#xA;    color: #fff;&#xD;&#xA;    display: flex;&#xD;&#xA;    align-items: center;&#xD;&#xA;    border-top-right-radius: 12px;&#xD;&#xA;    border-top-left-radius: 12px;&#xD;&#xA;}&#xD;&#xA;&#xD;&#xA;.ew-search-option .btn-group .ew-search-toggle p {&#xD;&#xA;  color: #fff;&#xD;&#xA;  margin-bottom: 0;&#xD;&#xA;  font-size: 1.125rem;&#xD;&#xA;  font-weight: 500;&#xD;&#xA;  margin-left: 10px;&#xD;&#xA;}&#xD;&#xA;&#xD;&#xA;.ew-search-panel .row-cols-sm-1 &gt; .col-sm-auto {&#xD;&#xA;  width: auto;&#xD;&#xA;}&#xD;&#xA;&#xD;&#xA;.layout-navbar-fixed .wrapper .sidebar-light-primary .brand-link:not([class*=navbar]) {&#xD;&#xA;  background-color: #FFFFFF;&#xD;&#xA;  height: 70px;&#xD;&#xA;  display: flex;&#xD;&#xA;  align-items: center;&#xD;&#xA;}&#xD;&#xA;&#xD;&#xA;.layout-navbar-fixed .wrapper .content-wrapper {&#xD;&#xA;  margin-top: 70px;&#xD;&#xA;}&#xD;&#xA;&#xD;&#xA;.sidebar-dark-primary .nav-sidebar &gt; .nav-item &gt; .nav-link.active, .sidebar-light-primary .nav-sidebar &gt; .nav-item &gt; .nav-link.active {&#xD;&#xA;  background-color: #021789;&#xD;&#xA;  color: #FFFFFF;&#xD;&#xA;}&#xD;&#xA;&#xD;&#xA;.sidebar-dark-primary .nav-sidebar &gt; .nav-item &gt; .nav-link,&#xD;&#xA;.sidebar-light-primary .nav-sidebar &gt; .nav-item &gt; .nav-link {&#xD;&#xA;  font-weight: bold;&#xD;&#xA;}&#xD;&#xA;&#xD;&#xA;.table thead th, .dataTable-table thead th {&#xD;&#xA;  vertical-align: middle;&#xD;&#xA;  padding: 0.75rem 0.25rem;&#xD;&#xA;  font-weight: bold;&#xD;&#xA;}&#xD;&#xA;&#xD;&#xA;.ew-grid .ew-table &gt; thead &gt; tr &gt; th {&#xD;&#xA;  font-weight: bold;&#xD;&#xA;  vertical-align: center;&#xD;&#xA;  text-align: center;&#xD;&#xA;}&#xD;&#xA;&#xD;&#xA;.table-sm &gt; :not(caption) &gt; * &gt; * {&#xD;&#xA;  padding: 0.25rem 0.75rem;&#xD;&#xA;}&#xD;&#xA;&#xD;&#xA;[class*=sidebar-light-] .nav-treeview &gt; .nav-item &gt; .nav-link.active, [class*=sidebar-light-] .nav-treeview &gt; .nav-item &gt; .nav-link.active:hover {&#xD;&#xA;  background-color: rgba(255, 255, 255, 0.1);&#xD;&#xA;  color: #212529;&#xD;&#xA;}&#xD;&#xA;&#xD;&#xA;.ew-grid .ew-table tr td.ew-list-option-body {&#xD;&#xA;  text-align: center;&#xD;&#xA;}&#xD;&#xA;&#xD;&#xA;.ew-grid .ew-table tr td[data-name=cdate] {&#xD;&#xA;  text-align: center;&#xD;&#xA;}&#xD;&#xA;&#xD;&#xA;.btn-primary {&#xD;&#xA;  color: #FFFFFF;&#xD;&#xA;  background-color: #021789;&#xD;&#xA;  border-color: #021789;&#xD;&#xA;}&#xD;&#xA;&#xD;&#xA;.page-item.active .page-link {&#xD;&#xA;  z-index: 3;&#xD;&#xA;  color: #FFFFFF;&#xD;&#xA;  background-color: #021789;&#xD;&#xA;  border-color: #021789;&#xD;&#xA;}&#xD;&#xA;&#xD;&#xA;.page-link {&#xD;&#xA;  position: relative;&#xD;&#xA;  display: block;&#xD;&#xA;  color: #021789;&#xD;&#xA;  background-color: #FFFFFF;&#xD;&#xA;  border: 1px solid #DEE2E6;&#xD;&#xA;  transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;&#xD;&#xA;}&#xD;&#xA;&#xD;&#xA;a {&#xD;&#xA;  color: #021789;&#xD;&#xA;  text-decoration: none;&#xD;&#xA;}&#xD;&#xA;&#xD;&#xA;.ew-search-operator, .ew-search-operator2 {&#xD;&#xA;  display: none;&#xD;&#xA;}&#xD;&#xA;&#xD;&#xA;.ew-search-caption, .ew-search-operator, .ew-search-cond, .ew-search-and, .ew-search-operator2, .ew-search-field, .ew-search-field2 {&#xD;&#xA;  margin-right: 0.5rem;&#xD;&#xA;  display: flex;&#xD;&#xA;  align-items: center;&#xD;&#xA;}&#xD;&#xA;&#xD;&#xA;" OtherGenList="reportcontroller=0,custom=0,custom|class=0,@lang_english.xml=0,composer.json=0,userpackagejson=0,src=0,colorbox=0,plugins=0,fonts=0,bootstrap=0,adminlte=0,css=0,@adminltecss=0,projcss=0,swagger=0,swaggerhtml=0,swaggeryaml=0,js=0,jquery=0,swjs=0,push_notification=0,html=0,htaccess=0,webconfig=0,apihtaccess=0,constants=0,config=0,configdev=0,configprod=0,userlevelsettings=0,layout=0,menu=0,phpfn=0,userfn=0,userglobaljs=0,usereventjs=0,email=0,error=0,error|class=0,privacy=0,privacy|class=0,cookieconsent=0,personal_data=0,personal_data|class=0,login=0,login|class=0,reset_password=0,reset_password|class=0,change_password=0,change_password|class=0,userpriv=0,userpriv|class=0,logout|class=0,apiindex=0,index=0,definitions=0,apiroutes=0,routes=0,controllerbase=0,otherscontroller=0,apicontroller=0,exportpdfcss=0,exportpdf=0,exportreportpdf=0,datetimepickerjs=0,datetimepickerscss=0,eweditor.js=0,chartjs=0,chartjsrenderer=0,filemanager.config.json.php=0,filemanager.php=0,fixedheadertablejs=0,fixedheadertableminjs=0,fixedheadertablejsmap=0,exportphpword=0,exportreportword=0,exportexcel5=0,exportexcel2007=0,exportreportexcel=0,previewjs=0,recaptcha.php=0" OtherExpanded="1" MD5Password="1" CaseSensitivePassword="1" RecPerPage="25" GrpPerPage="3" GrpPerPageList="1,2,3,5,ALL" ExportType="ALL" SortType="2" PagerStyle="1" RepeatColumns="5" AppRootFolder="C:\xampp\htdocs\juzmatch-backend\" RootRelativePath="." EmailComponent="PHP" RecipientEmail="sawit204@gmail.com" SMTPServerUsername="0lKY5TahhCvOG3rF2yWFc1b_PbOtJHMF19YeMQD5z5c" SMTPServerPassword="ZNOAZ4bd__DM8ERDhK-r0Q" LoginOption="AUTO" ChartMenuItems="1" MultiPageType="Pills" CheckConcurrentUser="1" CheckLoginRetry="1" UserProfileRetryLockout="120" CheckPasswordExpiry="1" AuditTrailToDB="1" AuditTrailTable="audittrail" AuditTrailFieldDateTime="datetime" AuditTrailFieldScript="script" AuditTrailFieldUser="user" AuditTrailFieldAction="action" AuditTrailFieldTable="table" AuditTrailFieldField="field" AuditTrailFieldKeyValue="keyvalue" AuditTrailFieldOldValue="oldvalue" AuditTrailFieldNewValue="newvalue" GitRemoteUrl="1xlMDx738-jxWbptuM8q6tMK07xXqgd7EK4JgR1byZpmFLm6SK7kxaOSnALKWJPNkQnTO1PEPHu4iZGqM8BUVw" GitUserName="0lKY5TahhCvOG3rF2yWFc1b_PbOtJHMF19YeMQD5z5c" GitPassword="G79JaWID_eSO8vQMFEHd_lDuLrH9tsCY8dWani9_WDvJpaOZQzLZd2mPehjAT-ON" Restore="1" Require="{&quot;google\/cloud-storage&quot;:&quot;^1.25.1&quot;}" BrandHref="./" WebPushAnonymous="1" UseWebPushNotification="1" SubscriptionTable="subdistrict" PushServerPublicKey="BO8nOPUcQdN9x6gAFqVk2LHLXxwoizM0uR6nACJEDiqN9L5B3uluPtu9MW6oOIXSsO02-8YQz0UnC-pDXN1TuMw" PushServerPrivateKey="GlHa5g6hm0SnjTcyyIpN-irvuC4F41G1jxfBuSWNjag">
+<Project Product="PHPMaker" Version="18.3.0" ProjID="{92B999EB-369F-4874-8848-2BC343EBF36E}" ProjName="juzmatch" DefaultLanguageFile="english.xml" LanguageFiles="english.xml" Cache="0" CharSet="utf-8" OutputNameType="Original" OutputNameLCase="1" BodyTitle="JUZMATCH BACKEND" BodyFont="Verdana" BodySize="0.875" HeaderLogo="./images/logoFooter2.png" FooterText="&amp;copy;2021 JUZMATCH All rights reserved." Template="C:\Users\BGTechnology\AppData\Roaming\PHPMaker2022\node_modules\@phpmaker\php2022" Destination="C:\xampp\htdocs\juzmatch-backend-new\" SecType="Both" SecLoginID="JtI_9Paa_DL1v62N5CGBPg" SecPasswd="dBaPJ2YO_ZXorSyX-Ap6Mg" SecTbl="users" SecLoginIDFld="user_name" SecPasswdFld="password" SecEmailFld="email" SecForgetPwdPage="1" SecChangePwdPage="1" SecChangeEmail="1" UserPhotoFld="image" SecLogInOutAuditTrail="1" SecForgotPwdCaptcha="1" SecChangePwdCaptcha="1" SecSenderEmail="sawit204@gmail.com" SmtpServer="smtp.gmail.com" SmtpServerPort="587" SmtpSecureOption="TLS" DefaultDateFormat="5" DateSeparator="/" UploadPath="upload/" UploadAllowedFileExt="gif,jpg,jpeg,bmp,png,doc,docx,xls,xlsx,pdf,zip" CssStyles=".ew-search-operator, .ew-filter-option {&#xD;&#xA;  display: none !important;&#xD;&#xA;}&#xD;&#xA;&#xD;&#xA;.ew-ext-search-form {&#xD;&#xA;  width: 100% !important;&#xD;&#xA;  border: 1px solid #d5d5d5;&#xD;&#xA;  margin-bottom: 20px;&#xD;&#xA;  padding: 1rem 2rem;&#xD;&#xA;  border-bottom-right-radius: 12px;&#xD;&#xA;  border-bottom-left-radius: 12px;&#xD;&#xA;}&#xD;&#xA;&#xD;&#xA;.ew-search-option {&#xD;&#xA;  margin: 0 !important;&#xD;&#xA;  width: 100%;&#xD;&#xA;}&#xD;&#xA;&#xD;&#xA;.ew-search-option .btn-group {&#xD;&#xA;  width: 100%;&#xD;&#xA;  height: 40px;&#xD;&#xA;  display: flex;&#xD;&#xA;  background-color: #021789c4;&#xD;&#xA;  border-top-right-radius: 12px;&#xD;&#xA;  border-top-left-radius: 12px;&#xD;&#xA;}&#xD;&#xA;&#xD;&#xA;.ew-search-option .btn-group .ew-search-toggle {&#xD;&#xA;    text-align: left;&#xD;&#xA;    background: transparent;&#xD;&#xA;    border: unset;&#xD;&#xA;    color: #fff;&#xD;&#xA;    display: flex;&#xD;&#xA;    align-items: center;&#xD;&#xA;    border-top-right-radius: 12px;&#xD;&#xA;    border-top-left-radius: 12px;&#xD;&#xA;}&#xD;&#xA;&#xD;&#xA;.ew-search-option .btn-group .ew-search-toggle p {&#xD;&#xA;  color: #fff;&#xD;&#xA;  margin-bottom: 0;&#xD;&#xA;  font-size: 1.125rem;&#xD;&#xA;  font-weight: 500;&#xD;&#xA;  margin-left: 10px;&#xD;&#xA;}&#xD;&#xA;&#xD;&#xA;.ew-search-panel .row-cols-sm-1 &gt; .col-sm-auto {&#xD;&#xA;  width: auto;&#xD;&#xA;}&#xD;&#xA;&#xD;&#xA;.layout-navbar-fixed .wrapper .sidebar-light-primary .brand-link:not([class*=navbar]) {&#xD;&#xA;  background-color: #FFFFFF;&#xD;&#xA;  height: 70px;&#xD;&#xA;  display: flex;&#xD;&#xA;  align-items: center;&#xD;&#xA;}&#xD;&#xA;&#xD;&#xA;.layout-navbar-fixed .wrapper .content-wrapper {&#xD;&#xA;  margin-top: 70px;&#xD;&#xA;}&#xD;&#xA;&#xD;&#xA;.sidebar-dark-primary .nav-sidebar &gt; .nav-item &gt; .nav-link.active, .sidebar-light-primary .nav-sidebar &gt; .nav-item &gt; .nav-link.active {&#xD;&#xA;  background-color: #021789;&#xD;&#xA;  color: #FFFFFF;&#xD;&#xA;}&#xD;&#xA;&#xD;&#xA;.sidebar-dark-primary .nav-sidebar &gt; .nav-item &gt; .nav-link,&#xD;&#xA;.sidebar-light-primary .nav-sidebar &gt; .nav-item &gt; .nav-link {&#xD;&#xA;  font-weight: bold;&#xD;&#xA;}&#xD;&#xA;&#xD;&#xA;.table thead th, .dataTable-table thead th {&#xD;&#xA;  vertical-align: middle;&#xD;&#xA;  padding: 0.75rem 0.25rem;&#xD;&#xA;  font-weight: bold;&#xD;&#xA;}&#xD;&#xA;&#xD;&#xA;.ew-grid .ew-table &gt; thead &gt; tr &gt; th {&#xD;&#xA;  font-weight: bold;&#xD;&#xA;  vertical-align: center;&#xD;&#xA;  text-align: center;&#xD;&#xA;}&#xD;&#xA;&#xD;&#xA;.table-sm &gt; :not(caption) &gt; * &gt; * {&#xD;&#xA;  padding: 0.25rem 0.75rem;&#xD;&#xA;}&#xD;&#xA;&#xD;&#xA;[class*=sidebar-light-] .nav-treeview &gt; .nav-item &gt; .nav-link.active, [class*=sidebar-light-] .nav-treeview &gt; .nav-item &gt; .nav-link.active:hover {&#xD;&#xA;  background-color: rgba(255, 255, 255, 0.1);&#xD;&#xA;  color: #212529;&#xD;&#xA;}&#xD;&#xA;&#xD;&#xA;.ew-grid .ew-table tr td.ew-list-option-body {&#xD;&#xA;  text-align: center;&#xD;&#xA;}&#xD;&#xA;&#xD;&#xA;.ew-grid .ew-table tr td[data-name=cdate] {&#xD;&#xA;  text-align: center;&#xD;&#xA;}&#xD;&#xA;&#xD;&#xA;.btn-primary {&#xD;&#xA;  color: #FFFFFF;&#xD;&#xA;  background-color: #021789;&#xD;&#xA;  border-color: #021789;&#xD;&#xA;}&#xD;&#xA;&#xD;&#xA;.page-item.active .page-link {&#xD;&#xA;  z-index: 3;&#xD;&#xA;  color: #FFFFFF;&#xD;&#xA;  background-color: #021789;&#xD;&#xA;  border-color: #021789;&#xD;&#xA;}&#xD;&#xA;&#xD;&#xA;.page-link {&#xD;&#xA;  position: relative;&#xD;&#xA;  display: block;&#xD;&#xA;  color: #021789;&#xD;&#xA;  background-color: #FFFFFF;&#xD;&#xA;  border: 1px solid #DEE2E6;&#xD;&#xA;  transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;&#xD;&#xA;}&#xD;&#xA;&#xD;&#xA;a {&#xD;&#xA;  color: #021789;&#xD;&#xA;  text-decoration: none;&#xD;&#xA;}&#xD;&#xA;&#xD;&#xA;.ew-search-operator, .ew-search-operator2 {&#xD;&#xA;  display: none;&#xD;&#xA;}&#xD;&#xA;&#xD;&#xA;.ew-search-caption, .ew-search-operator, .ew-search-cond, .ew-search-and, .ew-search-operator2, .ew-search-field, .ew-search-field2 {&#xD;&#xA;  margin-right: 0.5rem;&#xD;&#xA;  display: flex;&#xD;&#xA;  align-items: center;&#xD;&#xA;}&#xD;&#xA;&#xD;&#xA;" OtherGenList="reportcontroller=0,custom=0,custom|class=0,@lang_english.xml=1,composer.json=1,userpackagejson=1,src=1,colorbox=1,plugins=1,fonts=1,bootstrap=1,adminlte=1,css=1,@adminltecss=1,projcss=1,swagger=1,swaggerhtml=1,swaggeryaml=1,js=1,jquery=1,swjs=1,push_notification=1,html=1,htaccess=1,webconfig=1,apihtaccess=1,constants=1,config=1,configdev=1,configprod=1,userlevelsettings=1,layout=1,menu=1,phpfn=1,userfn=1,userglobaljs=1,usereventjs=1,email=1,error=1,error|class=1,privacy=1,privacy|class=1,cookieconsent=1,personal_data=1,personal_data|class=1,login=1,login|class=1,reset_password=1,reset_password|class=1,change_password=1,change_password|class=1,userpriv=1,userpriv|class=1,logout|class=1,apiindex=1,index=1,definitions=1,apiroutes=1,routes=1,controllerbase=1,otherscontroller=1,apicontroller=1,exportpdfcss=1,exportpdf=1,exportreportpdf=1,datetimepickerjs=1,datetimepickerscss=1,eweditor.js=1,chartjs=1,chartjsrenderer=1,filemanager.config.json.php=1,filemanager.php=1,fixedheadertablejs=1,fixedheadertableminjs=1,fixedheadertablejsmap=1,exportphpword=1,exportreportword=1,exportexcel5=1,exportexcel2007=1,exportreportexcel=1,previewjs=1,recaptcha.php=1" OtherExpanded="1" MD5Password="1" CaseSensitivePassword="1" RecPerPage="25" GrpPerPage="3" GrpPerPageList="1,2,3,5,ALL" ExportType="ALL" SortType="2" PagerStyle="1" RepeatColumns="5" AppRootFolder="C:\xampp\htdocs\juzmatch-backend-new\" RootRelativePath="." EmailComponent="PHP" RecipientEmail="sawit204@gmail.com" SMTPServerUsername="0lKY5TahhCvOG3rF2yWFc1b_PbOtJHMF19YeMQD5z5c" SMTPServerPassword="ZNOAZ4bd__DM8ERDhK-r0Q" LoginOption="AUTO" ChartMenuItems="1" MultiPageType="Pills" CheckConcurrentUser="1" CheckLoginRetry="1" UserProfileRetryLockout="120" CheckPasswordExpiry="1" AuditTrailToDB="1" AuditTrailTable="audittrail" AuditTrailFieldDateTime="datetime" AuditTrailFieldScript="script" AuditTrailFieldUser="user" AuditTrailFieldAction="action" AuditTrailFieldTable="table" AuditTrailFieldField="field" AuditTrailFieldKeyValue="keyvalue" AuditTrailFieldOldValue="oldvalue" AuditTrailFieldNewValue="newvalue" GitRemoteUrl="1xlMDx738-jxWbptuM8q6tMK07xXqgd7EK4JgR1byZpmFLm6SK7kxaOSnALKWJPNkQnTO1PEPHu4iZGqM8BUVw" GitUserName="0lKY5TahhCvOG3rF2yWFc1b_PbOtJHMF19YeMQD5z5c" GitPassword="G79JaWID_eSO8vQMFEHd_lDuLrH9tsCY8dWani9_WDvJpaOZQzLZd2mPehjAT-ON" Restore="1" Require="{&quot;google\/cloud-storage&quot;:&quot;^1.25.1&quot;}" BrandHref="./" WebPushAnonymous="1" UseWebPushNotification="1" SubscriptionTable="subdistrict" PushServerPublicKey="BO8nOPUcQdN9x6gAFqVk2LHLXxwoizM0uR6nACJEDiqN9L5B3uluPtu9MW6oOIXSsO02-8YQz0UnC-pDXN1TuMw" PushServerPrivateKey="GlHa5g6hm0SnjTcyyIpN-irvuC4F41G1jxfBuSWNjag">
   <Database DBID="DB" DBName="juzmatch" DBType="MySQL" DBConnectionMethod="URL" DBURL="https://uatbackend.juzmatch.com/tunnel.php" DBHost="203.150.19.170" DBPort="3306" DBUID="u-kf2kJ16wONmhv2ryv7ag" DBPwd="WB_5Rb-d8crYwhS70KDsGT9RShal5y5_l1_yskRzOx4" DBQuoteS="`" DBQuoteE="`" DBDBMSName="MySQL" DBDBMSVer="50733" DBProviderName="e.World Technology Ltd." DBProviderVer="18" MaxUploadSize="2000000" SecUserLevelFld="user_level_id" SecDefault="0,&quot;Default&quot;,0;1,&quot;Juzmatch Admin&quot;,47" SecuUserIDFld="users_id" SecUserProfileFld="memo" UseDynamicUserLevel="1" UserLevelTbl="userlevels" UserLevelIdFld="userlevelid" UserLevelNameFld="userlevelname" UserLevelPrivTbl="userlevelpermissions" UserLevelPrivTblNameFld="tablename" UserLevelPrivUserLevelFld="userlevelid" UserLevelPrivPrivFld="permission">
     <Table TblName="address" TblType="TABLE" TblGen="1" TblGenList="controller=0,info=0,list=0,list|class=0,grid=0,grid|class=0,add=0,add|class=0,view=0,view|class=0,edit=0,edit|class=0,delete=0,delete|class=0,preview=0,preview|class=0" TblList="1" TblView="1" TblEdit="1" TblAdd="1" TblIsDetail="1" TblDelete="1" TblCaption="ที่อยู่" TblUpdatable="1" TblSrchType="BASIC" TblSearchHighlight="1" TblBasicSearch="1" TblExtendedBasicSearch="1" TblSecurity="0,&quot;Default&quot;,0;1,&quot;Juzmatch Admin&quot;,47" TblLoaded="1" TblShowEmptyRows="0" TblUseGlobal="1" TblRecPerPage="20" TblRecPerPageList="10,20,50,ALL" TblGrpPerPage="3" TblGrpPerPageList="1,2,3,5,ALL" TblPagerStyle="2" TblAuditTrail="1" TblDisplayRowCount="1" TblUseButtonsForLinks="1" TblUseDropDownForAction="1" TblUseDropDownForListOptions="1" TblUseDropDownForExport="1">
       <Field FldName="address_id" FldType="3" FldTypeName="INT" NativeDataType="3" FldSupport="1" FldSort="0" FldSize="11" FldIsPrimaryKey="1" FldAutoIncrement="1" FldAttribute="96" FldValidate="INTEGER" FldGenerate="1" FldSrchOpr="=" FldCaption="address id" FldViewTag="FORMATTED TEXT" FldHtmlTag="NO" FldSelectType="Values" FldTagAPrefix="None" FldIncLeadDigit="-2" FldUseParen="-2" FldGpDigits="-2" FldColumnWrap="0" FldResizeQuality="75" />
@@ -166,6 +166,8 @@
       <Field FldName="monthly_expenses_a" FldType="4" FldTypeName="FLOAT" NativeDataType="4" FldSupport="1" FldSize="12" FldAttribute="100" FldValidate="FLOAT" FldGenerate="1" FldExport="1" FldView="1" FldEdit="1" FldAdd="1" FldAddOpt="1" FldSearch="1" FldSrchOpr="=" FldCaption="ผลตอบแทนรายเดือนที่นักลงทุนจะได้รับ/ค่าใช้จ่ายต่อเดือนสำหรับผู้ซื้อ (โมเดลการเช่าซื้อ)" FldViewTag="FORMATTED TEXT" FldHtmlTag="TEXT" FldTagSize="30" FldSelectType="Values" FldTagAPrefix="None" FldFmtType="Currency" FldNumDigits="2" FldIncLeadDigit="-2" FldUseParen="-2" FldGpDigits="-2" FldMultiUpdate="1" FldResizeQuality="75" />
       <Field FldName="average_rent_a" FldType="4" FldTypeName="FLOAT" NativeDataType="4" FldSupport="1" FldSize="12" FldAttribute="100" FldValidate="FLOAT" FldGenerate="1" FldExport="1" FldView="1" FldEdit="1" FldAdd="1" FldAddOpt="1" FldSearch="1" FldSrchOpr="=" FldCaption="ค่าเช่าเฉลี่ย (โมเดลการเช่าซื้อ)" FldViewTag="FORMATTED TEXT" FldHtmlTag="TEXT" FldTagSize="30" FldSelectType="Values" FldTagAPrefix="None" FldFmtType="Currency" FldNumDigits="2" FldIncLeadDigit="-2" FldUseParen="-2" FldGpDigits="-2" FldMultiUpdate="1" FldResizeQuality="75" />
       <Field FldName="average_down_payment_a" FldType="4" FldTypeName="FLOAT" NativeDataType="4" FldSupport="1" FldSize="12" FldAttribute="100" FldValidate="FLOAT" FldGenerate="1" FldExport="1" FldView="1" FldEdit="1" FldAdd="1" FldAddOpt="1" FldSearch="1" FldSrchOpr="=" FldCaption="เงินดาวน์เฉลี่ย (โมเดลการเช่าซื้อ)" FldViewTag="FORMATTED TEXT" FldHtmlTag="TEXT" FldTagSize="30" FldSelectType="Values" FldTagAPrefix="None" FldFmtType="Currency" FldNumDigits="2" FldIncLeadDigit="-2" FldUseParen="-2" FldGpDigits="-2" FldMultiUpdate="1" FldResizeQuality="75" />
+      <Field FldName="transfer_day_expenses_without_business_tax_max_min" FldType="4" FldTypeName="FLOAT" NativeDataType="4" FldSupport="1" FldSize="12" FldAttribute="100" FldValidate="FLOAT" FldGenerate="1" FldExport="1" FldView="1" FldEdit="1" FldAdd="1" FldAddOpt="1" FldSearch="1" FldSrchOpr="=" FldCaption="ค่าใช้จ่ายวันโอนแบบไม่มีภาษีธุรกิจเฉพาะ" FldViewTag="FORMATTED TEXT" FldHtmlTag="TEXT" FldTagSize="30" FldTagMaxLength="12" FldSelectType="Values" FldTagAPrefix="None" FldFmtType="Percent" FldNumDigits="2" FldIncLeadDigit="-2" FldUseParen="-2" FldGpDigits="-2" FldMultiUpdate="1" FldResizeQuality="75" />
+      <Field FldName="transfer_day_expenses_with_business_tax_max_min" FldType="4" FldTypeName="FLOAT" NativeDataType="4" FldSupport="1" FldSize="12" FldAttribute="100" FldValidate="FLOAT" FldGenerate="1" FldExport="1" FldView="1" FldEdit="1" FldAdd="1" FldAddOpt="1" FldSearch="1" FldSrchOpr="=" FldCaption="ค่าใช้จ่ายวันโอนแบบมีภาษีธุรกิจเฉพาะ" FldViewTag="FORMATTED TEXT" FldHtmlTag="TEXT" FldTagSize="30" FldTagMaxLength="12" FldSelectType="Values" FldTagAPrefix="None" FldFmtType="Percent" FldNumDigits="2" FldIncLeadDigit="-2" FldUseParen="-2" FldGpDigits="-2" FldMultiUpdate="1" FldResizeQuality="75" />
       <Field FldName="bank_appraisal_price" FldType="4" FldTypeName="FLOAT" NativeDataType="4" FldSupport="1" FldSize="12" FldAttribute="100" FldValidate="FLOAT" FldGenerate="1" FldExport="1" FldView="1" FldEdit="1" FldAdd="1" FldAddOpt="1" FldSearch="1" FldSrchOpr="=" FldCaption="ราคาประเมินธนาคาร (โมเดลขายขาด 6%)" FldViewTag="FORMATTED TEXT" FldHtmlTag="TEXT" FldTagSize="30" FldSelectType="Values" FldTagAPrefix="None" FldFmtType="Currency" FldNumDigits="2" FldIncLeadDigit="-2" FldUseParen="-2" FldGpDigits="-2" FldMultiUpdate="1" FldResizeQuality="75" />
       <Field FldName="mark_up_price" FldType="4" FldTypeName="FLOAT" NativeDataType="4" FldSupport="1" FldSize="12" FldAttribute="100" FldValidate="FLOAT" FldGenerate="1" FldExport="1" FldView="1" FldEdit="1" FldAdd="1" FldAddOpt="1" FldSearch="1" FldSrchOpr="=" FldCaption="Mark Up Price (โมเดลขายขาด 6%)" FldViewTag="FORMATTED TEXT" FldHtmlTag="TEXT" FldTagSize="30" FldSelectType="Values" FldTagAPrefix="None" FldFmtType="Percent" FldNumDigits="2" FldIncLeadDigit="-2" FldUseParen="-2" FldGpDigits="-2" FldMultiUpdate="1" FldResizeQuality="75" />
       <Field FldName="required_gap" FldType="4" FldTypeName="FLOAT" NativeDataType="4" FldSupport="1" FldSize="12" FldAttribute="100" FldValidate="FLOAT" FldGenerate="1" FldExport="1" FldView="1" FldEdit="1" FldAdd="1" FldAddOpt="1" FldSearch="1" FldSrchOpr="=" FldCaption="required gap (โมเดลขายขาด 6%)" FldViewTag="FORMATTED TEXT" FldHtmlTag="TEXT" FldTagSize="30" FldSelectType="Values" FldTagAPrefix="None" FldFmtType="Percent" FldNumDigits="2" FldIncLeadDigit="-2" FldUseParen="-2" FldGpDigits="-2" FldMultiUpdate="1" FldResizeQuality="75" />
@@ -173,10 +175,13 @@
       <Field FldName="price_down_max" FldType="4" FldTypeName="FLOAT" NativeDataType="4" FldSupport="1" FldSize="12" FldAttribute="100" FldValidate="FLOAT" FldGenerate="1" FldExport="1" FldView="1" FldEdit="1" FldAdd="1" FldAddOpt="1" FldSearch="1" FldSrchOpr="=" FldCaption="ราคาขายที่แสดงหน้าเวป (โมเดลขายขาด 6%)" FldViewTag="FORMATTED TEXT" FldHtmlTag="TEXT" FldTagSize="30" FldSelectType="Values" FldTagAPrefix="None" FldFmtType="Currency" FldNumDigits="2" FldIncLeadDigit="-2" FldUseParen="-2" FldGpDigits="-2" FldMultiUpdate="1" FldResizeQuality="75" />
       <Field FldName="discount_max" FldType="4" FldTypeName="FLOAT" NativeDataType="4" FldSupport="1" FldSize="12" FldAttribute="100" FldValidate="FLOAT" FldGenerate="1" FldExport="1" FldView="1" FldEdit="1" FldAdd="1" FldAddOpt="1" FldSearch="1" FldSrchOpr="=" FldCaption="ส่วนลด (โมเดลขายขาด 6%)" FldViewTag="FORMATTED TEXT" FldHtmlTag="TEXT" FldTagSize="30" FldSelectType="Values" FldTagAPrefix="None" FldFmtType="Currency" FldNumDigits="2" FldIncLeadDigit="-2" FldUseParen="-2" FldGpDigits="-2" FldMultiUpdate="1" FldResizeQuality="75" />
       <Field FldName="price_down_special_max" FldType="4" FldTypeName="FLOAT" NativeDataType="4" FldSupport="1" FldSize="12" FldAttribute="100" FldValidate="FLOAT" FldGenerate="1" FldExport="1" FldView="1" FldEdit="1" FldAdd="1" FldAddOpt="1" FldSearch="1" FldSrchOpr="=" FldCaption="ราคาพิเศษที่แสดงหน้าเวป (โมเดลขายขาด 6%)" FldViewTag="FORMATTED TEXT" FldHtmlTag="TEXT" FldTagSize="30" FldSelectType="Values" FldTagAPrefix="None" FldFmtType="Number" FldNumDigits="2" FldIncLeadDigit="-2" FldUseParen="-2" FldGpDigits="-2" FldMultiUpdate="1" FldResizeQuality="75" />
+      <Field FldName="usable_area_price_max" FldType="4" FldTypeName="FLOAT" NativeDataType="4" FldSupport="1" FldSize="12" FldAttribute="100" FldValidate="FLOAT" FldGenerate="1" FldExport="1" FldView="1" FldEdit="1" FldAdd="1" FldAddOpt="1" FldSearch="1" FldSrchOpr="=" FldCaption="ราคาพื้นที่ใช้สอย / ต่อตารางเมตร (คอนโด)" FldViewTag="FORMATTED TEXT" FldHtmlTag="TEXT" FldTagSize="30" FldTagMaxLength="12" FldSelectType="Values" FldTagAPrefix="None" FldFmtType="Currency" FldNumDigits="2" FldIncLeadDigit="-2" FldUseParen="-2" FldGpDigits="-2" FldMultiUpdate="1" FldResizeQuality="75" />
+      <Field FldName="land_size_price_max" FldType="4" FldTypeName="FLOAT" NativeDataType="4" FldSupport="1" FldSize="12" FldAttribute="100" FldValidate="FLOAT" FldGenerate="1" FldExport="1" FldView="1" FldEdit="1" FldAdd="1" FldAddOpt="1" FldSearch="1" FldSrchOpr="=" FldCaption="ราคาพื้นที่ใช้สอย / ตารางวา (บ้าน ทาวเฮ้าส์)" FldViewTag="FORMATTED TEXT" FldHtmlTag="TEXT" FldTagSize="30" FldTagMaxLength="12" FldSelectType="Values" FldTagAPrefix="None" FldFmtType="Currency" FldNumDigits="2" FldIncLeadDigit="-2" FldUseParen="-2" FldGpDigits="-2" FldMultiUpdate="1" FldResizeQuality="75" />
       <Field FldName="reservation_price_max" FldType="4" FldTypeName="FLOAT" NativeDataType="4" FldSupport="1" FldSize="12" FldAttribute="100" FldValidate="FLOAT" FldGenerate="1" FldExport="1" FldView="1" FldEdit="1" FldAdd="1" FldAddOpt="1" FldSearch="1" FldSrchOpr="=" FldCaption="เงินจอง (โมเดลขายขาด 6%)" FldViewTag="FORMATTED TEXT" FldHtmlTag="TEXT" FldTagSize="30" FldSelectType="Values" FldTagAPrefix="None" FldFmtType="Currency" FldNumDigits="2" FldIncLeadDigit="-2" FldUseParen="-2" FldGpDigits="-2" FldMultiUpdate="1" FldResizeQuality="75" />
       <Field FldName="minimum_down_payment_max" FldType="4" FldTypeName="FLOAT" NativeDataType="4" FldSupport="1" FldSize="12" FldAttribute="100" FldValidate="FLOAT" FldGenerate="1" FldExport="1" FldView="1" FldEdit="1" FldAdd="1" FldAddOpt="1" FldSearch="1" FldSrchOpr="=" FldCaption="เงินดาวน์ขั้นต่ำ %  (โมเดลขายขาด 6%)" FldViewTag="FORMATTED TEXT" FldHtmlTag="TEXT" FldTagSize="30" FldSelectType="Values" FldTagAPrefix="None" FldFmtType="Percent" FldNumDigits="2" FldIncLeadDigit="-2" FldUseParen="-2" FldGpDigits="-2" FldMultiUpdate="1" FldResizeQuality="75" />
       <Field FldName="down_price_max" FldType="4" FldTypeName="FLOAT" NativeDataType="4" FldSupport="1" FldSize="12" FldAttribute="100" FldValidate="FLOAT" FldGenerate="1" FldExport="1" FldView="1" FldEdit="1" FldAdd="1" FldAddOpt="1" FldSearch="1" FldSrchOpr="=" FldCaption="เงินดาวน์ขั้นต่ำ (โมเดลขายขาด 6%)" FldViewTag="FORMATTED TEXT" FldHtmlTag="TEXT" FldTagSize="30" FldSelectType="Values" FldTagAPrefix="None" FldFmtType="Currency" FldNumDigits="2" FldIncLeadDigit="-2" FldUseParen="-2" FldGpDigits="-2" FldMultiUpdate="1" FldResizeQuality="75" />
       <Field FldName="down_price" FldType="4" FldTypeName="FLOAT" NativeDataType="4" FldSupport="1" FldSize="12" FldAttribute="100" FldValidate="FLOAT" FldGenerate="1" FldExport="1" FldView="1" FldEdit="1" FldAdd="1" FldAddOpt="1" FldSearch="1" FldSrchOpr="=" FldCaption="เงินดาวน์ที่ต้องการจ่าย (โมเดลขายขาด 6%) Buyer" FldViewTag="FORMATTED TEXT" FldHtmlTag="TEXT" FldTagSize="30" FldSelectType="Values" FldTagAPrefix="None" FldFmtType="Currency" FldNumDigits="2" FldIncLeadDigit="-2" FldUseParen="-2" FldGpDigits="-2" FldMultiUpdate="1" FldResizeQuality="75" />
+      <Field FldName="factor_monthly_installment_over_down_max" FldType="4" FldTypeName="FLOAT" NativeDataType="4" FldSupport="1" FldSize="12" FldAttribute="100" FldValidate="FLOAT" FldGenerate="1" FldExport="1" FldView="1" FldEdit="1" FldAdd="1" FldAddOpt="1" FldSearch="1" FldSrchOpr="=" FldCaption="Factor เงินผ่อนต่อเดือนส่วนที่จ่ายเงินดาวน์เกิน" FldViewTag="FORMATTED TEXT" FldHtmlTag="TEXT" FldTagSize="30" FldTagMaxLength="12" FldSelectType="Values" FldTagAPrefix="None" FldFmtType="Number" FldNumDigits="2" FldIncLeadDigit="-2" FldUseParen="-2" FldGpDigits="-2" FldMultiUpdate="1" FldResizeQuality="75" />
       <Field FldName="fee_max" FldType="3" FldTypeName="INT" NativeDataType="3" FldSupport="1" FldSize="11" FldAttribute="100" FldValidate="INTEGER" FldGenerate="1" FldExport="1" FldView="1" FldEdit="1" FldAdd="1" FldAddOpt="1" FldSearch="1" FldSrchOpr="=" FldCaption="ค่าธรรมเนียม (โมเดลขายขาด 6%)" FldViewTag="FORMATTED TEXT" FldHtmlTag="TEXT" FldTagSize="30" FldSelectType="Values" FldTagAPrefix="None" FldFmtType="Number" FldIncLeadDigit="-2" FldUseParen="-2" FldGpDigits="-2" FldMultiUpdate="1" FldResizeQuality="75" />
       <Field FldName="annual_interest_buyer" FldType="4" FldTypeName="FLOAT" NativeDataType="4" FldSupport="1" FldSize="12" FldAttribute="100" FldValidate="FLOAT" FldGenerate="1" FldExport="1" FldView="1" FldEdit="1" FldAdd="1" FldAddOpt="1" FldSearch="1" FldSrchOpr="=" FldCaption="ดอกเบี้ยรายปี (โมเดลขายขาด 6%)" FldViewTag="FORMATTED TEXT" FldHtmlTag="TEXT" FldTagSize="30" FldSelectType="Values" FldTagAPrefix="None" FldFmtType="Percent" FldNumDigits="2" FldIncLeadDigit="-2" FldUseParen="-2" FldGpDigits="-2" FldMultiUpdate="1" FldResizeQuality="75" />
       <Field FldName="monthly_expense_max" FldType="4" FldTypeName="FLOAT" NativeDataType="4" FldSupport="1" FldSize="12" FldAttribute="100" FldValidate="FLOAT" FldGenerate="1" FldExport="1" FldView="1" FldEdit="1" FldAdd="1" FldAddOpt="1" FldSearch="1" FldSrchOpr="=" FldCaption="ผลตอบแทนรายเดือนที่นักลงทุนจะได้รับ/ค่าใช้จ่ายต่อเดือนสำหรับผู้ซื้อ (โมเดลขายขาด 6%)" FldViewTag="FORMATTED TEXT" FldHtmlTag="TEXT" FldTagSize="30" FldSelectType="Values" FldTagAPrefix="None" FldFmtType="Currency" FldNumDigits="2" FldIncLeadDigit="-2" FldUseParen="-2" FldGpDigits="-2" FldMultiUpdate="1" FldResizeQuality="75" />
@@ -189,6 +194,8 @@
       <Field FldName="price_down_min" FldType="4" FldTypeName="FLOAT" NativeDataType="4" FldSupport="1" FldSize="12" FldAttribute="100" FldValidate="FLOAT" FldGenerate="1" FldExport="1" FldView="1" FldEdit="1" FldAdd="1" FldAddOpt="1" FldSearch="1" FldSrchOpr="=" FldCaption="ราคาขายที่แสดงหน้าเวบ (โมเดลขายขาด 2%)" FldViewTag="FORMATTED TEXT" FldHtmlTag="TEXT" FldTagSize="30" FldSelectType="Values" FldTagAPrefix="None" FldFmtType="Currency" FldNumDigits="2" FldIncLeadDigit="-2" FldUseParen="-2" FldGpDigits="-2" FldMultiUpdate="1" FldResizeQuality="75" />
       <Field FldName="discount_min" FldType="4" FldTypeName="FLOAT" NativeDataType="4" FldSupport="1" FldSize="12" FldAttribute="100" FldValidate="FLOAT" FldGenerate="1" FldExport="1" FldView="1" FldEdit="1" FldAdd="1" FldAddOpt="1" FldSearch="1" FldSrchOpr="=" FldCaption="ส่วนลด (โมเดลขายขาด 2%)" FldViewTag="FORMATTED TEXT" FldHtmlTag="TEXT" FldTagSize="30" FldTagMaxLength="12" FldSelectType="Values" FldTagAPrefix="None" FldFmtType="Currency" FldNumDigits="2" FldIncLeadDigit="-2" FldUseParen="-2" FldGpDigits="-2" FldMultiUpdate="1" FldResizeQuality="75" />
       <Field FldName="price_down_special_min" FldType="4" FldTypeName="FLOAT" NativeDataType="4" FldSupport="1" FldSize="12" FldAttribute="100" FldValidate="FLOAT" FldGenerate="1" FldExport="1" FldView="1" FldEdit="1" FldAdd="1" FldAddOpt="1" FldSearch="1" FldSrchOpr="=" FldCaption="ราคาพิเศษที่แสดงหน้าเวบ (โมเดลขายขาด 2%)" FldViewTag="FORMATTED TEXT" FldHtmlTag="TEXT" FldTagSize="30" FldSelectType="Values" FldTagAPrefix="None" FldFmtType="Currency" FldNumDigits="2" FldIncLeadDigit="-2" FldUseParen="-2" FldGpDigits="-2" FldMultiUpdate="1" FldResizeQuality="75" />
+      <Field FldName="usable_area_price_min" FldType="4" FldTypeName="FLOAT" NativeDataType="4" FldSupport="1" FldSize="12" FldAttribute="100" FldValidate="FLOAT" FldGenerate="1" FldExport="1" FldView="1" FldEdit="1" FldAdd="1" FldAddOpt="1" FldSearch="1" FldSrchOpr="=" FldCaption="ราคาพื้นที่ใช้สอย / ต่อตารางเมตร (คอนโด)" FldViewTag="FORMATTED TEXT" FldHtmlTag="TEXT" FldTagSize="30" FldTagMaxLength="12" FldSelectType="Values" FldTagAPrefix="None" FldFmtType="Number" FldNumDigits="2" FldIncLeadDigit="-2" FldUseParen="-2" FldGpDigits="-2" FldMultiUpdate="1" FldResizeQuality="75" />
+      <Field FldName="land_size_price_min" FldType="4" FldTypeName="FLOAT" NativeDataType="4" FldSupport="1" FldSize="12" FldAttribute="100" FldValidate="FLOAT" FldGenerate="1" FldExport="1" FldView="1" FldEdit="1" FldAdd="1" FldAddOpt="1" FldSearch="1" FldSrchOpr="=" FldCaption="ราคาพื้นที่ใช้สอย / ตารางวา (บ้าน ทาวเฮ้าส์)" FldViewTag="FORMATTED TEXT" FldHtmlTag="TEXT" FldTagSize="30" FldTagMaxLength="12" FldSelectType="Values" FldTagAPrefix="None" FldFmtType="Percent" FldNumDigits="2" FldIncLeadDigit="-2" FldUseParen="-2" FldGpDigits="-2" FldMultiUpdate="1" FldResizeQuality="75" />
       <Field FldName="reservation_price_min" FldType="4" FldTypeName="FLOAT" NativeDataType="4" FldSupport="1" FldSize="12" FldAttribute="100" FldValidate="FLOAT" FldGenerate="1" FldExport="1" FldView="1" FldEdit="1" FldAdd="1" FldAddOpt="1" FldSearch="1" FldSrchOpr="=" FldCaption="เงินจอง (โมเดลขายขาด 2%)" FldViewTag="FORMATTED TEXT" FldHtmlTag="TEXT" FldTagSize="30" FldSelectType="Values" FldTagAPrefix="None" FldFmtType="Currency" FldNumDigits="2" FldIncLeadDigit="-2" FldUseParen="-2" FldGpDigits="-2" FldMultiUpdate="1" FldResizeQuality="75" />
       <Field FldName="minimum_down_payment_min" FldType="4" FldTypeName="FLOAT" NativeDataType="4" FldSupport="1" FldSize="12" FldAttribute="100" FldValidate="FLOAT" FldGenerate="1" FldExport="1" FldView="1" FldEdit="1" FldAdd="1" FldAddOpt="1" FldSearch="1" FldSrchOpr="=" FldCaption="เงินดาวน์ขั้นต่ำ % (โมเดลขายขาด 2%)" FldViewTag="FORMATTED TEXT" FldHtmlTag="TEXT" FldTagSize="30" FldSelectType="Values" FldTagAPrefix="None" FldFmtType="Percent" FldNumDigits="2" FldIncLeadDigit="-2" FldUseParen="-2" FldGpDigits="-2" FldMultiUpdate="1" FldResizeQuality="75" />
       <Field FldName="down_price_min" FldType="4" FldTypeName="FLOAT" NativeDataType="4" FldSupport="1" FldSize="12" FldAttribute="100" FldValidate="FLOAT" FldGenerate="1" FldExport="1" FldView="1" FldEdit="1" FldAdd="1" FldAddOpt="1" FldSearch="1" FldSrchOpr="=" FldCaption="เงินดาวน์ขั้นต่ำ (โมเดลขายขาด 2%)" FldViewTag="FORMATTED TEXT" FldHtmlTag="TEXT" FldTagSize="30" FldSelectType="Values" FldTagAPrefix="None" FldFmtType="Currency" FldNumDigits="2" FldIncLeadDigit="-2" FldUseParen="-2" FldGpDigits="-2" FldMultiUpdate="1" FldResizeQuality="75" />
@@ -360,7 +367,7 @@
       <Field FldName="udate" FldType="135" FldTypeName="DATETIME" NativeDataType="12" FldSupport="1" FldSort="0" FldSize="19" FldAttribute="100" FldValidate="DATE" FldPopCalendar="1" FldGenerate="1" FldEdit="1" FldAdd="1" FldAddOpt="1" FldSearch="1" FldSrchOpr="=" FldCaption="Update Date" FldViewTag="FORMATTED TEXT" FldHtmlTag="TEXT" FldSelectType="Values" FldTagAPrefix="None" FldFmtType="Date/Time" FldIncLeadDigit="-2" FldUseParen="-2" FldGpDigits="-2" FldQuoteS="'" FldQuoteE="'" FldAutoUpdateValue="CurrentDateTime()" FldMultiUpdate="1" FldResizeQuality="75" />
       <Field FldName="uip" FldType="200" FldTypeName="VARCHAR" NativeDataType="253" FldSupport="1" FldSort="0" FldSize="255" FldAttribute="100" FldGenerate="1" FldEdit="1" FldAdd="1" FldAddOpt="1" FldSearch="1" FldSrchOpr="LIKE" FldCaption="Update IP" FldViewTag="FORMATTED TEXT" FldHtmlTag="TEXT" FldTagSize="30" FldTagMaxLength="255" FldSelectType="Values" FldTagAPrefix="None" FldIncLeadDigit="-2" FldUseParen="-2" FldGpDigits="-2" FldQuoteS="'" FldQuoteE="'" FldAutoUpdateValue="CurrentUserIP()" FldMultiUpdate="1" FldResizeQuality="75" />
     </Table>
-    <Table TblName="asset_view" TblType="VIEW" TblGen="1" TblGenList="controller=0,info=0,list=0,list|class=0" TblList="1" TblCaption="Asset View" TblUpdatable="1" TblSQL="select (case when ((`asset`.`type_pay` = 1) and (`asset`.`type_pay_2` = 1)) then (case when (`asset`.`price_down_max` &lt;= `asset`.`bank_appraisal_price`) then (case when (isnull(`asset`.`price_down_special_max`) or (`asset`.`price_down_special_max` = '')) then `asset`.`price_down_max` else `asset`.`price_down_special_max` end) when (`asset`.`price_down_max` &gt;= `asset`.`bank_appraisal_price`) then (case when (isnull(`asset`.`price_special`) or (`asset`.`price_special` = '')) then `asset`.`price` else `asset`.`price_special` end) when ((`asset`.`type_pay` = 1) and (`asset`.`type_pay_2` = 0)) then (case when (isnull(`asset`.`price_down_special_max`) or (`asset`.`price_down_special_max` = '')) then `asset`.`price_down_max` else `asset`.`price_down_special_max` end) end) when ((`asset`.`type_pay` = 1) and (`asset`.`type_pay_2` = 0)) then (case when (isnull(`asset`.`price_down_special_max`) or (`asset`.`price_down_special_max` = '')) then `asset`.`price_down_max` else `asset`.`price_down_special_max` end) when ((`asset`.`type_pay` = 0) and (`asset`.`type_pay_2` = 1)) then (case when (isnull(`asset`.`price_special`) or (`asset`.`price_special` = '')) then `asset`.`price` else `asset`.`price_special` end) else 0 end) AS `price_last`,`asset`.`asset_id` AS `asset_id` from ((((((((`asset` left join `asset_category` on((`asset_category`.`asset_id` = `asset`.`asset_id`))) left join `category` on((`category`.`category_id` = `asset_category`.`category_id`))) left join `brand` on((`brand`.`brand_id` = `asset`.`brand_id`))) left join `asset_attribute` on((`asset_attribute`.`asset_id` = `asset`.`asset_id`))) left join `asset_pros_detail` on((`asset_pros_detail`.`asset_id` = `asset`.`asset_id`))) left join `province` on((`asset`.`province_id` = `province`.`province_id`))) left join `amphur` on((`asset`.`amphur_id` = `amphur`.`amphur_id`))) left join `districts` on((`asset`.`district_id` = `districts`.`district_id`))) where (`asset`.`isactive` = 1) group by `asset`.`asset_id`" TblSrchType="BASIC" TblBasicSearch="0" TblExtendedBasicSearch="0" TblSecurity="0,&quot;Default&quot;,0;1,&quot;Juzmatch Admin&quot;,47" TblLoaded="1" TblShowEmptyRows="0" TblUseGlobal="1" TblRecPerPage="20" TblRecPerPageList="10,20,50,ALL" TblGrpPerPage="3" TblGrpPerPageList="1,2,3,5,ALL" TblPagerStyle="2" TblUseButtonsForLinks="1" TblUseDropDownForAction="1" TblUseDropDownForListOptions="1" TblUseDropDownForExport="1">
+    <Table TblName="asset_view" TblType="VIEW" TblGen="1" TblGenList="controller=0,info=0,list=0,list|class=0" TblList="1" TblCaption="Asset View" TblUpdatable="1" TblSrchType="BASIC" TblBasicSearch="0" TblExtendedBasicSearch="0" TblSecurity="0,&quot;Default&quot;,0;1,&quot;Juzmatch Admin&quot;,47" TblLoaded="1" TblShowEmptyRows="0" TblUseGlobal="1" TblRecPerPage="20" TblRecPerPageList="10,20,50,ALL" TblGrpPerPage="3" TblGrpPerPageList="1,2,3,5,ALL" TblPagerStyle="2" TblUseButtonsForLinks="1" TblUseDropDownForAction="1" TblUseDropDownForListOptions="1" TblUseDropDownForExport="1">
       <Field FldName="price_last" FldType="5" FldTypeName="DOUBLE" NativeDataType="5" FldSupport="1" FldSize="12" FldAttribute="100" FldValidate="FLOAT" FldGenerate="1" FldList="1" FldExport="1" FldView="1" FldEdit="1" FldAdd="1" FldAddOpt="1" FldSearch="1" FldSrchOpr="=" FldCaption="price last" FldViewTag="FORMATTED TEXT" FldHtmlTag="TEXT" FldTagSize="30" FldSelectType="Values" FldTagAPrefix="None" FldFmtType="Number" FldNumDigits="2" FldIncLeadDigit="-2" FldUseParen="-2" FldGpDigits="-2" FldMultiUpdate="1" FldResizeQuality="75" />
       <Field FldName="asset_id" FldType="3" FldTypeName="INT" NativeDataType="3" FldSupport="1" FldSize="11" FldReq="1" FldAttribute="4" FldValidate="INTEGER" FldRequired="1" FldGenerate="1" FldList="1" FldExport="1" FldView="1" FldEdit="1" FldAdd="1" FldAddOpt="1" FldSearch="1" FldSrchOpr="=" FldDefault="0" FldDbDefault="0" FldCaption="asset id" FldViewTag="FORMATTED TEXT" FldHtmlTag="TEXT" FldTagSize="30" FldSelectType="Values" FldTagAPrefix="None" FldFmtType="Number" FldIncLeadDigit="-2" FldUseParen="-2" FldGpDigits="-2" FldMultiUpdate="1" FldResizeQuality="75" />
     </Table>
@@ -527,6 +534,9 @@
       <Field FldName="udate" FldType="200" FldTypeName="VARCHAR" NativeDataType="253" FldSupport="1" FldSort="0" FldSize="255" FldAttribute="100" FldValidate="DATE" FldPopCalendar="1" FldGenerate="1" FldEdit="1" FldAdd="1" FldAddOpt="1" FldSearch="1" FldSrchOpr="=" FldCaption="Update Date" FldViewTag="FORMATTED TEXT" FldHtmlTag="TEXT" FldSelectType="Values" FldTagAPrefix="None" FldFmtType="Date/Time" FldIncLeadDigit="-2" FldUseParen="-2" FldGpDigits="-2" FldQuoteS="'" FldQuoteE="'" FldAutoUpdateValue="CurrentDateTime()" FldMultiUpdate="1" FldResizeQuality="75" />
       <Field FldName="uip" FldType="200" FldTypeName="VARCHAR" NativeDataType="253" FldSupport="1" FldSort="0" FldSize="255" FldAttribute="100" FldGenerate="1" FldEdit="1" FldAdd="1" FldAddOpt="1" FldSearch="1" FldSrchOpr="LIKE" FldCaption="Update IP" FldViewTag="FORMATTED TEXT" FldHtmlTag="TEXT" FldTagSize="30" FldTagMaxLength="255" FldSelectType="Values" FldTagAPrefix="None" FldIncLeadDigit="-2" FldUseParen="-2" FldGpDigits="-2" FldQuoteS="'" FldQuoteE="'" FldAutoUpdateValue="CurrentUserIP()" FldMultiUpdate="1" FldResizeQuality="75" />
       <Field FldName="uuser" FldType="200" FldTypeName="VARCHAR" NativeDataType="253" FldSupport="1" FldSort="0" FldSize="255" FldAttribute="100" FldValidate="INTEGER" FldGenerate="1" FldEdit="1" FldAdd="1" FldAddOpt="1" FldSearch="1" FldSrchOpr="=" FldCaption="Update User" FldViewTag="FORMATTED TEXT" FldHtmlTag="TEXT" FldTagSize="30" FldSelectType="Values" FldTagAPrefix="None" FldFmtType="Number" FldIncLeadDigit="-2" FldUseParen="-2" FldGpDigits="-2" FldQuoteS="'" FldQuoteE="'" FldAutoUpdateValue="CurrentUserID()" FldMultiUpdate="1" FldResizeQuality="75" />
+      <Field FldName="verify_phone_status" FldType="3" FldTypeName="INT" NativeDataType="3" FldSupport="1" FldSize="11" FldReq="1" FldAttribute="4" FldValidate="INTEGER" FldGenerate="1" FldList="1" FldExport="1" FldView="1" FldEdit="1" FldAdd="1" FldAddOpt="1" FldSearch="1" FldSrchOpr="=" FldDefault="0" FldDbDefault="0" FldCaption="verify phone status" FldViewTag="FORMATTED TEXT" FldHtmlTag="TEXT" FldTagSize="30" FldTagMaxLength="11" FldSelectType="Values" FldTagAPrefix="None" FldFmtType="Number" FldIncLeadDigit="-2" FldUseParen="-2" FldGpDigits="-2" FldMultiUpdate="1" FldResizeQuality="75" />
+      <Field FldName="verify_phone_date" FldType="135" FldTypeName="DATETIME" NativeDataType="12" FldSupport="1" FldSize="19" FldAttribute="100" FldValidate="DATE" FldPopCalendar="1" FldGenerate="1" FldList="1" FldExport="1" FldView="1" FldEdit="1" FldAdd="1" FldAddOpt="1" FldSearch="1" FldSrchOpr="=" FldCaption="verify phone date" FldViewTag="FORMATTED TEXT" FldHtmlTag="TEXT" FldTagMaxLength="19" FldSelectType="Values" FldTagAPrefix="None" FldFmtType="Date/Time" FldIncLeadDigit="-2" FldUseParen="-2" FldGpDigits="-2" FldQuoteS="'" FldQuoteE="'" FldMultiUpdate="1" FldResizeQuality="75" />
+      <Field FldName="verify_phone_ip" FldType="200" FldTypeName="VARCHAR" NativeDataType="253" FldSupport="1" FldSize="100" FldAttribute="100" FldGenerate="1" FldList="1" FldExport="1" FldView="1" FldEdit="1" FldAdd="1" FldAddOpt="1" FldSearch="1" FldBasicSearch="1" FldSrchOpr="LIKE" FldCaption="verify phone ip" FldViewTag="FORMATTED TEXT" FldHtmlTag="TEXT" FldTagSize="30" FldTagMaxLength="100" FldSelectType="Values" FldTagAPrefix="None" FldIncLeadDigit="-2" FldUseParen="-2" FldGpDigits="-2" FldQuoteS="'" FldQuoteE="'" FldMultiUpdate="1" FldResizeQuality="75" />
     </Table>
     <Table TblName="buyer_asset" TblType="LINKTABLE" TblGen="1" TblGenList="controller=0,info=0,master=0,list=0,list|class=0,grid=0,grid|class=0,preview=0,preview|class=0" TblList="1" TblIsMaster="1" TblIsDetail="1" TblCaption="สินทรัพย์ Buyer" TblUpdatable="1" TblSrchType="BASIC" TblBasicSearch="1" TblExtendedBasicSearch="1" TblFilter="&quot;`status_payment`=2&quot;" TblSecurity="0,&quot;Default&quot;,0;1,&quot;Juzmatch Admin&quot;,47" TblLoaded="1" TblShowEmptyRows="0" TblUseGlobal="1" TblRecPerPage="20" TblRecPerPageList="10,20,50,ALL" TblGrpPerPage="3" TblGrpPerPageList="1,2,3,5,ALL" TblPagerStyle="2" TblAuditTrail="1" TblDisplayRowCount="1" TblUseButtonsForLinks="1" TblUseDropDownForAction="1" TblUseDropDownForListOptions="1" TblUseDropDownForExport="1" LinkDBID="juzmatch1" LinkTableName="buyer_booking_asset" LinkTableType="TABLE">
       <Field FldName="buyer_booking_asset_id" FldType="3" FldTypeName="INT" NativeDataType="3" FldSupport="1" FldSort="0" FldSize="11" FldIsPrimaryKey="1" FldAutoIncrement="1" FldAttribute="96" FldValidate="INTEGER" FldGenerate="1" FldSrchOpr="=" FldCaption="buyer booking asset id" FldViewTag="FORMATTED TEXT" FldHtmlTag="NO" FldSelectType="Values" FldTagAPrefix="None" FldIncLeadDigit="-2" FldUseParen="-2" FldGpDigits="-2" FldColumnWrap="0" FldResizeQuality="75" />
@@ -551,6 +561,7 @@
       <Field FldName="udate" FldType="135" FldTypeName="DATETIME" NativeDataType="12" FldSupport="1" FldSize="19" FldReq="1" FldAttribute="4" FldValidate="DATE" FldRequired="1" FldPopCalendar="1" FldGenerate="1" FldExport="1" FldView="1" FldEdit="1" FldAdd="1" FldAddOpt="1" FldSearch="1" FldSrchOpr="=" FldCaption="Update Date" FldViewTag="FORMATTED TEXT" FldHtmlTag="TEXT" FldSelectType="Values" FldTagAPrefix="None" FldFmtType="Date/Time" FldIncLeadDigit="-2" FldUseParen="-2" FldGpDigits="-2" FldQuoteS="'" FldQuoteE="'" FldAutoUpdateValue="CurrentDateTime()" FldMultiUpdate="1" FldResizeQuality="75" />
       <Field FldName="uuser" FldType="3" FldTypeName="INT" NativeDataType="3" FldSupport="1" FldSize="11" FldReq="1" FldAttribute="4" FldValidate="INTEGER" FldRequired="1" FldGenerate="1" FldExport="1" FldView="1" FldEdit="1" FldAdd="1" FldAddOpt="1" FldSearch="1" FldSrchOpr="=" FldCaption="Update User" FldViewTag="FORMATTED TEXT" FldHtmlTag="TEXT" FldTagSize="30" FldSelectType="Values" FldTagAPrefix="None" FldFmtType="Number" FldIncLeadDigit="-2" FldUseParen="-2" FldGpDigits="-2" FldAutoUpdateValue="CurrentUserID()" FldMultiUpdate="1" FldResizeQuality="75" />
       <Field FldName="uip" FldType="200" FldTypeName="VARCHAR" NativeDataType="253" FldSupport="1" FldSize="255" FldReq="1" FldAttribute="4" FldRequired="1" FldGenerate="1" FldExport="1" FldView="1" FldEdit="1" FldAdd="1" FldAddOpt="1" FldSearch="1" FldSrchOpr="LIKE" FldCaption="Update IP" FldViewTag="FORMATTED TEXT" FldHtmlTag="TEXT" FldTagSize="30" FldTagMaxLength="255" FldSelectType="Values" FldTagAPrefix="None" FldIncLeadDigit="-2" FldUseParen="-2" FldGpDigits="-2" FldQuoteS="'" FldQuoteE="'" FldAutoUpdateValue="CurrentUserIP()" FldMultiUpdate="1" FldResizeQuality="75" />
+      <Field FldName="status_expire" FldType="3" FldTypeName="INT" NativeDataType="3" FldSupport="1" FldSize="11" FldReq="1" FldAttribute="4" FldValidate="INTEGER" FldGenerate="1" FldList="1" FldExport="1" FldView="1" FldEdit="1" FldAdd="1" FldAddOpt="1" FldSearch="1" FldSrchOpr="=" FldDefault="0" FldDbDefault="0" FldCaption="status expire" FldViewTag="FORMATTED TEXT" FldHtmlTag="TEXT" FldTagSize="30" FldTagMaxLength="11" FldSelectType="Values" FldTagAPrefix="None" FldFmtType="Number" FldIncLeadDigit="-2" FldUseParen="-2" FldGpDigits="-2" FldMultiUpdate="1" FldResizeQuality="75" />
     </Table>
     <Table TblName="buyer_booking_asset" TblType="TABLE" TblGen="1" TblGenList="controller=0,info=0,list=0,list|class=0,grid=0,grid|class=0,view=0,view|class=0,edit=0,edit|class=0,preview=0,preview|class=0" TblList="1" TblView="1" TblEdit="1" TblIsDetail="1" TblCaption="Buyer จองสินทรัพย์" TblUpdatable="1" TblSrchType="BASIC" TblSearchHighlight="1" TblBasicSearch="1" TblExtendedBasicSearch="1" TblSecurity="0,&quot;Default&quot;,0;1,&quot;Juzmatch Admin&quot;,47" TblLoaded="1" TblShowEmptyRows="0" TblUseGlobal="1" TblRecPerPage="20" TblRecPerPageList="10,20,50,ALL" TblGrpPerPage="3" TblGrpPerPageList="1,2,3,5,ALL" TblPagerStyle="2" TblAuditTrail="1" TblDisplayRowCount="1" TblUseButtonsForLinks="1" TblUseDropDownForAction="1" TblUseDropDownForListOptions="1" TblUseDropDownForExport="1">
       <Field FldName="buyer_booking_asset_id" FldType="3" FldTypeName="INT" NativeDataType="3" FldSupport="1" FldSort="0" FldSize="11" FldIsPrimaryKey="1" FldAutoIncrement="1" FldAttribute="96" FldValidate="INTEGER" FldGenerate="1" FldSearch="1" FldSrchOpr="=" FldCaption="buyer booking asset id" FldViewTag="FORMATTED TEXT" FldHtmlTag="NO" FldSelectType="Values" FldTagAPrefix="None" FldIncLeadDigit="-2" FldUseParen="-2" FldGpDigits="-2" FldColumnWrap="0" FldResizeQuality="75" />
@@ -575,6 +586,7 @@
       <Field FldName="udate" FldType="135" FldTypeName="DATETIME" NativeDataType="12" FldSupport="1" FldSize="19" FldReq="1" FldAttribute="4" FldValidate="DATE" FldRequired="1" FldPopCalendar="1" FldGenerate="1" FldExport="1" FldEdit="1" FldAdd="1" FldAddOpt="1" FldSearch="1" FldSrchOpr="=" FldCaption="Update Date" FldViewTag="FORMATTED TEXT" FldHtmlTag="TEXT" FldSelectType="Values" FldTagAPrefix="None" FldFmtType="Date/Time" FldIncLeadDigit="-2" FldUseParen="-2" FldGpDigits="-2" FldQuoteS="'" FldQuoteE="'" FldAutoUpdateValue="CurrentDateTime()" FldMultiUpdate="1" FldResizeQuality="75" />
       <Field FldName="uuser" FldType="3" FldTypeName="INT" NativeDataType="3" FldSupport="1" FldSize="11" FldReq="1" FldAttribute="4" FldValidate="INTEGER" FldRequired="1" FldGenerate="1" FldExport="1" FldEdit="1" FldAdd="1" FldAddOpt="1" FldSearch="1" FldSrchOpr="=" FldCaption="Update User" FldViewTag="FORMATTED TEXT" FldHtmlTag="TEXT" FldTagSize="30" FldSelectType="Values" FldTagAPrefix="None" FldFmtType="Number" FldIncLeadDigit="-2" FldUseParen="-2" FldGpDigits="-2" FldAutoUpdateValue="CurrentUserID()" FldMultiUpdate="1" FldResizeQuality="75" />
       <Field FldName="uip" FldType="200" FldTypeName="VARCHAR" NativeDataType="253" FldSupport="1" FldSize="255" FldReq="1" FldAttribute="4" FldRequired="1" FldGenerate="1" FldExport="1" FldEdit="1" FldAdd="1" FldAddOpt="1" FldSearch="1" FldSrchOpr="LIKE" FldCaption="Update IP" FldViewTag="FORMATTED TEXT" FldHtmlTag="TEXT" FldTagSize="30" FldTagMaxLength="255" FldSelectType="Values" FldTagAPrefix="None" FldIncLeadDigit="-2" FldUseParen="-2" FldGpDigits="-2" FldQuoteS="'" FldQuoteE="'" FldAutoUpdateValue="CurrentUserIP()" FldMultiUpdate="1" FldResizeQuality="75" />
+      <Field FldName="status_expire" FldType="3" FldTypeName="INT" NativeDataType="3" FldSupport="1" FldSize="11" FldReq="1" FldAttribute="4" FldValidate="INTEGER" FldGenerate="1" FldList="1" FldExport="1" FldView="1" FldEdit="1" FldAdd="1" FldAddOpt="1" FldSearch="1" FldSrchOpr="=" FldDefault="0" FldDbDefault="0" FldCaption="status expire" FldViewTag="FORMATTED TEXT" FldHtmlTag="TEXT" FldTagSize="30" FldTagMaxLength="11" FldSelectType="Values" FldTagAPrefix="None" FldFmtType="Number" FldIncLeadDigit="-2" FldUseParen="-2" FldGpDigits="-2" FldMultiUpdate="1" FldResizeQuality="75" />
     </Table>
     <Table TblName="buyer_config_asset_schedule" TblType="TABLE" TblGen="1" TblGenList="controller=0,info=0,list=0,list|class=0,grid=0,grid|class=0,add=0,add|class=0,view=0,view|class=0,edit=0,edit|class=0,delete=0,delete|class=0,preview=0,preview|class=0" TblList="1" TblView="1" TblEdit="1" TblAdd="1" TblIsDetail="1" TblDelete="1" TblCaption="Config ค่างวด Buyer" TblUpdatable="1" TblSrchType="BASIC" TblBasicSearch="0" TblExtendedBasicSearch="0" TblSecurity="0,&quot;Default&quot;,0;1,&quot;Juzmatch Admin&quot;,47" TblLoaded="1" TblShowEmptyRows="0" TblUseGlobal="1" TblRecPerPage="20" TblRecPerPageList="10,20,50,ALL" TblGrpPerPage="3" TblGrpPerPageList="1,2,3,5,ALL" TblPagerStyle="2" TblAuditTrail="1" TblDisplayRowCount="1" TblUseButtonsForLinks="1" TblUseDropDownForAction="1" TblUseDropDownForListOptions="1" TblUseDropDownForExport="1">
       <Field FldName="buyer_config_asset_schedule_id" FldType="3" FldTypeName="INT" NativeDataType="3" FldSupport="1" FldSort="0" FldSize="11" FldIsPrimaryKey="1" FldAutoIncrement="1" FldAttribute="96" FldValidate="INTEGER" FldGenerate="1" FldSrchOpr="=" FldCaption="buyer config asset schedule id" FldViewTag="FORMATTED TEXT" FldHtmlTag="NO" FldSelectType="Values" FldTagAPrefix="None" FldIncLeadDigit="-2" FldUseParen="-2" FldGpDigits="-2" FldColumnWrap="0" FldResizeQuality="75" />
@@ -686,6 +698,7 @@
       <Field FldName="uuser" FldType="200" FldTypeName="VARCHAR" NativeDataType="253" FldSupport="1" FldSize="45" FldAttribute="100" FldValidate="INTEGER" FldRequired="1" FldGenerate="1" FldExport="1" FldEdit="1" FldAdd="1" FldAddOpt="1" FldSearch="1" FldSrchOpr="=" FldCaption="Update User" FldViewTag="FORMATTED TEXT" FldHtmlTag="TEXT" FldTagSize="30" FldSelectType="Values" FldTagAPrefix="None" FldFmtType="Number" FldIncLeadDigit="-2" FldUseParen="-2" FldGpDigits="-2" FldQuoteS="'" FldQuoteE="'" FldAutoUpdateValue="CurrentUserID()" FldMultiUpdate="1" FldResizeQuality="75" />
       <Field FldName="uip" FldType="200" FldTypeName="VARCHAR" NativeDataType="253" FldSupport="1" FldSize="255" FldAttribute="100" FldRequired="1" FldGenerate="1" FldExport="1" FldEdit="1" FldAdd="1" FldAddOpt="1" FldSearch="1" FldSrchOpr="LIKE" FldCaption="Update IP" FldViewTag="FORMATTED TEXT" FldHtmlTag="TEXT" FldTagSize="30" FldTagMaxLength="255" FldSelectType="Values" FldTagAPrefix="None" FldIncLeadDigit="-2" FldUseParen="-2" FldGpDigits="-2" FldQuoteS="'" FldQuoteE="'" FldAutoUpdateValue="CurrentUserIP()" FldMultiUpdate="1" FldResizeQuality="75" />
       <Field FldName="udate" FldType="135" FldTypeName="DATETIME" NativeDataType="12" FldSupport="1" FldSize="19" FldAttribute="100" FldValidate="DATE" FldRequired="1" FldPopCalendar="1" FldGenerate="1" FldExport="1" FldEdit="1" FldAdd="1" FldAddOpt="1" FldSearch="1" FldSrchOpr="=" FldCaption="Update Date" FldViewTag="FORMATTED TEXT" FldHtmlTag="TEXT" FldSelectType="Values" FldTagAPrefix="None" FldFmtType="Date/Time" FldIncLeadDigit="-2" FldUseParen="-2" FldGpDigits="-2" FldQuoteS="'" FldQuoteE="'" FldAutoUpdateValue="CurrentDateTime()" FldMultiUpdate="1" FldResizeQuality="75" />
+      <Field FldName="status_expire" FldType="3" FldTypeName="INT" NativeDataType="3" FldSupport="1" FldSize="11" FldReq="1" FldAttribute="4" FldValidate="INTEGER" FldGenerate="1" FldList="1" FldExport="1" FldView="1" FldEdit="1" FldAdd="1" FldAddOpt="1" FldSearch="1" FldSrchOpr="=" FldDefault="0" FldDbDefault="0" FldCaption="status expire" FldViewTag="FORMATTED TEXT" FldHtmlTag="TEXT" FldTagSize="30" FldTagMaxLength="11" FldSelectType="Values" FldTagAPrefix="None" FldFmtType="Number" FldIncLeadDigit="-2" FldUseParen="-2" FldGpDigits="-2" FldMultiUpdate="1" FldResizeQuality="75" />
     </Table>
     <Table TblName="juzcalculator" TblType="TABLE" TblGen="1" TblGenList="controller=0,info=0,master=0,list=0,list|class=0,grid=0,grid|class=0,add=0,add|class=0,edit=0,edit|class=0,delete=0,delete|class=0,preview=0,preview|class=0" TblList="1" TblEdit="1" TblAdd="1" TblIsMaster="1" TblIsDetail="1" TblDelete="1" TblCaption="Juzcalculator" TblUpdatable="1" TblSrchType="BASIC" TblSearchHighlight="1" TblBasicSearch="1" TblExtendedBasicSearch="1" TblFilter="&quot;`status`=1&quot;" TblSecurity="0,&quot;Default&quot;,0;1,&quot;Juzmatch Admin&quot;,47" TblLoaded="1" TblShowEmptyRows="0" TblUseGlobal="1" TblRecPerPage="20" TblRecPerPageList="10,20,50,ALL" TblGrpPerPage="3" TblGrpPerPageList="1,2,3,5,ALL" TblPagerStyle="2" TblAuditTrail="1" TblDisplayRowCount="1" TblUseButtonsForLinks="1" TblUseDropDownForAction="1" TblUseDropDownForListOptions="1" TblUseDropDownForExport="1">
       <Field FldName="juzcalculator_id" FldType="3" FldTypeName="INT" NativeDataType="3" FldSupport="1" FldSort="0" FldSize="11" FldIsPrimaryKey="1" FldAutoIncrement="1" FldAttribute="96" FldValidate="INTEGER" FldGenerate="1" FldSrchOpr="=" FldCaption="juzcalculator id" FldViewTag="FORMATTED TEXT" FldHtmlTag="NO" FldSelectType="Values" FldTagAPrefix="None" FldIncLeadDigit="-2" FldUseParen="-2" FldGpDigits="-2" FldColumnWrap="0" FldResizeQuality="75" />
@@ -808,6 +821,9 @@
       <Field FldName="udate" FldType="200" FldTypeName="VARCHAR" NativeDataType="253" FldSupport="1" FldSort="0" FldSize="255" FldAttribute="100" FldValidate="DATE" FldPopCalendar="1" FldGenerate="1" FldEdit="1" FldAdd="1" FldAddOpt="1" FldSearch="1" FldSrchOpr="=" FldCaption="Update Date" FldViewTag="FORMATTED TEXT" FldHtmlTag="TEXT" FldSelectType="Values" FldTagAPrefix="None" FldFmtType="Date/Time" FldIncLeadDigit="-2" FldUseParen="-2" FldGpDigits="-2" FldQuoteS="'" FldQuoteE="'" FldAutoUpdateValue="CurrentDateTime()" FldMultiUpdate="1" FldResizeQuality="75" />
       <Field FldName="uip" FldType="200" FldTypeName="VARCHAR" NativeDataType="253" FldSupport="1" FldSort="0" FldSize="255" FldAttribute="100" FldGenerate="1" FldEdit="1" FldAdd="1" FldAddOpt="1" FldSearch="1" FldSrchOpr="LIKE" FldCaption="Update IP" FldViewTag="FORMATTED TEXT" FldHtmlTag="TEXT" FldTagSize="30" FldTagMaxLength="255" FldSelectType="Values" FldTagAPrefix="None" FldIncLeadDigit="-2" FldUseParen="-2" FldGpDigits="-2" FldQuoteS="'" FldQuoteE="'" FldAutoUpdateValue="CurrentUserIP()" FldMultiUpdate="1" FldResizeQuality="75" />
       <Field FldName="uuser" FldType="200" FldTypeName="VARCHAR" NativeDataType="253" FldSupport="1" FldSort="0" FldSize="255" FldAttribute="100" FldValidate="INTEGER" FldGenerate="1" FldEdit="1" FldAdd="1" FldAddOpt="1" FldSearch="1" FldSrchOpr="=" FldCaption="Update User" FldViewTag="FORMATTED TEXT" FldHtmlTag="TEXT" FldTagSize="30" FldSelectType="Values" FldTagAPrefix="None" FldFmtType="Number" FldIncLeadDigit="-2" FldUseParen="-2" FldGpDigits="-2" FldQuoteS="'" FldQuoteE="'" FldAutoUpdateValue="CurrentUserID()" FldMultiUpdate="1" FldResizeQuality="75" />
+      <Field FldName="verify_phone_status" FldType="3" FldTypeName="INT" NativeDataType="3" FldSupport="1" FldSize="11" FldReq="1" FldAttribute="4" FldValidate="INTEGER" FldGenerate="1" FldList="1" FldExport="1" FldView="1" FldEdit="1" FldAdd="1" FldAddOpt="1" FldSearch="1" FldSrchOpr="=" FldDefault="0" FldDbDefault="0" FldCaption="verify phone status" FldViewTag="FORMATTED TEXT" FldHtmlTag="TEXT" FldTagSize="30" FldTagMaxLength="11" FldSelectType="Values" FldTagAPrefix="None" FldFmtType="Number" FldIncLeadDigit="-2" FldUseParen="-2" FldGpDigits="-2" FldMultiUpdate="1" FldResizeQuality="75" />
+      <Field FldName="verify_phone_date" FldType="135" FldTypeName="DATETIME" NativeDataType="12" FldSupport="1" FldSize="19" FldAttribute="100" FldValidate="DATE" FldPopCalendar="1" FldGenerate="1" FldList="1" FldExport="1" FldView="1" FldEdit="1" FldAdd="1" FldAddOpt="1" FldSearch="1" FldSrchOpr="=" FldCaption="verify phone date" FldViewTag="FORMATTED TEXT" FldHtmlTag="TEXT" FldTagMaxLength="19" FldSelectType="Values" FldTagAPrefix="None" FldFmtType="Date/Time" FldIncLeadDigit="-2" FldUseParen="-2" FldGpDigits="-2" FldQuoteS="'" FldQuoteE="'" FldMultiUpdate="1" FldResizeQuality="75" />
+      <Field FldName="verify_phone_ip" FldType="200" FldTypeName="VARCHAR" NativeDataType="253" FldSupport="1" FldSize="100" FldAttribute="100" FldGenerate="1" FldList="1" FldExport="1" FldView="1" FldEdit="1" FldAdd="1" FldAddOpt="1" FldSearch="1" FldBasicSearch="1" FldSrchOpr="LIKE" FldCaption="verify phone ip" FldViewTag="FORMATTED TEXT" FldHtmlTag="TEXT" FldTagSize="30" FldTagMaxLength="100" FldSelectType="Values" FldTagAPrefix="None" FldIncLeadDigit="-2" FldUseParen="-2" FldGpDigits="-2" FldQuoteS="'" FldQuoteE="'" FldMultiUpdate="1" FldResizeQuality="75" />
     </Table>
     <Table TblName="master_facilities" TblType="TABLE" TblGen="1" TblGenList="controller=0,info=0,list=0,list|class=0,add=0,add|class=0,edit=0,edit|class=0,delete=0,delete|class=0" TblList="1" TblEdit="1" TblAdd="1" TblDelete="1" TblCaption="Master Facilities" TblUpdatable="1" TblSrchType="BASIC" TblSearchHighlight="1" TblBasicSearch="1" TblExtendedBasicSearch="1" TblSecurity="0,&quot;Default&quot;,0;1,&quot;Juzmatch Admin&quot;,47" TblLoaded="1" TblShowEmptyRows="0" TblUseGlobal="1" TblRecPerPage="20" TblRecPerPageList="10,20,50,ALL" TblGrpPerPage="3" TblGrpPerPageList="1,2,3,5,ALL" TblPagerStyle="2" TblAuditTrail="1" TblDisplayRowCount="1" TblUseButtonsForLinks="1" TblUseDropDownForAction="1" TblUseDropDownForListOptions="1" TblUseDropDownForExport="1">
       <Field FldName="master_facilities_id" FldType="3" FldTypeName="INT" NativeDataType="3" FldSupport="1" FldSort="0" FldSize="11" FldIsPrimaryKey="1" FldAutoIncrement="1" FldAttribute="96" FldValidate="INTEGER" FldGenerate="1" FldSrchOpr="=" FldCaption="master facilities id" FldViewTag="FORMATTED TEXT" FldHtmlTag="NO" FldSelectType="Values" FldTagAPrefix="None" FldIncLeadDigit="-2" FldUseParen="-2" FldGpDigits="-2" FldColumnWrap="0" FldResizeQuality="75" />
@@ -889,6 +905,9 @@
       <Field FldName="udate" FldType="200" FldTypeName="VARCHAR" NativeDataType="253" FldSupport="1" FldSort="0" FldSize="255" FldAttribute="100" FldValidate="DATE" FldPopCalendar="1" FldGenerate="1" FldAdd="1" FldAddOpt="1" FldSearch="1" FldSrchOpr="=" FldCaption="Update Date" FldViewTag="FORMATTED TEXT" FldHtmlTag="TEXT" FldSelectType="Values" FldTagAPrefix="None" FldFmtType="Date/Time" FldIncLeadDigit="-2" FldUseParen="-2" FldGpDigits="-2" FldQuoteS="'" FldQuoteE="'" FldAutoUpdateValue="CurrentDateTime()" FldMultiUpdate="1" FldResizeQuality="75" />
       <Field FldName="uip" FldType="200" FldTypeName="VARCHAR" NativeDataType="253" FldSupport="1" FldSort="0" FldSize="255" FldAttribute="100" FldGenerate="1" FldAdd="1" FldAddOpt="1" FldSearch="1" FldSrchOpr="LIKE" FldCaption="Update IP" FldViewTag="FORMATTED TEXT" FldHtmlTag="TEXT" FldTagSize="30" FldTagMaxLength="255" FldSelectType="Values" FldTagAPrefix="None" FldIncLeadDigit="-2" FldUseParen="-2" FldGpDigits="-2" FldQuoteS="'" FldQuoteE="'" FldAutoUpdateValue="CurrentUserIP()" FldMultiUpdate="1" FldResizeQuality="75" />
       <Field FldName="uuser" FldType="200" FldTypeName="VARCHAR" NativeDataType="253" FldSupport="1" FldSort="0" FldSize="255" FldAttribute="100" FldValidate="INTEGER" FldGenerate="1" FldAdd="1" FldAddOpt="1" FldSearch="1" FldSrchOpr="=" FldCaption="Update User" FldViewTag="FORMATTED TEXT" FldHtmlTag="TEXT" FldTagSize="30" FldSelectType="Values" FldTagAPrefix="None" FldFmtType="Number" FldIncLeadDigit="-2" FldUseParen="-2" FldGpDigits="-2" FldQuoteS="'" FldQuoteE="'" FldAutoUpdateValue="CurrentUserID()" FldMultiUpdate="1" FldResizeQuality="75" />
+      <Field FldName="verify_phone_status" FldType="3" FldTypeName="INT" NativeDataType="3" FldSupport="1" FldSize="11" FldReq="1" FldAttribute="4" FldValidate="INTEGER" FldGenerate="1" FldList="1" FldExport="1" FldView="1" FldEdit="1" FldAdd="1" FldAddOpt="1" FldSearch="1" FldSrchOpr="=" FldDefault="0" FldDbDefault="0" FldCaption="verify phone status" FldViewTag="FORMATTED TEXT" FldHtmlTag="TEXT" FldTagSize="30" FldTagMaxLength="11" FldSelectType="Values" FldTagAPrefix="None" FldFmtType="Number" FldIncLeadDigit="-2" FldUseParen="-2" FldGpDigits="-2" FldMultiUpdate="1" FldResizeQuality="75" />
+      <Field FldName="verify_phone_date" FldType="135" FldTypeName="DATETIME" NativeDataType="12" FldSupport="1" FldSize="19" FldAttribute="100" FldValidate="DATE" FldPopCalendar="1" FldGenerate="1" FldList="1" FldExport="1" FldView="1" FldEdit="1" FldAdd="1" FldAddOpt="1" FldSearch="1" FldSrchOpr="=" FldCaption="verify phone date" FldViewTag="FORMATTED TEXT" FldHtmlTag="TEXT" FldTagMaxLength="19" FldSelectType="Values" FldTagAPrefix="None" FldFmtType="Date/Time" FldIncLeadDigit="-2" FldUseParen="-2" FldGpDigits="-2" FldQuoteS="'" FldQuoteE="'" FldMultiUpdate="1" FldResizeQuality="75" />
+      <Field FldName="verify_phone_ip" FldType="200" FldTypeName="VARCHAR" NativeDataType="253" FldSupport="1" FldSize="100" FldAttribute="100" FldGenerate="1" FldList="1" FldExport="1" FldView="1" FldEdit="1" FldAdd="1" FldAddOpt="1" FldSearch="1" FldBasicSearch="1" FldSrchOpr="LIKE" FldCaption="verify phone ip" FldViewTag="FORMATTED TEXT" FldHtmlTag="TEXT" FldTagSize="30" FldTagMaxLength="100" FldSelectType="Values" FldTagAPrefix="None" FldIncLeadDigit="-2" FldUseParen="-2" FldGpDigits="-2" FldQuoteS="'" FldQuoteE="'" FldMultiUpdate="1" FldResizeQuality="75" />
     </Table>
     <Table TblName="notification" TblType="TABLE" TblGen="1" TblGenList="controller=0,info=0,list=0,list|class=0,add=0,add|class=0,edit=0,edit|class=0,delete=0,delete|class=0" TblList="1" TblEdit="1" TblAdd="1" TblDelete="1" TblCaption="Notification" TblUpdatable="1" TblSrchType="BASIC" TblSearchHighlight="1" TblBasicSearch="1" TblExtendedBasicSearch="1" TblSecurity="0,&quot;Default&quot;,0;1,&quot;Juzmatch Admin&quot;,47" TblLoaded="1" TblShowEmptyRows="0" TblUseGlobal="1" TblRecPerPage="20" TblRecPerPageList="10,20,50,ALL" TblGrpPerPage="3" TblGrpPerPageList="1,2,3,5,ALL" TblPagerStyle="2" TblAuditTrail="1" TblDisplayRowCount="1" TblUseButtonsForLinks="1" TblUseDropDownForAction="1" TblUseDropDownForListOptions="1" TblUseDropDownForExport="1">
       <Field FldName="notification_id" FldType="3" FldTypeName="INT" NativeDataType="3" FldSupport="1" FldSort="0" FldSize="11" FldIsPrimaryKey="1" FldAutoIncrement="1" FldAttribute="96" FldValidate="INTEGER" FldGenerate="1" FldSrchOpr="=" FldCaption="notification id" FldViewTag="FORMATTED TEXT" FldHtmlTag="NO" FldSelectType="Values" FldTagAPrefix="None" FldIncLeadDigit="-2" FldUseParen="-2" FldGpDigits="-2" FldColumnWrap="0" FldResizeQuality="75" />
@@ -925,6 +944,7 @@
       <Field FldName="udate" FldType="135" FldTypeName="DATETIME" NativeDataType="12" FldSupport="1" FldSize="19" FldReq="1" FldAttribute="4" FldValidate="DATE" FldRequired="1" FldPopCalendar="1" FldGenerate="1" FldExport="1" FldView="1" FldEdit="1" FldAdd="1" FldAddOpt="1" FldSearch="1" FldSrchOpr="=" FldCaption="Update Date" FldViewTag="FORMATTED TEXT" FldHtmlTag="TEXT" FldSelectType="Values" FldTagAPrefix="None" FldFmtType="Date/Time" FldIncLeadDigit="-2" FldUseParen="-2" FldGpDigits="-2" FldQuoteS="'" FldQuoteE="'" FldAutoUpdateValue="CurrentDateTime()" FldMultiUpdate="1" FldResizeQuality="75" />
       <Field FldName="uuser" FldType="3" FldTypeName="INT" NativeDataType="3" FldSupport="1" FldSize="11" FldReq="1" FldAttribute="4" FldValidate="INTEGER" FldRequired="1" FldGenerate="1" FldExport="1" FldView="1" FldEdit="1" FldAdd="1" FldAddOpt="1" FldSearch="1" FldSrchOpr="=" FldCaption="Update User" FldViewTag="FORMATTED TEXT" FldHtmlTag="TEXT" FldTagSize="30" FldSelectType="Values" FldTagAPrefix="None" FldFmtType="Number" FldIncLeadDigit="-2" FldUseParen="-2" FldGpDigits="-2" FldAutoUpdateValue="CurrentUserID()" FldMultiUpdate="1" FldResizeQuality="75" />
       <Field FldName="uip" FldType="200" FldTypeName="VARCHAR" NativeDataType="253" FldSupport="1" FldSize="255" FldReq="1" FldAttribute="4" FldRequired="1" FldGenerate="1" FldExport="1" FldView="1" FldEdit="1" FldAdd="1" FldAddOpt="1" FldSearch="1" FldSrchOpr="LIKE" FldCaption="Update IP" FldViewTag="FORMATTED TEXT" FldHtmlTag="TEXT" FldTagSize="30" FldTagMaxLength="255" FldSelectType="Values" FldTagAPrefix="None" FldIncLeadDigit="-2" FldUseParen="-2" FldGpDigits="-2" FldQuoteS="'" FldQuoteE="'" FldAutoUpdateValue="CurrentUserIP()" FldMultiUpdate="1" FldResizeQuality="75" />
+      <Field FldName="status_expire" FldType="3" FldTypeName="INT" NativeDataType="3" FldSupport="1" FldSize="11" FldReq="1" FldAttribute="4" FldValidate="INTEGER" FldGenerate="1" FldList="1" FldExport="1" FldView="1" FldEdit="1" FldAdd="1" FldAddOpt="1" FldSearch="1" FldSrchOpr="=" FldDefault="0" FldDbDefault="0" FldCaption="status expire" FldViewTag="FORMATTED TEXT" FldHtmlTag="TEXT" FldTagSize="30" FldTagMaxLength="11" FldSelectType="Values" FldTagAPrefix="None" FldFmtType="Number" FldIncLeadDigit="-2" FldUseParen="-2" FldGpDigits="-2" FldMultiUpdate="1" FldResizeQuality="75" />
     </Table>
     <Table TblName="plan_loan" TblType="TABLE" TblGen="1" TblGenList="controller=0,info=0,list=0,list|class=0,grid=0,grid|class=0,edit=0,edit|class=0,preview=0,preview|class=0" TblList="1" TblEdit="1" TblIsDetail="1" TblCaption="Buyer วางแผนกู้" TblUpdatable="1" TblSrchType="BASIC" TblBasicSearch="0" TblExtendedBasicSearch="0" TblSecurity="0,&quot;Default&quot;,0;1,&quot;Juzmatch Admin&quot;,47" TblLoaded="1" TblShowEmptyRows="0" TblUseGlobal="1" TblRecPerPage="20" TblRecPerPageList="10,20,50,ALL" TblGrpPerPage="3" TblGrpPerPageList="1,2,3,5,ALL" TblPagerStyle="2" TblAuditTrail="1" TblDisplayRowCount="1" TblUseButtonsForLinks="1" TblUseDropDownForAction="1" TblUseDropDownForListOptions="1" TblUseDropDownForExport="1">
       <Field FldName="plan_loan_id" FldType="3" FldTypeName="INT" NativeDataType="3" FldSupport="1" FldSort="0" FldSize="11" FldIsPrimaryKey="1" FldAutoIncrement="1" FldAttribute="96" FldValidate="INTEGER" FldGenerate="1" FldSrchOpr="=" FldCaption="plan loan id" FldViewTag="FORMATTED TEXT" FldHtmlTag="NO" FldSelectType="Values" FldTagAPrefix="None" FldIncLeadDigit="-2" FldUseParen="-2" FldGpDigits="-2" FldColumnWrap="0" FldResizeQuality="75" />
@@ -1246,6 +1266,7 @@
       <Field FldName="date_booking" FldType="135" FldTypeName="DATETIME" NativeDataType="12" FldSupport="1" FldSize="19" FldReq="1" FldAttribute="4" FldValidate="DATE" FldRequired="1" FldPopCalendar="1" FldGenerate="1" FldList="1" FldExport="1" FldView="1" FldEdit="1" FldAdd="1" FldAddOpt="1" FldSearch="1" FldSrchOpr="=" FldCaption="date booking" FldViewTag="FORMATTED TEXT" FldHtmlTag="TEXT" FldSelectType="Values" FldTagAPrefix="None" FldFmtType="Date/Time" FldIncLeadDigit="-2" FldUseParen="-2" FldGpDigits="-2" FldQuoteS="'" FldQuoteE="'" FldMultiUpdate="1" FldResizeQuality="75" />
       <Field FldName="date_payment" FldType="135" FldTypeName="DATETIME" NativeDataType="12" FldSupport="1" FldSize="19" FldReq="1" FldAttribute="4" FldValidate="DATE" FldRequired="1" FldPopCalendar="1" FldGenerate="1" FldList="1" FldExport="1" FldView="1" FldEdit="1" FldAdd="1" FldAddOpt="1" FldSearch="1" FldSrchOpr="=" FldCaption="date payment" FldViewTag="FORMATTED TEXT" FldHtmlTag="TEXT" FldSelectType="Values" FldTagAPrefix="None" FldFmtType="Date/Time" FldIncLeadDigit="-2" FldUseParen="-2" FldGpDigits="-2" FldQuoteS="'" FldQuoteE="'" FldMultiUpdate="1" FldResizeQuality="75" />
       <Field FldName="due_date" FldType="135" FldTypeName="DATETIME" NativeDataType="12" FldSupport="1" FldSize="19" FldReq="1" FldAttribute="4" FldValidate="DATE" FldRequired="1" FldPopCalendar="1" FldGenerate="1" FldList="1" FldExport="1" FldView="1" FldEdit="1" FldAdd="1" FldAddOpt="1" FldSearch="1" FldSrchOpr="=" FldCaption="due date" FldViewTag="FORMATTED TEXT" FldHtmlTag="TEXT" FldSelectType="Values" FldTagAPrefix="None" FldFmtType="Date/Time" FldIncLeadDigit="-2" FldUseParen="-2" FldGpDigits="-2" FldQuoteS="'" FldQuoteE="'" FldMultiUpdate="1" FldResizeQuality="75" />
+      <Field FldName="status_expire" FldType="3" FldTypeName="INT" NativeDataType="3" FldSupport="1" FldSize="11" FldReq="1" FldAttribute="4" FldValidate="INTEGER" FldGenerate="1" FldList="1" FldExport="1" FldView="1" FldEdit="1" FldAdd="1" FldAddOpt="1" FldSearch="1" FldSrchOpr="=" FldDefault="0" FldDbDefault="0" FldCaption="status expire" FldViewTag="FORMATTED TEXT" FldHtmlTag="TEXT" FldTagSize="30" FldTagMaxLength="11" FldSelectType="Values" FldTagAPrefix="None" FldFmtType="Number" FldIncLeadDigit="-2" FldUseParen="-2" FldGpDigits="-2" FldMultiUpdate="1" FldResizeQuality="75" />
     </Table>
     <Table TblName="log_login" TblType="TABLE" TblGenList="info=0" TblList="1" TblCaption="Log Login" TblUpdatable="1" TblSrchType="BASIC" TblBasicSearch="0" TblExtendedBasicSearch="0" TblSecurity="0,&quot;Default&quot;,0;1,&quot;Juzmatch Admin&quot;,47" TblLoaded="1" TblShowEmptyRows="0" TblUseGlobal="1" TblRecPerPage="20" TblRecPerPageList="10,20,50,ALL" TblGrpPerPage="3" TblGrpPerPageList="1,2,3,5,ALL" TblPagerStyle="2" TblUseButtonsForLinks="1" TblUseDropDownForAction="1" TblUseDropDownForListOptions="1" TblUseDropDownForExport="1">
       <Field FldName="log_login_id" FldType="3" FldTypeName="INT" NativeDataType="3" FldSupport="1" FldSize="11" FldReq="1" FldIsPrimaryKey="1" FldAttribute="4" FldValidate="INTEGER" FldRequired="1" FldGenerate="1" FldList="1" FldExport="1" FldView="1" FldEdit="1" FldAdd="1" FldAddOpt="1" FldSearch="1" FldSrchOpr="=" FldCaption="log login id" FldViewTag="FORMATTED TEXT" FldHtmlTag="TEXT" FldTagSize="30" FldSelectType="Values" FldTagAPrefix="None" FldFmtType="Number" FldIncLeadDigit="-2" FldUseParen="-2" FldGpDigits="-2" FldMultiUpdate="1" FldResizeQuality="75" />
@@ -1284,6 +1305,7 @@
       <Field FldName="channel_response_desc" FldType="200" FldTypeName="VARCHAR" NativeDataType="253" FldSupport="1" FldSize="255" FldReq="1" FldAttribute="4" FldRequired="1" FldGenerate="1" FldList="1" FldExport="1" FldView="1" FldEdit="1" FldAdd="1" FldAddOpt="1" FldSearch="1" FldBasicSearch="1" FldSrchOpr="LIKE" FldCaption="channel response desc" FldViewTag="FORMATTED TEXT" FldHtmlTag="TEXT" FldTagSize="30" FldTagMaxLength="255" FldSelectType="Values" FldTagAPrefix="None" FldIncLeadDigit="-2" FldUseParen="-2" FldGpDigits="-2" FldQuoteS="'" FldQuoteE="'" FldMultiUpdate="1" FldResizeQuality="75" />
       <Field FldName="res_status" FldType="200" FldTypeName="VARCHAR" NativeDataType="253" FldSupport="1" FldSize="50" FldReq="1" FldAttribute="4" FldRequired="1" FldGenerate="1" FldList="1" FldExport="1" FldView="1" FldEdit="1" FldAdd="1" FldAddOpt="1" FldSearch="1" FldBasicSearch="1" FldSrchOpr="LIKE" FldCaption="res status" FldViewTag="FORMATTED TEXT" FldHtmlTag="TEXT" FldTagSize="30" FldTagMaxLength="50" FldSelectType="Values" FldTagAPrefix="None" FldIncLeadDigit="-2" FldUseParen="-2" FldGpDigits="-2" FldQuoteS="'" FldQuoteE="'" FldMultiUpdate="1" FldResizeQuality="75" />
       <Field FldName="res_referenceNo" FldType="200" FldTypeName="VARCHAR" NativeDataType="253" FldSupport="1" FldSize="255" FldReq="1" FldAttribute="4" FldRequired="1" FldGenerate="1" FldList="1" FldExport="1" FldView="1" FldEdit="1" FldAdd="1" FldAddOpt="1" FldSearch="1" FldBasicSearch="1" FldSrchOpr="LIKE" FldCaption="res reference No" FldViewTag="FORMATTED TEXT" FldHtmlTag="TEXT" FldTagSize="30" FldTagMaxLength="255" FldSelectType="Values" FldTagAPrefix="None" FldIncLeadDigit="-2" FldUseParen="-2" FldGpDigits="-2" FldQuoteS="'" FldQuoteE="'" FldMultiUpdate="1" FldResizeQuality="75" />
+      <Field FldName="status_expire" FldType="3" FldTypeName="INT" NativeDataType="3" FldSupport="1" FldSize="11" FldReq="1" FldAttribute="4" FldValidate="INTEGER" FldGenerate="1" FldList="1" FldExport="1" FldView="1" FldEdit="1" FldAdd="1" FldAddOpt="1" FldSearch="1" FldSrchOpr="=" FldDefault="0" FldDbDefault="0" FldCaption="status expire" FldViewTag="FORMATTED TEXT" FldHtmlTag="TEXT" FldTagSize="30" FldTagMaxLength="11" FldSelectType="Values" FldTagAPrefix="None" FldFmtType="Number" FldIncLeadDigit="-2" FldUseParen="-2" FldGpDigits="-2" FldMultiUpdate="1" FldResizeQuality="75" />
     </Table>
     <Table TblName="log_search" TblType="TABLE" TblGenList="info=0" TblList="1" TblCaption="Log Search" TblUpdatable="1" TblSrchType="BASIC" TblBasicSearch="0" TblExtendedBasicSearch="0" TblSecurity="0,&quot;Default&quot;,0;1,&quot;Juzmatch Admin&quot;,47" TblLoaded="1" TblShowEmptyRows="0" TblUseGlobal="1" TblRecPerPage="20" TblRecPerPageList="10,20,50,ALL" TblGrpPerPage="3" TblGrpPerPageList="1,2,3,5,ALL" TblPagerStyle="2" TblUseButtonsForLinks="1" TblUseDropDownForAction="1" TblUseDropDownForListOptions="1" TblUseDropDownForExport="1">
       <Field FldName="log_search_id" FldType="3" FldTypeName="INT" NativeDataType="3" FldSupport="1" FldSize="11" FldIsPrimaryKey="1" FldAutoIncrement="1" FldAttribute="96" FldValidate="INTEGER" FldGenerate="1" FldList="1" FldExport="1" FldView="1" FldEdit="1" FldSearch="1" FldSrchOpr="=" FldCaption="log search id" FldViewTag="FORMATTED TEXT" FldHtmlTag="NO" FldSelectType="Values" FldTagAPrefix="None" FldIncLeadDigit="-2" FldUseParen="-2" FldGpDigits="-2" FldResizeQuality="75" />
@@ -1400,6 +1422,9 @@
       <Field FldName="udate" FldType="200" FldTypeName="VARCHAR" NativeDataType="253" FldSupport="1" FldSort="0" FldSize="255" FldAttribute="100" FldValidate="DATE" FldPopCalendar="1" FldGenerate="1" FldEdit="1" FldAdd="1" FldAddOpt="1" FldSearch="1" FldSrchOpr="=" FldCaption="Update Date" FldViewTag="FORMATTED TEXT" FldHtmlTag="TEXT" FldSelectType="Values" FldTagAPrefix="None" FldFmtType="Date/Time" FldIncLeadDigit="-2" FldUseParen="-2" FldGpDigits="-2" FldQuoteS="'" FldQuoteE="'" FldAutoUpdateValue="CurrentDateTime()" FldMultiUpdate="1" FldResizeQuality="75" />
       <Field FldName="uip" FldType="200" FldTypeName="VARCHAR" NativeDataType="253" FldSupport="1" FldSort="0" FldSize="255" FldAttribute="100" FldGenerate="1" FldEdit="1" FldAdd="1" FldAddOpt="1" FldSearch="1" FldSrchOpr="LIKE" FldCaption="Update IP" FldViewTag="FORMATTED TEXT" FldHtmlTag="TEXT" FldTagSize="30" FldTagMaxLength="255" FldSelectType="Values" FldTagAPrefix="None" FldIncLeadDigit="-2" FldUseParen="-2" FldGpDigits="-2" FldQuoteS="'" FldQuoteE="'" FldAutoUpdateValue="CurrentUserIP()" FldMultiUpdate="1" FldResizeQuality="75" />
       <Field FldName="uuser" FldType="200" FldTypeName="VARCHAR" NativeDataType="253" FldSupport="1" FldSort="0" FldSize="255" FldAttribute="100" FldValidate="INTEGER" FldGenerate="1" FldEdit="1" FldAdd="1" FldAddOpt="1" FldSearch="1" FldSrchOpr="=" FldCaption="Update User" FldViewTag="FORMATTED TEXT" FldHtmlTag="TEXT" FldTagSize="30" FldSelectType="Values" FldTagAPrefix="None" FldFmtType="Number" FldIncLeadDigit="-2" FldUseParen="-2" FldGpDigits="-2" FldQuoteS="'" FldQuoteE="'" FldAutoUpdateValue="CurrentUserID()" FldMultiUpdate="1" FldResizeQuality="75" />
+      <Field FldName="verify_phone_status" FldType="3" FldTypeName="INT" NativeDataType="3" FldSupport="1" FldSize="11" FldReq="1" FldAttribute="4" FldValidate="INTEGER" FldGenerate="1" FldList="1" FldExport="1" FldView="1" FldEdit="1" FldAdd="1" FldAddOpt="1" FldSearch="1" FldSrchOpr="=" FldDefault="0" FldDbDefault="0" FldCaption="verify phone status" FldViewTag="FORMATTED TEXT" FldHtmlTag="TEXT" FldTagSize="30" FldTagMaxLength="11" FldSelectType="Values" FldTagAPrefix="None" FldFmtType="Number" FldIncLeadDigit="-2" FldUseParen="-2" FldGpDigits="-2" FldMultiUpdate="1" FldResizeQuality="75" />
+      <Field FldName="verify_phone_date" FldType="135" FldTypeName="DATETIME" NativeDataType="12" FldSupport="1" FldSize="19" FldAttribute="100" FldValidate="DATE" FldPopCalendar="1" FldGenerate="1" FldList="1" FldExport="1" FldView="1" FldEdit="1" FldAdd="1" FldAddOpt="1" FldSearch="1" FldSrchOpr="=" FldCaption="verify phone date" FldViewTag="FORMATTED TEXT" FldHtmlTag="TEXT" FldTagMaxLength="19" FldSelectType="Values" FldTagAPrefix="None" FldFmtType="Date/Time" FldIncLeadDigit="-2" FldUseParen="-2" FldGpDigits="-2" FldQuoteS="'" FldQuoteE="'" FldMultiUpdate="1" FldResizeQuality="75" />
+      <Field FldName="verify_phone_ip" FldType="200" FldTypeName="VARCHAR" NativeDataType="253" FldSupport="1" FldSize="100" FldAttribute="100" FldGenerate="1" FldList="1" FldExport="1" FldView="1" FldEdit="1" FldAdd="1" FldAddOpt="1" FldSearch="1" FldBasicSearch="1" FldSrchOpr="LIKE" FldCaption="verify phone ip" FldViewTag="FORMATTED TEXT" FldHtmlTag="TEXT" FldTagSize="30" FldTagMaxLength="100" FldSelectType="Values" FldTagAPrefix="None" FldIncLeadDigit="-2" FldUseParen="-2" FldGpDigits="-2" FldQuoteS="'" FldQuoteE="'" FldMultiUpdate="1" FldResizeQuality="75" />
     </Table>
     <Table TblName="seller_appointment" TblType="LINKTABLE" TblGen="1" TblGenList="controller=0,info=0,list=0,list|class=0,edit=0,edit|class=0,delete=0,delete|class=0" TblList="1" TblEdit="1" TblDelete="1" TblCaption="นัดเยี่ยมชมสินทรัพทย์" TblUpdatable="1" TblSrchType="BASIC" TblSearchHighlight="1" TblBasicSearch="1" TblExtendedBasicSearch="1" TblSecurity="0,&quot;Default&quot;,0;1,&quot;Juzmatch Admin&quot;,47" TblLoaded="1" TblShowEmptyRows="0" TblUseGlobal="1" TblRecPerPage="20" TblRecPerPageList="10,20,50,ALL" TblGrpPerPage="3" TblGrpPerPageList="1,2,3,5,ALL" TblPagerStyle="2" TblAuditTrail="1" TblDisplayRowCount="1" TblUseButtonsForLinks="1" TblUseDropDownForAction="1" TblUseDropDownForListOptions="1" TblUseDropDownForExport="1" LinkDBID="juzmatch1" LinkTableName="appointment" LinkTableType="TABLE">
       <Field FldName="appointment_id" FldType="3" FldTypeName="INT" NativeDataType="3" FldSupport="1" FldSize="11" FldIsPrimaryKey="1" FldAutoIncrement="1" FldAttribute="96" FldValidate="INTEGER" FldGenerate="1" FldExport="1" FldSrchOpr="=" FldCaption="appointment id" FldViewTag="FORMATTED TEXT" FldHtmlTag="NO" FldSelectType="Values" FldTagAPrefix="None" FldIncLeadDigit="-2" FldUseParen="-2" FldGpDigits="-2" FldResizeQuality="75" />
@@ -1511,6 +1536,7 @@
       <Field FldName="udate" FldType="135" FldTypeName="DATETIME" NativeDataType="12" FldSupport="1" FldSize="19" FldReq="1" FldAttribute="4" FldValidate="DATE" FldRequired="1" FldPopCalendar="1" FldGenerate="1" FldExport="1" FldEdit="1" FldAdd="1" FldAddOpt="1" FldSearch="1" FldSrchOpr="=" FldCaption="Update Date" FldViewTag="FORMATTED TEXT" FldHtmlTag="TEXT" FldSelectType="Values" FldTagAPrefix="None" FldFmtType="Date/Time" FldIncLeadDigit="-2" FldUseParen="-2" FldGpDigits="-2" FldQuoteS="'" FldQuoteE="'" FldAutoUpdateValue="CurrentDateTime()" FldMultiUpdate="1" FldResizeQuality="75" />
       <Field FldName="uuser" FldType="3" FldTypeName="INT" NativeDataType="3" FldSupport="1" FldSize="11" FldReq="1" FldAttribute="4" FldValidate="INTEGER" FldRequired="1" FldGenerate="1" FldExport="1" FldEdit="1" FldAdd="1" FldAddOpt="1" FldSearch="1" FldSrchOpr="=" FldCaption="Update User" FldViewTag="FORMATTED TEXT" FldHtmlTag="TEXT" FldTagSize="30" FldSelectType="Values" FldTagAPrefix="None" FldFmtType="Number" FldIncLeadDigit="-2" FldUseParen="-2" FldGpDigits="-2" FldAutoUpdateValue="CurrentUserID()" FldMultiUpdate="1" FldResizeQuality="75" />
       <Field FldName="uip" FldType="200" FldTypeName="VARCHAR" NativeDataType="253" FldSupport="1" FldSize="255" FldReq="1" FldAttribute="4" FldRequired="1" FldGenerate="1" FldExport="1" FldEdit="1" FldAdd="1" FldAddOpt="1" FldSearch="1" FldSrchOpr="LIKE" FldCaption="Update IP" FldViewTag="FORMATTED TEXT" FldHtmlTag="TEXT" FldTagSize="30" FldTagMaxLength="255" FldSelectType="Values" FldTagAPrefix="None" FldIncLeadDigit="-2" FldUseParen="-2" FldGpDigits="-2" FldQuoteS="'" FldQuoteE="'" FldAutoUpdateValue="CurrentUserIP()" FldMultiUpdate="1" FldResizeQuality="75" />
+      <Field FldName="status_expire" FldType="3" FldTypeName="INT" NativeDataType="3" FldSupport="1" FldSize="11" FldReq="1" FldAttribute="4" FldValidate="INTEGER" FldGenerate="1" FldList="1" FldExport="1" FldView="1" FldEdit="1" FldAdd="1" FldAddOpt="1" FldSearch="1" FldSrchOpr="=" FldDefault="0" FldDbDefault="0" FldCaption="status expire" FldViewTag="FORMATTED TEXT" FldHtmlTag="TEXT" FldTagSize="30" FldTagMaxLength="11" FldSelectType="Values" FldTagAPrefix="None" FldFmtType="Number" FldIncLeadDigit="-2" FldUseParen="-2" FldGpDigits="-2" FldMultiUpdate="1" FldResizeQuality="75" />
     </Table>
     <Table TblName="web_config" TblType="TABLE" TblGen="1" TblGenList="controller=0,info=0,list=0,list|class=0,edit=0,edit|class=0" TblList="1" TblEdit="1" TblCaption="Web Config" TblUpdatable="1" TblSrchType="BASIC" TblBasicSearch="0" TblExtendedBasicSearch="0" TblSecurity="0,&quot;Default&quot;,0;1,&quot;Juzmatch Admin&quot;,47" TblLoaded="1" TblShowEmptyRows="0" TblUseGlobal="1" TblRecPerPage="20" TblRecPerPageList="10,20,50,ALL" TblGrpPerPage="3" TblGrpPerPageList="1,2,3,5,ALL" TblPagerStyle="2" TblDisplayRowCount="1" TblUseButtonsForLinks="1" TblUseDropDownForAction="1" TblUseDropDownForListOptions="1" TblUseDropDownForExport="1">
       <Field FldName="web_config_id" FldType="3" FldTypeName="INT" NativeDataType="3" FldSupport="1" FldSort="0" FldSize="11" FldIsPrimaryKey="1" FldAutoIncrement="1" FldAttribute="96" FldValidate="INTEGER" FldGenerate="1" FldSearch="1" FldSrchOpr="=" FldCaption="web config id" FldViewTag="FORMATTED TEXT" FldHtmlTag="NO" FldTagMaxLength="11" FldSelectType="Values" FldTagAPrefix="None" FldIncLeadDigit="-2" FldUseParen="-2" FldGpDigits="-2" FldResizeQuality="75" />
@@ -2468,6 +2494,27 @@
           <ExtField FldName="update_expired_ip">
             <Properties><![CDATA[[{"Id":"Options","Type":"String","Value":""}]]]></Properties>
           </ExtField>
+          <ExtField FldName="transfer_day_expenses_without_business_tax_max_min">
+            <Properties><![CDATA[[{"Id":"Options","Type":"String","Value":""}]]]></Properties>
+          </ExtField>
+          <ExtField FldName="transfer_day_expenses_with_business_tax_max_min">
+            <Properties><![CDATA[[{"Id":"Options","Type":"String","Value":""}]]]></Properties>
+          </ExtField>
+          <ExtField FldName="usable_area_price_max">
+            <Properties><![CDATA[[{"Id":"Options","Type":"String","Value":""}]]]></Properties>
+          </ExtField>
+          <ExtField FldName="land_size_price_max">
+            <Properties><![CDATA[[{"Id":"Options","Type":"String","Value":""}]]]></Properties>
+          </ExtField>
+          <ExtField FldName="usable_area_price_min">
+            <Properties><![CDATA[[{"Id":"Options","Type":"String","Value":""}]]]></Properties>
+          </ExtField>
+          <ExtField FldName="land_size_price_min">
+            <Properties><![CDATA[[{"Id":"Options","Type":"String","Value":""}]]]></Properties>
+          </ExtField>
+          <ExtField FldName="factor_monthly_installment_over_down_max">
+            <Properties><![CDATA[[{"Id":"Options","Type":"String","Value":""}]]]></Properties>
+          </ExtField>
           <Properties><![CDATA[[]]]></Properties>
         </ExtTable>
         <ExtTable TblName="asset_attribute">
@@ -3356,6 +3403,9 @@
           <ExtField FldName="due_date">
             <Properties><![CDATA[[{"Id":"Options","Type":"String","Value":""}]]]></Properties>
           </ExtField>
+          <ExtField FldName="status_expire">
+            <Properties><![CDATA[[{"Id":"Options","Type":"String","Value":""}]]]></Properties>
+          </ExtField>
           <Properties><![CDATA[[]]]></Properties>
         </ExtTable>
         <ExtTable TblName="buyer_config_asset_schedule">
@@ -3681,6 +3731,9 @@
             <Properties><![CDATA[[{"Id":"Options","Type":"String","Value":""}]]]></Properties>
           </ExtField>
           <ExtField FldName="udate">
+            <Properties><![CDATA[[{"Id":"Options","Type":"String","Value":""}]]]></Properties>
+          </ExtField>
+          <ExtField FldName="status_expire">
             <Properties><![CDATA[[{"Id":"Options","Type":"String","Value":""}]]]></Properties>
           </ExtField>
           <Properties><![CDATA[[]]]></Properties>
@@ -4118,6 +4171,9 @@
           <ExtField FldName="due_date">
             <Properties><![CDATA[[{"Id":"Options","Type":"String","Value":""}]]]></Properties>
           </ExtField>
+          <ExtField FldName="status_expire">
+            <Properties><![CDATA[[{"Id":"Options","Type":"String","Value":""}]]]></Properties>
+          </ExtField>
           <Properties><![CDATA[[]]]></Properties>
         </ExtTable>
         <ExtTable TblName="log_login">
@@ -4194,6 +4250,9 @@
             <Properties><![CDATA[[{"Id":"Options","Type":"String","Value":""}]]]></Properties>
           </ExtField>
           <ExtField FldName="res_referenceNo">
+            <Properties><![CDATA[[{"Id":"Options","Type":"String","Value":""}]]]></Properties>
+          </ExtField>
+          <ExtField FldName="status_expire">
             <Properties><![CDATA[[{"Id":"Options","Type":"String","Value":""}]]]></Properties>
           </ExtField>
           <Properties><![CDATA[[]]]></Properties>
@@ -4694,6 +4753,15 @@
           <ExtField FldName="pipedrive_people_id">
             <Properties><![CDATA[[{"Id":"Options","Type":"String","Value":""}]]]></Properties>
           </ExtField>
+          <ExtField FldName="verify_phone_status">
+            <Properties><![CDATA[[{"Id":"Options","Type":"String","Value":""}]]]></Properties>
+          </ExtField>
+          <ExtField FldName="verify_phone_date">
+            <Properties><![CDATA[[{"Id":"Options","Type":"String","Value":""}]]]></Properties>
+          </ExtField>
+          <ExtField FldName="verify_phone_ip">
+            <Properties><![CDATA[[{"Id":"Options","Type":"String","Value":""}]]]></Properties>
+          </ExtField>
           <Properties><![CDATA[[]]]></Properties>
         </ExtTable>
         <ExtTable TblName="member_otp">
@@ -4935,6 +5003,9 @@
             <Properties><![CDATA[[{"Id":"Options","Type":"String","Value":""}]]]></Properties>
           </ExtField>
           <ExtField FldName="res_referenceNo">
+            <Properties><![CDATA[[{"Id":"Options","Type":"String","Value":""}]]]></Properties>
+          </ExtField>
+          <ExtField FldName="status_expire">
             <Properties><![CDATA[[{"Id":"Options","Type":"String","Value":""}]]]></Properties>
           </ExtField>
           <Properties><![CDATA[[]]]></Properties>
@@ -5396,6 +5467,54 @@
           <Properties><![CDATA[[]]]></Properties>
         </ExtTable>
         <ExtTable TblName="buyerPaymentMonthly.php">
+          <Properties><![CDATA[[]]]></Properties>
+        </ExtTable>
+        <ExtTable TblName="buyer">
+          <ExtField FldName="verify_phone_status">
+            <Properties><![CDATA[[{"Id":"Options","Type":"String","Value":""}]]]></Properties>
+          </ExtField>
+          <ExtField FldName="verify_phone_date">
+            <Properties><![CDATA[[{"Id":"Options","Type":"String","Value":""}]]]></Properties>
+          </ExtField>
+          <ExtField FldName="verify_phone_ip">
+            <Properties><![CDATA[[{"Id":"Options","Type":"String","Value":""}]]]></Properties>
+          </ExtField>
+          <Properties><![CDATA[[]]]></Properties>
+        </ExtTable>
+        <ExtTable TblName="buyer_asset">
+          <ExtField FldName="status_expire">
+            <Properties><![CDATA[[{"Id":"Options","Type":"String","Value":""}]]]></Properties>
+          </ExtField>
+          <Properties><![CDATA[[]]]></Properties>
+        </ExtTable>
+        <ExtTable TblName="investor">
+          <ExtField FldName="verify_phone_status">
+            <Properties><![CDATA[[{"Id":"Options","Type":"String","Value":""}]]]></Properties>
+          </ExtField>
+          <ExtField FldName="verify_phone_date">
+            <Properties><![CDATA[[{"Id":"Options","Type":"String","Value":""}]]]></Properties>
+          </ExtField>
+          <ExtField FldName="verify_phone_ip">
+            <Properties><![CDATA[[{"Id":"Options","Type":"String","Value":""}]]]></Properties>
+          </ExtField>
+          <Properties><![CDATA[[]]]></Properties>
+        </ExtTable>
+        <ExtTable TblName="inverter_asset">
+          <ExtField FldName="status_expire">
+            <Properties><![CDATA[[{"Id":"Options","Type":"String","Value":""}]]]></Properties>
+          </ExtField>
+          <Properties><![CDATA[[]]]></Properties>
+        </ExtTable>
+        <ExtTable TblName="seller">
+          <ExtField FldName="verify_phone_status">
+            <Properties><![CDATA[[{"Id":"Options","Type":"String","Value":""}]]]></Properties>
+          </ExtField>
+          <ExtField FldName="verify_phone_date">
+            <Properties><![CDATA[[{"Id":"Options","Type":"String","Value":""}]]]></Properties>
+          </ExtField>
+          <ExtField FldName="verify_phone_ip">
+            <Properties><![CDATA[[{"Id":"Options","Type":"String","Value":""}]]]></Properties>
+          </ExtField>
           <Properties><![CDATA[[]]]></Properties>
         </ExtTable>
         <Properties><![CDATA[[]]]></Properties>
@@ -6706,6 +6825,27 @@
           <ExtField FldName="update_expired_ip">
             <Properties><![CDATA[[{"Id":"Step","Type":"Integer","Value":15},{"Id":"Options","Type":"String","Value":""}]]]></Properties>
           </ExtField>
+          <ExtField FldName="transfer_day_expenses_without_business_tax_max_min">
+            <Properties><![CDATA[[{"Id":"Step","Type":"Integer","Value":15},{"Id":"Options","Type":"String","Value":""}]]]></Properties>
+          </ExtField>
+          <ExtField FldName="transfer_day_expenses_with_business_tax_max_min">
+            <Properties><![CDATA[[{"Id":"Step","Type":"Integer","Value":15},{"Id":"Options","Type":"String","Value":""}]]]></Properties>
+          </ExtField>
+          <ExtField FldName="usable_area_price_max">
+            <Properties><![CDATA[[{"Id":"Step","Type":"Integer","Value":15},{"Id":"Options","Type":"String","Value":""}]]]></Properties>
+          </ExtField>
+          <ExtField FldName="land_size_price_max">
+            <Properties><![CDATA[[{"Id":"Step","Type":"Integer","Value":15},{"Id":"Options","Type":"String","Value":""}]]]></Properties>
+          </ExtField>
+          <ExtField FldName="usable_area_price_min">
+            <Properties><![CDATA[[{"Id":"Step","Type":"Integer","Value":15},{"Id":"Options","Type":"String","Value":""}]]]></Properties>
+          </ExtField>
+          <ExtField FldName="land_size_price_min">
+            <Properties><![CDATA[[{"Id":"Step","Type":"Integer","Value":15},{"Id":"Options","Type":"String","Value":""}]]]></Properties>
+          </ExtField>
+          <ExtField FldName="factor_monthly_installment_over_down_max">
+            <Properties><![CDATA[[{"Id":"Step","Type":"Integer","Value":15},{"Id":"Options","Type":"String","Value":""}]]]></Properties>
+          </ExtField>
           <Properties><![CDATA[[]]]></Properties>
         </ExtTable>
         <ExtTable TblName="asset_attribute">
@@ -7594,6 +7734,9 @@
           <ExtField FldName="due_date">
             <Properties><![CDATA[[{"Id":"Step","Type":"Integer","Value":15},{"Id":"Options","Type":"String","Value":""},{"Id":"IsEncrypt","Type":"String","Value":"False"}]]]></Properties>
           </ExtField>
+          <ExtField FldName="status_expire">
+            <Properties><![CDATA[[{"Id":"Step","Type":"Integer","Value":15},{"Id":"Options","Type":"String","Value":""}]]]></Properties>
+          </ExtField>
           <Properties><![CDATA[[]]]></Properties>
         </ExtTable>
         <ExtTable TblName="buyer_config_asset_schedule">
@@ -7920,6 +8063,9 @@
           </ExtField>
           <ExtField FldName="udate">
             <Properties><![CDATA[[{"Id":"Step","Type":"Integer","Value":15},{"Id":"Options","Type":"String","Value":""},{"Id":"IsEncrypt","Type":"String","Value":"False"}]]]></Properties>
+          </ExtField>
+          <ExtField FldName="status_expire">
+            <Properties><![CDATA[[{"Id":"Step","Type":"Integer","Value":15},{"Id":"Options","Type":"String","Value":""}]]]></Properties>
           </ExtField>
           <Properties><![CDATA[[]]]></Properties>
         </ExtTable>
@@ -8356,6 +8502,9 @@
           <ExtField FldName="due_date">
             <Properties><![CDATA[[{"Id":"Step","Type":"Integer","Value":15},{"Id":"Options","Type":"String","Value":""},{"Id":"IsEncrypt","Type":"String","Value":"False"}]]]></Properties>
           </ExtField>
+          <ExtField FldName="status_expire">
+            <Properties><![CDATA[[{"Id":"Step","Type":"Integer","Value":15},{"Id":"Options","Type":"String","Value":""}]]]></Properties>
+          </ExtField>
           <Properties><![CDATA[[]]]></Properties>
         </ExtTable>
         <ExtTable TblName="log_login">
@@ -8433,6 +8582,9 @@
           </ExtField>
           <ExtField FldName="res_referenceNo">
             <Properties><![CDATA[[{"Id":"Step","Type":"Integer","Value":15},{"Id":"Options","Type":"String","Value":""},{"Id":"IsEncrypt","Type":"String","Value":"False"}]]]></Properties>
+          </ExtField>
+          <ExtField FldName="status_expire">
+            <Properties><![CDATA[[{"Id":"Step","Type":"Integer","Value":15},{"Id":"Options","Type":"String","Value":""}]]]></Properties>
           </ExtField>
           <Properties><![CDATA[[]]]></Properties>
         </ExtTable>
@@ -8932,6 +9084,15 @@
           <ExtField FldName="pipedrive_people_id">
             <Properties><![CDATA[[{"Id":"Step","Type":"Integer","Value":15},{"Id":"Options","Type":"String","Value":""},{"Id":"IsEncrypt","Type":"String","Value":"False"}]]]></Properties>
           </ExtField>
+          <ExtField FldName="verify_phone_status">
+            <Properties><![CDATA[[{"Id":"Step","Type":"Integer","Value":15},{"Id":"Options","Type":"String","Value":""}]]]></Properties>
+          </ExtField>
+          <ExtField FldName="verify_phone_date">
+            <Properties><![CDATA[[{"Id":"Step","Type":"Integer","Value":15},{"Id":"Options","Type":"String","Value":""}]]]></Properties>
+          </ExtField>
+          <ExtField FldName="verify_phone_ip">
+            <Properties><![CDATA[[{"Id":"Step","Type":"Integer","Value":15},{"Id":"Options","Type":"String","Value":""}]]]></Properties>
+          </ExtField>
           <Properties><![CDATA[[]]]></Properties>
         </ExtTable>
         <ExtTable TblName="member_otp">
@@ -9174,6 +9335,9 @@
           </ExtField>
           <ExtField FldName="res_referenceNo">
             <Properties><![CDATA[[{"Id":"Step","Type":"Integer","Value":15},{"Id":"Options","Type":"String","Value":""},{"Id":"IsEncrypt","Type":"String","Value":"False"}]]]></Properties>
+          </ExtField>
+          <ExtField FldName="status_expire">
+            <Properties><![CDATA[[{"Id":"Step","Type":"Integer","Value":15},{"Id":"Options","Type":"String","Value":""}]]]></Properties>
           </ExtField>
           <Properties><![CDATA[[]]]></Properties>
         </ExtTable>
@@ -9811,6 +9975,54 @@
           <Properties><![CDATA[[]]]></Properties>
         </ExtTable>
         <ExtTable TblName="buyerPaymentMonthly.php">
+          <Properties><![CDATA[[]]]></Properties>
+        </ExtTable>
+        <ExtTable TblName="buyer">
+          <ExtField FldName="verify_phone_status">
+            <Properties><![CDATA[[{"Id":"Step","Type":"Integer","Value":15},{"Id":"Options","Type":"String","Value":""}]]]></Properties>
+          </ExtField>
+          <ExtField FldName="verify_phone_date">
+            <Properties><![CDATA[[{"Id":"Step","Type":"Integer","Value":15},{"Id":"Options","Type":"String","Value":""}]]]></Properties>
+          </ExtField>
+          <ExtField FldName="verify_phone_ip">
+            <Properties><![CDATA[[{"Id":"Step","Type":"Integer","Value":15},{"Id":"Options","Type":"String","Value":""}]]]></Properties>
+          </ExtField>
+          <Properties><![CDATA[[]]]></Properties>
+        </ExtTable>
+        <ExtTable TblName="buyer_asset">
+          <ExtField FldName="status_expire">
+            <Properties><![CDATA[[{"Id":"Step","Type":"Integer","Value":15},{"Id":"Options","Type":"String","Value":""}]]]></Properties>
+          </ExtField>
+          <Properties><![CDATA[[]]]></Properties>
+        </ExtTable>
+        <ExtTable TblName="investor">
+          <ExtField FldName="verify_phone_status">
+            <Properties><![CDATA[[{"Id":"Step","Type":"Integer","Value":15},{"Id":"Options","Type":"String","Value":""}]]]></Properties>
+          </ExtField>
+          <ExtField FldName="verify_phone_date">
+            <Properties><![CDATA[[{"Id":"Step","Type":"Integer","Value":15},{"Id":"Options","Type":"String","Value":""}]]]></Properties>
+          </ExtField>
+          <ExtField FldName="verify_phone_ip">
+            <Properties><![CDATA[[{"Id":"Step","Type":"Integer","Value":15},{"Id":"Options","Type":"String","Value":""}]]]></Properties>
+          </ExtField>
+          <Properties><![CDATA[[]]]></Properties>
+        </ExtTable>
+        <ExtTable TblName="inverter_asset">
+          <ExtField FldName="status_expire">
+            <Properties><![CDATA[[{"Id":"Step","Type":"Integer","Value":15},{"Id":"Options","Type":"String","Value":""}]]]></Properties>
+          </ExtField>
+          <Properties><![CDATA[[]]]></Properties>
+        </ExtTable>
+        <ExtTable TblName="seller">
+          <ExtField FldName="verify_phone_status">
+            <Properties><![CDATA[[{"Id":"Step","Type":"Integer","Value":15},{"Id":"Options","Type":"String","Value":""}]]]></Properties>
+          </ExtField>
+          <ExtField FldName="verify_phone_date">
+            <Properties><![CDATA[[{"Id":"Step","Type":"Integer","Value":15},{"Id":"Options","Type":"String","Value":""}]]]></Properties>
+          </ExtField>
+          <ExtField FldName="verify_phone_ip">
+            <Properties><![CDATA[[{"Id":"Step","Type":"Integer","Value":15},{"Id":"Options","Type":"String","Value":""}]]]></Properties>
+          </ExtField>
           <Properties><![CDATA[[]]]></Properties>
         </ExtTable>
         <Properties><![CDATA[[]]]></Properties>
@@ -10453,6 +10665,27 @@
             <Properties><![CDATA[[{"Id":"page_add","Type":"String","Value":""},{"Id":"page_addopt","Type":"String","Value":""},{"Id":"page_view","Type":"String","Value":""},{"Id":"page_edit","Type":"String","Value":""},{"Id":"page_update","Type":"String","Value":""},{"Id":"page_delete","Type":"String","Value":""},{"Id":"page_search","Type":"String","Value":""},{"Id":"page_list","Type":"String","Value":""},{"Id":"action_add","Type":"String","Value":""},{"Id":"action_copy","Type":"String","Value":""},{"Id":"action_edit","Type":"String","Value":""},{"Id":"action_gridadd","Type":"String","Value":""},{"Id":"action_gridedit","Type":"String","Value":""},{"Id":"page_master","Type":"String","Value":""},{"Id":"page_report","Type":"String","Value":""},{"Id":"page_grid","Type":"String","Value":""},{"Id":"page_preview","Type":"String","Value":""}]]]></Properties>
           </ExtField>
           <ExtField FldName="update_expired_ip">
+            <Properties><![CDATA[[{"Id":"page_add","Type":"String","Value":""},{"Id":"page_addopt","Type":"String","Value":""},{"Id":"page_view","Type":"String","Value":""},{"Id":"page_edit","Type":"String","Value":""},{"Id":"page_update","Type":"String","Value":""},{"Id":"page_delete","Type":"String","Value":""},{"Id":"page_search","Type":"String","Value":""},{"Id":"page_list","Type":"String","Value":""},{"Id":"action_add","Type":"String","Value":""},{"Id":"action_copy","Type":"String","Value":""},{"Id":"action_edit","Type":"String","Value":""},{"Id":"action_gridadd","Type":"String","Value":""},{"Id":"action_gridedit","Type":"String","Value":""},{"Id":"page_master","Type":"String","Value":""},{"Id":"page_report","Type":"String","Value":""},{"Id":"page_grid","Type":"String","Value":""},{"Id":"page_preview","Type":"String","Value":""}]]]></Properties>
+          </ExtField>
+          <ExtField FldName="transfer_day_expenses_without_business_tax_max_min">
+            <Properties><![CDATA[[{"Id":"page_add","Type":"String","Value":""},{"Id":"page_addopt","Type":"String","Value":""},{"Id":"page_view","Type":"String","Value":""},{"Id":"page_edit","Type":"String","Value":""},{"Id":"page_update","Type":"String","Value":""},{"Id":"page_delete","Type":"String","Value":""},{"Id":"page_search","Type":"String","Value":""},{"Id":"page_list","Type":"String","Value":""},{"Id":"action_add","Type":"String","Value":""},{"Id":"action_copy","Type":"String","Value":""},{"Id":"action_edit","Type":"String","Value":""},{"Id":"action_gridadd","Type":"String","Value":""},{"Id":"action_gridedit","Type":"String","Value":""},{"Id":"page_master","Type":"String","Value":""},{"Id":"page_report","Type":"String","Value":""},{"Id":"page_grid","Type":"String","Value":""},{"Id":"page_preview","Type":"String","Value":""}]]]></Properties>
+          </ExtField>
+          <ExtField FldName="transfer_day_expenses_with_business_tax_max_min">
+            <Properties><![CDATA[[{"Id":"page_add","Type":"String","Value":""},{"Id":"page_addopt","Type":"String","Value":""},{"Id":"page_view","Type":"String","Value":""},{"Id":"page_edit","Type":"String","Value":""},{"Id":"page_update","Type":"String","Value":""},{"Id":"page_delete","Type":"String","Value":""},{"Id":"page_search","Type":"String","Value":""},{"Id":"page_list","Type":"String","Value":""},{"Id":"action_add","Type":"String","Value":""},{"Id":"action_copy","Type":"String","Value":""},{"Id":"action_edit","Type":"String","Value":""},{"Id":"action_gridadd","Type":"String","Value":""},{"Id":"action_gridedit","Type":"String","Value":""},{"Id":"page_master","Type":"String","Value":""},{"Id":"page_report","Type":"String","Value":""},{"Id":"page_grid","Type":"String","Value":""},{"Id":"page_preview","Type":"String","Value":""}]]]></Properties>
+          </ExtField>
+          <ExtField FldName="usable_area_price_max">
+            <Properties><![CDATA[[{"Id":"page_add","Type":"String","Value":""},{"Id":"page_addopt","Type":"String","Value":""},{"Id":"page_view","Type":"String","Value":""},{"Id":"page_edit","Type":"String","Value":""},{"Id":"page_update","Type":"String","Value":""},{"Id":"page_delete","Type":"String","Value":""},{"Id":"page_search","Type":"String","Value":""},{"Id":"page_list","Type":"String","Value":""},{"Id":"action_add","Type":"String","Value":""},{"Id":"action_copy","Type":"String","Value":""},{"Id":"action_edit","Type":"String","Value":""},{"Id":"action_gridadd","Type":"String","Value":""},{"Id":"action_gridedit","Type":"String","Value":""},{"Id":"page_master","Type":"String","Value":""},{"Id":"page_report","Type":"String","Value":""},{"Id":"page_grid","Type":"String","Value":""},{"Id":"page_preview","Type":"String","Value":""}]]]></Properties>
+          </ExtField>
+          <ExtField FldName="land_size_price_max">
+            <Properties><![CDATA[[{"Id":"page_add","Type":"String","Value":""},{"Id":"page_addopt","Type":"String","Value":""},{"Id":"page_view","Type":"String","Value":""},{"Id":"page_edit","Type":"String","Value":""},{"Id":"page_update","Type":"String","Value":""},{"Id":"page_delete","Type":"String","Value":""},{"Id":"page_search","Type":"String","Value":""},{"Id":"page_list","Type":"String","Value":""},{"Id":"action_add","Type":"String","Value":""},{"Id":"action_copy","Type":"String","Value":""},{"Id":"action_edit","Type":"String","Value":""},{"Id":"action_gridadd","Type":"String","Value":""},{"Id":"action_gridedit","Type":"String","Value":""},{"Id":"page_master","Type":"String","Value":""},{"Id":"page_report","Type":"String","Value":""},{"Id":"page_grid","Type":"String","Value":""},{"Id":"page_preview","Type":"String","Value":""}]]]></Properties>
+          </ExtField>
+          <ExtField FldName="usable_area_price_min">
+            <Properties><![CDATA[[{"Id":"page_add","Type":"String","Value":""},{"Id":"page_addopt","Type":"String","Value":""},{"Id":"page_view","Type":"String","Value":""},{"Id":"page_edit","Type":"String","Value":""},{"Id":"page_update","Type":"String","Value":""},{"Id":"page_delete","Type":"String","Value":""},{"Id":"page_search","Type":"String","Value":""},{"Id":"page_list","Type":"String","Value":""},{"Id":"action_add","Type":"String","Value":""},{"Id":"action_copy","Type":"String","Value":""},{"Id":"action_edit","Type":"String","Value":""},{"Id":"action_gridadd","Type":"String","Value":""},{"Id":"action_gridedit","Type":"String","Value":""},{"Id":"page_master","Type":"String","Value":""},{"Id":"page_report","Type":"String","Value":""},{"Id":"page_grid","Type":"String","Value":""},{"Id":"page_preview","Type":"String","Value":""}]]]></Properties>
+          </ExtField>
+          <ExtField FldName="land_size_price_min">
+            <Properties><![CDATA[[{"Id":"page_add","Type":"String","Value":""},{"Id":"page_addopt","Type":"String","Value":""},{"Id":"page_view","Type":"String","Value":""},{"Id":"page_edit","Type":"String","Value":""},{"Id":"page_update","Type":"String","Value":""},{"Id":"page_delete","Type":"String","Value":""},{"Id":"page_search","Type":"String","Value":""},{"Id":"page_list","Type":"String","Value":""},{"Id":"action_add","Type":"String","Value":""},{"Id":"action_copy","Type":"String","Value":""},{"Id":"action_edit","Type":"String","Value":""},{"Id":"action_gridadd","Type":"String","Value":""},{"Id":"action_gridedit","Type":"String","Value":""},{"Id":"page_master","Type":"String","Value":""},{"Id":"page_report","Type":"String","Value":""},{"Id":"page_grid","Type":"String","Value":""},{"Id":"page_preview","Type":"String","Value":""}]]]></Properties>
+          </ExtField>
+          <ExtField FldName="factor_monthly_installment_over_down_max">
             <Properties><![CDATA[[{"Id":"page_add","Type":"String","Value":""},{"Id":"page_addopt","Type":"String","Value":""},{"Id":"page_view","Type":"String","Value":""},{"Id":"page_edit","Type":"String","Value":""},{"Id":"page_update","Type":"String","Value":""},{"Id":"page_delete","Type":"String","Value":""},{"Id":"page_search","Type":"String","Value":""},{"Id":"page_list","Type":"String","Value":""},{"Id":"action_add","Type":"String","Value":""},{"Id":"action_copy","Type":"String","Value":""},{"Id":"action_edit","Type":"String","Value":""},{"Id":"action_gridadd","Type":"String","Value":""},{"Id":"action_gridedit","Type":"String","Value":""},{"Id":"page_master","Type":"String","Value":""},{"Id":"page_report","Type":"String","Value":""},{"Id":"page_grid","Type":"String","Value":""},{"Id":"page_preview","Type":"String","Value":""}]]]></Properties>
           </ExtField>
           <Properties><![CDATA[[{"Id":"PermissionType","Type":"String","Value":"bool"}]]]></Properties>
@@ -11343,6 +11576,9 @@
           <ExtField FldName="due_date">
             <Properties><![CDATA[[{"Id":"page_add","Type":"String","Value":""},{"Id":"page_addopt","Type":"String","Value":""},{"Id":"page_view","Type":"String","Value":""},{"Id":"page_edit","Type":"String","Value":""},{"Id":"page_update","Type":"String","Value":""},{"Id":"page_delete","Type":"String","Value":""},{"Id":"page_search","Type":"String","Value":""},{"Id":"page_list","Type":"String","Value":""},{"Id":"action_add","Type":"String","Value":""},{"Id":"action_copy","Type":"String","Value":""},{"Id":"action_edit","Type":"String","Value":""},{"Id":"action_gridadd","Type":"String","Value":""},{"Id":"action_gridedit","Type":"String","Value":""},{"Id":"page_master","Type":"String","Value":""},{"Id":"page_report","Type":"String","Value":""},{"Id":"page_grid","Type":"String","Value":""},{"Id":"page_preview","Type":"String","Value":""}]]]></Properties>
           </ExtField>
+          <ExtField FldName="status_expire">
+            <Properties><![CDATA[[{"Id":"page_add","Type":"String","Value":""},{"Id":"page_addopt","Type":"String","Value":""},{"Id":"page_view","Type":"String","Value":""},{"Id":"page_edit","Type":"String","Value":""},{"Id":"page_update","Type":"String","Value":""},{"Id":"page_delete","Type":"String","Value":""},{"Id":"page_search","Type":"String","Value":""},{"Id":"page_list","Type":"String","Value":""},{"Id":"action_add","Type":"String","Value":""},{"Id":"action_copy","Type":"String","Value":""},{"Id":"action_edit","Type":"String","Value":""},{"Id":"action_gridadd","Type":"String","Value":""},{"Id":"action_gridedit","Type":"String","Value":""},{"Id":"page_master","Type":"String","Value":""},{"Id":"page_report","Type":"String","Value":""},{"Id":"page_grid","Type":"String","Value":""},{"Id":"page_preview","Type":"String","Value":""}]]]></Properties>
+          </ExtField>
           <Properties><![CDATA[[{"Id":"PermissionType","Type":"String","Value":"bool"}]]]></Properties>
         </ExtTable>
         <ExtTable TblName="buyer_config_asset_schedule">
@@ -11668,6 +11904,9 @@
             <Properties><![CDATA[[{"Id":"page_add","Type":"String","Value":""},{"Id":"page_addopt","Type":"String","Value":""},{"Id":"page_view","Type":"String","Value":""},{"Id":"page_edit","Type":"String","Value":""},{"Id":"page_update","Type":"String","Value":""},{"Id":"page_delete","Type":"String","Value":""},{"Id":"page_search","Type":"String","Value":""},{"Id":"page_list","Type":"String","Value":""},{"Id":"action_add","Type":"String","Value":""},{"Id":"action_copy","Type":"String","Value":""},{"Id":"action_edit","Type":"String","Value":""},{"Id":"action_gridadd","Type":"String","Value":""},{"Id":"action_gridedit","Type":"String","Value":""},{"Id":"page_master","Type":"String","Value":""},{"Id":"page_report","Type":"String","Value":""},{"Id":"page_grid","Type":"String","Value":""},{"Id":"page_preview","Type":"String","Value":""}]]]></Properties>
           </ExtField>
           <ExtField FldName="udate">
+            <Properties><![CDATA[[{"Id":"page_add","Type":"String","Value":""},{"Id":"page_addopt","Type":"String","Value":""},{"Id":"page_view","Type":"String","Value":""},{"Id":"page_edit","Type":"String","Value":""},{"Id":"page_update","Type":"String","Value":""},{"Id":"page_delete","Type":"String","Value":""},{"Id":"page_search","Type":"String","Value":""},{"Id":"page_list","Type":"String","Value":""},{"Id":"action_add","Type":"String","Value":""},{"Id":"action_copy","Type":"String","Value":""},{"Id":"action_edit","Type":"String","Value":""},{"Id":"action_gridadd","Type":"String","Value":""},{"Id":"action_gridedit","Type":"String","Value":""},{"Id":"page_master","Type":"String","Value":""},{"Id":"page_report","Type":"String","Value":""},{"Id":"page_grid","Type":"String","Value":""},{"Id":"page_preview","Type":"String","Value":""}]]]></Properties>
+          </ExtField>
+          <ExtField FldName="status_expire">
             <Properties><![CDATA[[{"Id":"page_add","Type":"String","Value":""},{"Id":"page_addopt","Type":"String","Value":""},{"Id":"page_view","Type":"String","Value":""},{"Id":"page_edit","Type":"String","Value":""},{"Id":"page_update","Type":"String","Value":""},{"Id":"page_delete","Type":"String","Value":""},{"Id":"page_search","Type":"String","Value":""},{"Id":"page_list","Type":"String","Value":""},{"Id":"action_add","Type":"String","Value":""},{"Id":"action_copy","Type":"String","Value":""},{"Id":"action_edit","Type":"String","Value":""},{"Id":"action_gridadd","Type":"String","Value":""},{"Id":"action_gridedit","Type":"String","Value":""},{"Id":"page_master","Type":"String","Value":""},{"Id":"page_report","Type":"String","Value":""},{"Id":"page_grid","Type":"String","Value":""},{"Id":"page_preview","Type":"String","Value":""}]]]></Properties>
           </ExtField>
           <Properties><![CDATA[[{"Id":"PermissionType","Type":"String","Value":"bool"}]]]></Properties>
@@ -12105,6 +12344,9 @@
           <ExtField FldName="due_date">
             <Properties><![CDATA[[{"Id":"page_add","Type":"String","Value":""},{"Id":"page_addopt","Type":"String","Value":""},{"Id":"page_view","Type":"String","Value":""},{"Id":"page_edit","Type":"String","Value":""},{"Id":"page_update","Type":"String","Value":""},{"Id":"page_delete","Type":"String","Value":""},{"Id":"page_search","Type":"String","Value":""},{"Id":"page_list","Type":"String","Value":""},{"Id":"action_add","Type":"String","Value":""},{"Id":"action_copy","Type":"String","Value":""},{"Id":"action_edit","Type":"String","Value":""},{"Id":"action_gridadd","Type":"String","Value":""},{"Id":"action_gridedit","Type":"String","Value":""},{"Id":"page_master","Type":"String","Value":""},{"Id":"page_report","Type":"String","Value":""},{"Id":"page_grid","Type":"String","Value":""},{"Id":"page_preview","Type":"String","Value":""}]]]></Properties>
           </ExtField>
+          <ExtField FldName="status_expire">
+            <Properties><![CDATA[[{"Id":"page_add","Type":"String","Value":""},{"Id":"page_addopt","Type":"String","Value":""},{"Id":"page_view","Type":"String","Value":""},{"Id":"page_edit","Type":"String","Value":""},{"Id":"page_update","Type":"String","Value":""},{"Id":"page_delete","Type":"String","Value":""},{"Id":"page_search","Type":"String","Value":""},{"Id":"page_list","Type":"String","Value":""},{"Id":"action_add","Type":"String","Value":""},{"Id":"action_copy","Type":"String","Value":""},{"Id":"action_edit","Type":"String","Value":""},{"Id":"action_gridadd","Type":"String","Value":""},{"Id":"action_gridedit","Type":"String","Value":""},{"Id":"page_master","Type":"String","Value":""},{"Id":"page_report","Type":"String","Value":""},{"Id":"page_grid","Type":"String","Value":""},{"Id":"page_preview","Type":"String","Value":""}]]]></Properties>
+          </ExtField>
           <Properties><![CDATA[[{"Id":"PermissionType","Type":"String","Value":"bool"}]]]></Properties>
         </ExtTable>
         <ExtTable TblName="log_login">
@@ -12181,6 +12423,9 @@
             <Properties><![CDATA[[{"Id":"page_add","Type":"String","Value":""},{"Id":"page_addopt","Type":"String","Value":""},{"Id":"page_view","Type":"String","Value":""},{"Id":"page_edit","Type":"String","Value":""},{"Id":"page_update","Type":"String","Value":""},{"Id":"page_delete","Type":"String","Value":""},{"Id":"page_search","Type":"String","Value":""},{"Id":"page_list","Type":"String","Value":""},{"Id":"action_add","Type":"String","Value":""},{"Id":"action_copy","Type":"String","Value":""},{"Id":"action_edit","Type":"String","Value":""},{"Id":"action_gridadd","Type":"String","Value":""},{"Id":"action_gridedit","Type":"String","Value":""},{"Id":"page_master","Type":"String","Value":""},{"Id":"page_report","Type":"String","Value":""},{"Id":"page_grid","Type":"String","Value":""},{"Id":"page_preview","Type":"String","Value":""}]]]></Properties>
           </ExtField>
           <ExtField FldName="res_referenceNo">
+            <Properties><![CDATA[[{"Id":"page_add","Type":"String","Value":""},{"Id":"page_addopt","Type":"String","Value":""},{"Id":"page_view","Type":"String","Value":""},{"Id":"page_edit","Type":"String","Value":""},{"Id":"page_update","Type":"String","Value":""},{"Id":"page_delete","Type":"String","Value":""},{"Id":"page_search","Type":"String","Value":""},{"Id":"page_list","Type":"String","Value":""},{"Id":"action_add","Type":"String","Value":""},{"Id":"action_copy","Type":"String","Value":""},{"Id":"action_edit","Type":"String","Value":""},{"Id":"action_gridadd","Type":"String","Value":""},{"Id":"action_gridedit","Type":"String","Value":""},{"Id":"page_master","Type":"String","Value":""},{"Id":"page_report","Type":"String","Value":""},{"Id":"page_grid","Type":"String","Value":""},{"Id":"page_preview","Type":"String","Value":""}]]]></Properties>
+          </ExtField>
+          <ExtField FldName="status_expire">
             <Properties><![CDATA[[{"Id":"page_add","Type":"String","Value":""},{"Id":"page_addopt","Type":"String","Value":""},{"Id":"page_view","Type":"String","Value":""},{"Id":"page_edit","Type":"String","Value":""},{"Id":"page_update","Type":"String","Value":""},{"Id":"page_delete","Type":"String","Value":""},{"Id":"page_search","Type":"String","Value":""},{"Id":"page_list","Type":"String","Value":""},{"Id":"action_add","Type":"String","Value":""},{"Id":"action_copy","Type":"String","Value":""},{"Id":"action_edit","Type":"String","Value":""},{"Id":"action_gridadd","Type":"String","Value":""},{"Id":"action_gridedit","Type":"String","Value":""},{"Id":"page_master","Type":"String","Value":""},{"Id":"page_report","Type":"String","Value":""},{"Id":"page_grid","Type":"String","Value":""},{"Id":"page_preview","Type":"String","Value":""}]]]></Properties>
           </ExtField>
           <Properties><![CDATA[[{"Id":"PermissionType","Type":"String","Value":"bool"}]]]></Properties>
@@ -12681,6 +12926,15 @@
           <ExtField FldName="pipedrive_people_id">
             <Properties><![CDATA[[{"Id":"page_add","Type":"String","Value":""},{"Id":"page_addopt","Type":"String","Value":""},{"Id":"page_view","Type":"String","Value":""},{"Id":"page_edit","Type":"String","Value":""},{"Id":"page_update","Type":"String","Value":""},{"Id":"page_delete","Type":"String","Value":""},{"Id":"page_search","Type":"String","Value":""},{"Id":"page_list","Type":"String","Value":""},{"Id":"action_add","Type":"String","Value":""},{"Id":"action_copy","Type":"String","Value":""},{"Id":"action_edit","Type":"String","Value":""},{"Id":"action_gridadd","Type":"String","Value":""},{"Id":"action_gridedit","Type":"String","Value":""},{"Id":"page_master","Type":"String","Value":""},{"Id":"page_report","Type":"String","Value":""},{"Id":"page_grid","Type":"String","Value":""},{"Id":"page_preview","Type":"String","Value":""}]]]></Properties>
           </ExtField>
+          <ExtField FldName="verify_phone_status">
+            <Properties><![CDATA[[{"Id":"page_add","Type":"String","Value":""},{"Id":"page_addopt","Type":"String","Value":""},{"Id":"page_view","Type":"String","Value":""},{"Id":"page_edit","Type":"String","Value":""},{"Id":"page_update","Type":"String","Value":""},{"Id":"page_delete","Type":"String","Value":""},{"Id":"page_search","Type":"String","Value":""},{"Id":"page_list","Type":"String","Value":""},{"Id":"action_add","Type":"String","Value":""},{"Id":"action_copy","Type":"String","Value":""},{"Id":"action_edit","Type":"String","Value":""},{"Id":"action_gridadd","Type":"String","Value":""},{"Id":"action_gridedit","Type":"String","Value":""},{"Id":"page_master","Type":"String","Value":""},{"Id":"page_report","Type":"String","Value":""},{"Id":"page_grid","Type":"String","Value":""},{"Id":"page_preview","Type":"String","Value":""}]]]></Properties>
+          </ExtField>
+          <ExtField FldName="verify_phone_date">
+            <Properties><![CDATA[[{"Id":"page_add","Type":"String","Value":""},{"Id":"page_addopt","Type":"String","Value":""},{"Id":"page_view","Type":"String","Value":""},{"Id":"page_edit","Type":"String","Value":""},{"Id":"page_update","Type":"String","Value":""},{"Id":"page_delete","Type":"String","Value":""},{"Id":"page_search","Type":"String","Value":""},{"Id":"page_list","Type":"String","Value":""},{"Id":"action_add","Type":"String","Value":""},{"Id":"action_copy","Type":"String","Value":""},{"Id":"action_edit","Type":"String","Value":""},{"Id":"action_gridadd","Type":"String","Value":""},{"Id":"action_gridedit","Type":"String","Value":""},{"Id":"page_master","Type":"String","Value":""},{"Id":"page_report","Type":"String","Value":""},{"Id":"page_grid","Type":"String","Value":""},{"Id":"page_preview","Type":"String","Value":""}]]]></Properties>
+          </ExtField>
+          <ExtField FldName="verify_phone_ip">
+            <Properties><![CDATA[[{"Id":"page_add","Type":"String","Value":""},{"Id":"page_addopt","Type":"String","Value":""},{"Id":"page_view","Type":"String","Value":""},{"Id":"page_edit","Type":"String","Value":""},{"Id":"page_update","Type":"String","Value":""},{"Id":"page_delete","Type":"String","Value":""},{"Id":"page_search","Type":"String","Value":""},{"Id":"page_list","Type":"String","Value":""},{"Id":"action_add","Type":"String","Value":""},{"Id":"action_copy","Type":"String","Value":""},{"Id":"action_edit","Type":"String","Value":""},{"Id":"action_gridadd","Type":"String","Value":""},{"Id":"action_gridedit","Type":"String","Value":""},{"Id":"page_master","Type":"String","Value":""},{"Id":"page_report","Type":"String","Value":""},{"Id":"page_grid","Type":"String","Value":""},{"Id":"page_preview","Type":"String","Value":""}]]]></Properties>
+          </ExtField>
           <Properties><![CDATA[[{"Id":"PermissionType","Type":"String","Value":"bool"}]]]></Properties>
         </ExtTable>
         <ExtTable TblName="member_otp">
@@ -12922,6 +13176,9 @@
             <Properties><![CDATA[[{"Id":"page_add","Type":"String","Value":""},{"Id":"page_addopt","Type":"String","Value":""},{"Id":"page_view","Type":"String","Value":""},{"Id":"page_edit","Type":"String","Value":""},{"Id":"page_update","Type":"String","Value":""},{"Id":"page_delete","Type":"String","Value":""},{"Id":"page_search","Type":"String","Value":""},{"Id":"page_list","Type":"String","Value":""},{"Id":"action_add","Type":"String","Value":""},{"Id":"action_copy","Type":"String","Value":""},{"Id":"action_edit","Type":"String","Value":""},{"Id":"action_gridadd","Type":"String","Value":""},{"Id":"action_gridedit","Type":"String","Value":""},{"Id":"page_master","Type":"String","Value":""},{"Id":"page_report","Type":"String","Value":""},{"Id":"page_grid","Type":"String","Value":""},{"Id":"page_preview","Type":"String","Value":""}]]]></Properties>
           </ExtField>
           <ExtField FldName="res_referenceNo">
+            <Properties><![CDATA[[{"Id":"page_add","Type":"String","Value":""},{"Id":"page_addopt","Type":"String","Value":""},{"Id":"page_view","Type":"String","Value":""},{"Id":"page_edit","Type":"String","Value":""},{"Id":"page_update","Type":"String","Value":""},{"Id":"page_delete","Type":"String","Value":""},{"Id":"page_search","Type":"String","Value":""},{"Id":"page_list","Type":"String","Value":""},{"Id":"action_add","Type":"String","Value":""},{"Id":"action_copy","Type":"String","Value":""},{"Id":"action_edit","Type":"String","Value":""},{"Id":"action_gridadd","Type":"String","Value":""},{"Id":"action_gridedit","Type":"String","Value":""},{"Id":"page_master","Type":"String","Value":""},{"Id":"page_report","Type":"String","Value":""},{"Id":"page_grid","Type":"String","Value":""},{"Id":"page_preview","Type":"String","Value":""}]]]></Properties>
+          </ExtField>
+          <ExtField FldName="status_expire">
             <Properties><![CDATA[[{"Id":"page_add","Type":"String","Value":""},{"Id":"page_addopt","Type":"String","Value":""},{"Id":"page_view","Type":"String","Value":""},{"Id":"page_edit","Type":"String","Value":""},{"Id":"page_update","Type":"String","Value":""},{"Id":"page_delete","Type":"String","Value":""},{"Id":"page_search","Type":"String","Value":""},{"Id":"page_list","Type":"String","Value":""},{"Id":"action_add","Type":"String","Value":""},{"Id":"action_copy","Type":"String","Value":""},{"Id":"action_edit","Type":"String","Value":""},{"Id":"action_gridadd","Type":"String","Value":""},{"Id":"action_gridedit","Type":"String","Value":""},{"Id":"page_master","Type":"String","Value":""},{"Id":"page_report","Type":"String","Value":""},{"Id":"page_grid","Type":"String","Value":""},{"Id":"page_preview","Type":"String","Value":""}]]]></Properties>
           </ExtField>
           <Properties><![CDATA[[{"Id":"PermissionType","Type":"String","Value":"bool"}]]]></Properties>
@@ -13384,6 +13641,54 @@
         </ExtTable>
         <ExtTable TblName="buyerPaymentMonthly.php">
           <Properties><![CDATA[[{"Id":"PermissionType","Type":"String","Value":"bool"}]]]></Properties>
+        </ExtTable>
+        <ExtTable TblName="buyer">
+          <ExtField FldName="verify_phone_status">
+            <Properties><![CDATA[[{"Id":"page_add","Type":"String","Value":""},{"Id":"page_addopt","Type":"String","Value":""},{"Id":"page_view","Type":"String","Value":""},{"Id":"page_edit","Type":"String","Value":""},{"Id":"page_update","Type":"String","Value":""},{"Id":"page_delete","Type":"String","Value":""},{"Id":"page_search","Type":"String","Value":""},{"Id":"page_list","Type":"String","Value":""},{"Id":"action_add","Type":"String","Value":""},{"Id":"action_copy","Type":"String","Value":""},{"Id":"action_edit","Type":"String","Value":""},{"Id":"action_gridadd","Type":"String","Value":""},{"Id":"action_gridedit","Type":"String","Value":""},{"Id":"page_master","Type":"String","Value":""},{"Id":"page_report","Type":"String","Value":""},{"Id":"page_grid","Type":"String","Value":""},{"Id":"page_preview","Type":"String","Value":""}]]]></Properties>
+          </ExtField>
+          <ExtField FldName="verify_phone_date">
+            <Properties><![CDATA[[{"Id":"page_add","Type":"String","Value":""},{"Id":"page_addopt","Type":"String","Value":""},{"Id":"page_view","Type":"String","Value":""},{"Id":"page_edit","Type":"String","Value":""},{"Id":"page_update","Type":"String","Value":""},{"Id":"page_delete","Type":"String","Value":""},{"Id":"page_search","Type":"String","Value":""},{"Id":"page_list","Type":"String","Value":""},{"Id":"action_add","Type":"String","Value":""},{"Id":"action_copy","Type":"String","Value":""},{"Id":"action_edit","Type":"String","Value":""},{"Id":"action_gridadd","Type":"String","Value":""},{"Id":"action_gridedit","Type":"String","Value":""},{"Id":"page_master","Type":"String","Value":""},{"Id":"page_report","Type":"String","Value":""},{"Id":"page_grid","Type":"String","Value":""},{"Id":"page_preview","Type":"String","Value":""}]]]></Properties>
+          </ExtField>
+          <ExtField FldName="verify_phone_ip">
+            <Properties><![CDATA[[{"Id":"page_add","Type":"String","Value":""},{"Id":"page_addopt","Type":"String","Value":""},{"Id":"page_view","Type":"String","Value":""},{"Id":"page_edit","Type":"String","Value":""},{"Id":"page_update","Type":"String","Value":""},{"Id":"page_delete","Type":"String","Value":""},{"Id":"page_search","Type":"String","Value":""},{"Id":"page_list","Type":"String","Value":""},{"Id":"action_add","Type":"String","Value":""},{"Id":"action_copy","Type":"String","Value":""},{"Id":"action_edit","Type":"String","Value":""},{"Id":"action_gridadd","Type":"String","Value":""},{"Id":"action_gridedit","Type":"String","Value":""},{"Id":"page_master","Type":"String","Value":""},{"Id":"page_report","Type":"String","Value":""},{"Id":"page_grid","Type":"String","Value":""},{"Id":"page_preview","Type":"String","Value":""}]]]></Properties>
+          </ExtField>
+          <Properties><![CDATA[[]]]></Properties>
+        </ExtTable>
+        <ExtTable TblName="buyer_asset">
+          <ExtField FldName="status_expire">
+            <Properties><![CDATA[[{"Id":"page_add","Type":"String","Value":""},{"Id":"page_addopt","Type":"String","Value":""},{"Id":"page_view","Type":"String","Value":""},{"Id":"page_edit","Type":"String","Value":""},{"Id":"page_update","Type":"String","Value":""},{"Id":"page_delete","Type":"String","Value":""},{"Id":"page_search","Type":"String","Value":""},{"Id":"page_list","Type":"String","Value":""},{"Id":"action_add","Type":"String","Value":""},{"Id":"action_copy","Type":"String","Value":""},{"Id":"action_edit","Type":"String","Value":""},{"Id":"action_gridadd","Type":"String","Value":""},{"Id":"action_gridedit","Type":"String","Value":""},{"Id":"page_master","Type":"String","Value":""},{"Id":"page_report","Type":"String","Value":""},{"Id":"page_grid","Type":"String","Value":""},{"Id":"page_preview","Type":"String","Value":""}]]]></Properties>
+          </ExtField>
+          <Properties><![CDATA[[]]]></Properties>
+        </ExtTable>
+        <ExtTable TblName="investor">
+          <ExtField FldName="verify_phone_status">
+            <Properties><![CDATA[[{"Id":"page_add","Type":"String","Value":""},{"Id":"page_addopt","Type":"String","Value":""},{"Id":"page_view","Type":"String","Value":""},{"Id":"page_edit","Type":"String","Value":""},{"Id":"page_update","Type":"String","Value":""},{"Id":"page_delete","Type":"String","Value":""},{"Id":"page_search","Type":"String","Value":""},{"Id":"page_list","Type":"String","Value":""},{"Id":"action_add","Type":"String","Value":""},{"Id":"action_copy","Type":"String","Value":""},{"Id":"action_edit","Type":"String","Value":""},{"Id":"action_gridadd","Type":"String","Value":""},{"Id":"action_gridedit","Type":"String","Value":""},{"Id":"page_master","Type":"String","Value":""},{"Id":"page_report","Type":"String","Value":""},{"Id":"page_grid","Type":"String","Value":""},{"Id":"page_preview","Type":"String","Value":""}]]]></Properties>
+          </ExtField>
+          <ExtField FldName="verify_phone_date">
+            <Properties><![CDATA[[{"Id":"page_add","Type":"String","Value":""},{"Id":"page_addopt","Type":"String","Value":""},{"Id":"page_view","Type":"String","Value":""},{"Id":"page_edit","Type":"String","Value":""},{"Id":"page_update","Type":"String","Value":""},{"Id":"page_delete","Type":"String","Value":""},{"Id":"page_search","Type":"String","Value":""},{"Id":"page_list","Type":"String","Value":""},{"Id":"action_add","Type":"String","Value":""},{"Id":"action_copy","Type":"String","Value":""},{"Id":"action_edit","Type":"String","Value":""},{"Id":"action_gridadd","Type":"String","Value":""},{"Id":"action_gridedit","Type":"String","Value":""},{"Id":"page_master","Type":"String","Value":""},{"Id":"page_report","Type":"String","Value":""},{"Id":"page_grid","Type":"String","Value":""},{"Id":"page_preview","Type":"String","Value":""}]]]></Properties>
+          </ExtField>
+          <ExtField FldName="verify_phone_ip">
+            <Properties><![CDATA[[{"Id":"page_add","Type":"String","Value":""},{"Id":"page_addopt","Type":"String","Value":""},{"Id":"page_view","Type":"String","Value":""},{"Id":"page_edit","Type":"String","Value":""},{"Id":"page_update","Type":"String","Value":""},{"Id":"page_delete","Type":"String","Value":""},{"Id":"page_search","Type":"String","Value":""},{"Id":"page_list","Type":"String","Value":""},{"Id":"action_add","Type":"String","Value":""},{"Id":"action_copy","Type":"String","Value":""},{"Id":"action_edit","Type":"String","Value":""},{"Id":"action_gridadd","Type":"String","Value":""},{"Id":"action_gridedit","Type":"String","Value":""},{"Id":"page_master","Type":"String","Value":""},{"Id":"page_report","Type":"String","Value":""},{"Id":"page_grid","Type":"String","Value":""},{"Id":"page_preview","Type":"String","Value":""}]]]></Properties>
+          </ExtField>
+          <Properties><![CDATA[[]]]></Properties>
+        </ExtTable>
+        <ExtTable TblName="inverter_asset">
+          <ExtField FldName="status_expire">
+            <Properties><![CDATA[[{"Id":"page_add","Type":"String","Value":""},{"Id":"page_addopt","Type":"String","Value":""},{"Id":"page_view","Type":"String","Value":""},{"Id":"page_edit","Type":"String","Value":""},{"Id":"page_update","Type":"String","Value":""},{"Id":"page_delete","Type":"String","Value":""},{"Id":"page_search","Type":"String","Value":""},{"Id":"page_list","Type":"String","Value":""},{"Id":"action_add","Type":"String","Value":""},{"Id":"action_copy","Type":"String","Value":""},{"Id":"action_edit","Type":"String","Value":""},{"Id":"action_gridadd","Type":"String","Value":""},{"Id":"action_gridedit","Type":"String","Value":""},{"Id":"page_master","Type":"String","Value":""},{"Id":"page_report","Type":"String","Value":""},{"Id":"page_grid","Type":"String","Value":""},{"Id":"page_preview","Type":"String","Value":""}]]]></Properties>
+          </ExtField>
+          <Properties><![CDATA[[]]]></Properties>
+        </ExtTable>
+        <ExtTable TblName="seller">
+          <ExtField FldName="verify_phone_status">
+            <Properties><![CDATA[[{"Id":"page_add","Type":"String","Value":""},{"Id":"page_addopt","Type":"String","Value":""},{"Id":"page_view","Type":"String","Value":""},{"Id":"page_edit","Type":"String","Value":""},{"Id":"page_update","Type":"String","Value":""},{"Id":"page_delete","Type":"String","Value":""},{"Id":"page_search","Type":"String","Value":""},{"Id":"page_list","Type":"String","Value":""},{"Id":"action_add","Type":"String","Value":""},{"Id":"action_copy","Type":"String","Value":""},{"Id":"action_edit","Type":"String","Value":""},{"Id":"action_gridadd","Type":"String","Value":""},{"Id":"action_gridedit","Type":"String","Value":""},{"Id":"page_master","Type":"String","Value":""},{"Id":"page_report","Type":"String","Value":""},{"Id":"page_grid","Type":"String","Value":""},{"Id":"page_preview","Type":"String","Value":""}]]]></Properties>
+          </ExtField>
+          <ExtField FldName="verify_phone_date">
+            <Properties><![CDATA[[{"Id":"page_add","Type":"String","Value":""},{"Id":"page_addopt","Type":"String","Value":""},{"Id":"page_view","Type":"String","Value":""},{"Id":"page_edit","Type":"String","Value":""},{"Id":"page_update","Type":"String","Value":""},{"Id":"page_delete","Type":"String","Value":""},{"Id":"page_search","Type":"String","Value":""},{"Id":"page_list","Type":"String","Value":""},{"Id":"action_add","Type":"String","Value":""},{"Id":"action_copy","Type":"String","Value":""},{"Id":"action_edit","Type":"String","Value":""},{"Id":"action_gridadd","Type":"String","Value":""},{"Id":"action_gridedit","Type":"String","Value":""},{"Id":"page_master","Type":"String","Value":""},{"Id":"page_report","Type":"String","Value":""},{"Id":"page_grid","Type":"String","Value":""},{"Id":"page_preview","Type":"String","Value":""}]]]></Properties>
+          </ExtField>
+          <ExtField FldName="verify_phone_ip">
+            <Properties><![CDATA[[{"Id":"page_add","Type":"String","Value":""},{"Id":"page_addopt","Type":"String","Value":""},{"Id":"page_view","Type":"String","Value":""},{"Id":"page_edit","Type":"String","Value":""},{"Id":"page_update","Type":"String","Value":""},{"Id":"page_delete","Type":"String","Value":""},{"Id":"page_search","Type":"String","Value":""},{"Id":"page_list","Type":"String","Value":""},{"Id":"action_add","Type":"String","Value":""},{"Id":"action_copy","Type":"String","Value":""},{"Id":"action_edit","Type":"String","Value":""},{"Id":"action_gridadd","Type":"String","Value":""},{"Id":"action_gridedit","Type":"String","Value":""},{"Id":"page_master","Type":"String","Value":""},{"Id":"page_report","Type":"String","Value":""},{"Id":"page_grid","Type":"String","Value":""},{"Id":"page_preview","Type":"String","Value":""}]]]></Properties>
+          </ExtField>
+          <Properties><![CDATA[[]]]></Properties>
         </ExtTable>
         <Properties><![CDATA[[]]]></Properties>
       </ExtDatabase>
@@ -14884,6 +15189,27 @@
           <ExtField FldName="update_expired_ip">
             <Properties><![CDATA[[{"Id":"IsEncrypt","Type":"Boolean","Value":"0"}]]]></Properties>
           </ExtField>
+          <ExtField FldName="transfer_day_expenses_without_business_tax_max_min">
+            <Properties><![CDATA[[{"Id":"IsEncrypt","Type":"Boolean","Value":"0"}]]]></Properties>
+          </ExtField>
+          <ExtField FldName="transfer_day_expenses_with_business_tax_max_min">
+            <Properties><![CDATA[[{"Id":"IsEncrypt","Type":"Boolean","Value":"0"}]]]></Properties>
+          </ExtField>
+          <ExtField FldName="usable_area_price_max">
+            <Properties><![CDATA[[{"Id":"IsEncrypt","Type":"Boolean","Value":"0"}]]]></Properties>
+          </ExtField>
+          <ExtField FldName="land_size_price_max">
+            <Properties><![CDATA[[{"Id":"IsEncrypt","Type":"Boolean","Value":"0"}]]]></Properties>
+          </ExtField>
+          <ExtField FldName="usable_area_price_min">
+            <Properties><![CDATA[[{"Id":"IsEncrypt","Type":"Boolean","Value":"0"}]]]></Properties>
+          </ExtField>
+          <ExtField FldName="land_size_price_min">
+            <Properties><![CDATA[[{"Id":"IsEncrypt","Type":"Boolean","Value":"0"}]]]></Properties>
+          </ExtField>
+          <ExtField FldName="factor_monthly_installment_over_down_max">
+            <Properties><![CDATA[[{"Id":"IsEncrypt","Type":"Boolean","Value":"0"}]]]></Properties>
+          </ExtField>
           <Properties><![CDATA[[]]]></Properties>
         </ExtTable>
         <ExtTable TblName="asset_attribute">
@@ -15805,6 +16131,9 @@
           <ExtField FldName="due_date">
             <Properties><![CDATA[[{"Id":"IsEncrypt","Type":"Boolean","Value":"0"}]]]></Properties>
           </ExtField>
+          <ExtField FldName="status_expire">
+            <Properties><![CDATA[[{"Id":"IsEncrypt","Type":"Boolean","Value":"0"}]]]></Properties>
+          </ExtField>
           <Properties><![CDATA[[]]]></Properties>
         </ExtTable>
         <ExtTable TblName="buyer_config_asset_schedule">
@@ -16163,6 +16492,9 @@
             <Properties><![CDATA[[{"Id":"IsEncrypt","Type":"Boolean","Value":"0"}]]]></Properties>
           </ExtField>
           <ExtField FldName="udate">
+            <Properties><![CDATA[[{"Id":"IsEncrypt","Type":"Boolean","Value":"0"}]]]></Properties>
+          </ExtField>
+          <ExtField FldName="status_expire">
             <Properties><![CDATA[[{"Id":"IsEncrypt","Type":"Boolean","Value":"0"}]]]></Properties>
           </ExtField>
           <Properties><![CDATA[[]]]></Properties>
@@ -16600,6 +16932,9 @@
           <ExtField FldName="due_date">
             <Properties><![CDATA[[{"Id":"IsEncrypt","Type":"Boolean","Value":"0"}]]]></Properties>
           </ExtField>
+          <ExtField FldName="status_expire">
+            <Properties><![CDATA[[{"Id":"IsEncrypt","Type":"Boolean","Value":"0"}]]]></Properties>
+          </ExtField>
           <Properties><![CDATA[[]]]></Properties>
         </ExtTable>
         <ExtTable TblName="log_login">
@@ -16676,6 +17011,9 @@
             <Properties><![CDATA[[{"Id":"IsEncrypt","Type":"Boolean","Value":"0"}]]]></Properties>
           </ExtField>
           <ExtField FldName="res_referenceNo">
+            <Properties><![CDATA[[{"Id":"IsEncrypt","Type":"Boolean","Value":"0"}]]]></Properties>
+          </ExtField>
+          <ExtField FldName="status_expire">
             <Properties><![CDATA[[{"Id":"IsEncrypt","Type":"Boolean","Value":"0"}]]]></Properties>
           </ExtField>
           <Properties><![CDATA[[]]]></Properties>
@@ -17176,6 +17514,15 @@
           <ExtField FldName="pipedrive_people_id">
             <Properties><![CDATA[[{"Id":"IsEncrypt","Type":"Boolean","Value":"0"}]]]></Properties>
           </ExtField>
+          <ExtField FldName="verify_phone_status">
+            <Properties><![CDATA[[{"Id":"IsEncrypt","Type":"Boolean","Value":"0"}]]]></Properties>
+          </ExtField>
+          <ExtField FldName="verify_phone_date">
+            <Properties><![CDATA[[{"Id":"IsEncrypt","Type":"Boolean","Value":"0"}]]]></Properties>
+          </ExtField>
+          <ExtField FldName="verify_phone_ip">
+            <Properties><![CDATA[[{"Id":"IsEncrypt","Type":"Boolean","Value":"0"}]]]></Properties>
+          </ExtField>
           <Properties><![CDATA[[]]]></Properties>
         </ExtTable>
         <ExtTable TblName="member_otp">
@@ -17417,6 +17764,9 @@
             <Properties><![CDATA[[{"Id":"IsEncrypt","Type":"Boolean","Value":"0"}]]]></Properties>
           </ExtField>
           <ExtField FldName="res_referenceNo">
+            <Properties><![CDATA[[{"Id":"IsEncrypt","Type":"Boolean","Value":"0"}]]]></Properties>
+          </ExtField>
+          <ExtField FldName="status_expire">
             <Properties><![CDATA[[{"Id":"IsEncrypt","Type":"Boolean","Value":"0"}]]]></Properties>
           </ExtField>
           <Properties><![CDATA[[]]]></Properties>
@@ -17989,6 +18339,54 @@
           <Properties><![CDATA[[]]]></Properties>
         </ExtTable>
         <ExtTable TblName="buyerPaymentMonthly.php">
+          <Properties><![CDATA[[]]]></Properties>
+        </ExtTable>
+        <ExtTable TblName="buyer">
+          <ExtField FldName="verify_phone_status">
+            <Properties><![CDATA[[{"Id":"IsEncrypt","Type":"Boolean","Value":"0"}]]]></Properties>
+          </ExtField>
+          <ExtField FldName="verify_phone_date">
+            <Properties><![CDATA[[{"Id":"IsEncrypt","Type":"Boolean","Value":"0"}]]]></Properties>
+          </ExtField>
+          <ExtField FldName="verify_phone_ip">
+            <Properties><![CDATA[[{"Id":"IsEncrypt","Type":"Boolean","Value":"0"}]]]></Properties>
+          </ExtField>
+          <Properties><![CDATA[[]]]></Properties>
+        </ExtTable>
+        <ExtTable TblName="buyer_asset">
+          <ExtField FldName="status_expire">
+            <Properties><![CDATA[[{"Id":"IsEncrypt","Type":"Boolean","Value":"0"}]]]></Properties>
+          </ExtField>
+          <Properties><![CDATA[[]]]></Properties>
+        </ExtTable>
+        <ExtTable TblName="investor">
+          <ExtField FldName="verify_phone_status">
+            <Properties><![CDATA[[{"Id":"IsEncrypt","Type":"Boolean","Value":"0"}]]]></Properties>
+          </ExtField>
+          <ExtField FldName="verify_phone_date">
+            <Properties><![CDATA[[{"Id":"IsEncrypt","Type":"Boolean","Value":"0"}]]]></Properties>
+          </ExtField>
+          <ExtField FldName="verify_phone_ip">
+            <Properties><![CDATA[[{"Id":"IsEncrypt","Type":"Boolean","Value":"0"}]]]></Properties>
+          </ExtField>
+          <Properties><![CDATA[[]]]></Properties>
+        </ExtTable>
+        <ExtTable TblName="inverter_asset">
+          <ExtField FldName="status_expire">
+            <Properties><![CDATA[[{"Id":"IsEncrypt","Type":"Boolean","Value":"0"}]]]></Properties>
+          </ExtField>
+          <Properties><![CDATA[[]]]></Properties>
+        </ExtTable>
+        <ExtTable TblName="seller">
+          <ExtField FldName="verify_phone_status">
+            <Properties><![CDATA[[{"Id":"IsEncrypt","Type":"Boolean","Value":"0"}]]]></Properties>
+          </ExtField>
+          <ExtField FldName="verify_phone_date">
+            <Properties><![CDATA[[{"Id":"IsEncrypt","Type":"Boolean","Value":"0"}]]]></Properties>
+          </ExtField>
+          <ExtField FldName="verify_phone_ip">
+            <Properties><![CDATA[[{"Id":"IsEncrypt","Type":"Boolean","Value":"0"}]]]></Properties>
+          </ExtField>
           <Properties><![CDATA[[]]]></Properties>
         </ExtTable>
         <Properties><![CDATA[[]]]></Properties>
