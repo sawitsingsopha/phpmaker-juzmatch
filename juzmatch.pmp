@@ -18659,21 +18659,6 @@
   <MasterDetail MasterTable="investor" DetailTable="invertor_booking" EnforceReferentialIntegrity="1" CascadeUpdate="1" CascadeDelete="1">
     <Relation MasterField="member_id" DetailField="member_id" />
   </MasterDetail>
-  <MasterDetail MasterTable="asset" DetailTable="asset_facilities" EnforceReferentialIntegrity="1" CascadeUpdate="1" CascadeDelete="1">
-    <Relation MasterField="asset_id" DetailField="asset_id" />
-  </MasterDetail>
-  <MasterDetail MasterTable="asset" DetailTable="asset_pros_detail" EnforceReferentialIntegrity="1" CascadeUpdate="1" CascadeDelete="1">
-    <Relation MasterField="asset_id" DetailField="asset_id" />
-  </MasterDetail>
-  <MasterDetail MasterTable="asset" DetailTable="asset_banner" EnforceReferentialIntegrity="1" CascadeUpdate="1" CascadeDelete="1">
-    <Relation MasterField="asset_id" DetailField="asset_id" />
-  </MasterDetail>
-  <MasterDetail MasterTable="asset" DetailTable="asset_category" EnforceReferentialIntegrity="1" CascadeUpdate="1" CascadeDelete="1">
-    <Relation MasterField="asset_id" DetailField="asset_id" />
-  </MasterDetail>
-  <MasterDetail MasterTable="asset" DetailTable="asset_warning" EnforceReferentialIntegrity="1" CascadeUpdate="1" CascadeDelete="1">
-    <Relation MasterField="asset_id" DetailField="asset_id" />
-  </MasterDetail>
   <MasterDetail MasterTable="buyer" DetailTable="buyer_verify" EnforceReferentialIntegrity="1" CascadeUpdate="1" CascadeDelete="1">
     <Relation MasterField="member_id" DetailField="member_id" />
   </MasterDetail>
@@ -18710,12 +18695,27 @@
     <Relation MasterField="asset_id" DetailField="asset_id" />
     <Relation MasterField="member_id" DetailField="member_id" />
   </MasterDetail>
-  <MasterDetail MasterTable="sale_asset" DetailTable="asset" EnforceReferentialIntegrity="1" CascadeUpdate="1" CascadeDelete="1">
-    <Relation MasterField="asset_id" DetailField="asset_id" />
-  </MasterDetail>
   <MasterDetail MasterTable="sale_asset" DetailTable="asset_warning" EnforceReferentialIntegrity="1" CascadeUpdate="1" CascadeDelete="1">
     <Relation MasterField="asset_id" DetailField="asset_id" />
     <Relation MasterField="member_id" DetailField="member_id" />
+  </MasterDetail>
+  <MasterDetail MasterTable="sale_asset" DetailTable="asset" EnforceReferentialIntegrity="0" CascadeUpdate="0" CascadeDelete="0">
+    <Relation MasterField="asset_id" DetailField="asset_id" />
+  </MasterDetail>
+  <MasterDetail MasterTable="asset" DetailTable="asset_facilities" EnforceReferentialIntegrity="1" CascadeUpdate="1" CascadeDelete="1">
+    <Relation MasterField="asset_id" DetailField="asset_id" />
+  </MasterDetail>
+  <MasterDetail MasterTable="asset" DetailTable="asset_pros_detail" EnforceReferentialIntegrity="1" CascadeUpdate="1" CascadeDelete="1">
+    <Relation MasterField="asset_id" DetailField="asset_id" />
+  </MasterDetail>
+  <MasterDetail MasterTable="asset" DetailTable="asset_banner" EnforceReferentialIntegrity="1" CascadeUpdate="1" CascadeDelete="1">
+    <Relation MasterField="asset_id" DetailField="asset_id" />
+  </MasterDetail>
+  <MasterDetail MasterTable="asset" DetailTable="asset_category" EnforceReferentialIntegrity="1" CascadeUpdate="1" CascadeDelete="1">
+    <Relation MasterField="asset_id" DetailField="asset_id" />
+  </MasterDetail>
+  <MasterDetail MasterTable="asset" DetailTable="asset_warning" EnforceReferentialIntegrity="1" CascadeUpdate="1" CascadeDelete="1">
+    <Relation MasterField="asset_id" DetailField="asset_id" />
   </MasterDetail>
   <CustomScript ScriptType="Client" ScriptCodeType="Global" ScriptName="Startup Script"><![CDATA[/**
  * Write your global startup script here, no need to add script tags.
