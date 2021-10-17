@@ -1763,7 +1763,6 @@
       <Field FldName="res_referenceNo" FldType="200" FldTypeName="VARCHAR" NativeDataType="253" FldSupport="1" FldSort="0" FldSize="255" FldAttribute="100" FldGenerate="1" FldAddOpt="1" FldSrchOpr="LIKE" FldCaption="res reference No" FldViewTag="FORMATTED TEXT" FldHtmlTag="TEXT" FldTagSize="30" FldTagMaxLength="255" FldSelectType="Values" FldTagAPrefix="None" FldIncLeadDigit="-2" FldUseParen="-2" FldGpDigits="-2" FldQuoteS="'" FldQuoteE="'" FldColumnWrap="0" FldResizeQuality="75" />
       <Field FldName="installment_all" FldType="3" FldTypeName="INT" NativeDataType="3" FldSupport="1" FldSort="0" FldSize="11" FldAttribute="100" FldValidate="INTEGER" FldGenerate="1" FldList="1" FldEdit="1" FldAdd="1" FldAddOpt="1" FldSearch="1" FldSrchOpr="=" FldCaption="งวดผ่อนทั้งหมด" FldViewTag="FORMATTED TEXT" FldHtmlTag="TEXT" FldTagSize="30" FldSelectType="Values" FldTagAPrefix="None" FldFmtType="Number" FldIncLeadDigit="-2" FldUseParen="-2" FldGpDigits="-2" FldMultiUpdate="1" FldResizeQuality="75" />
     </Table>
-    <Table TblName="investor_config_buyer_down.php" TblType="REPORT" TblGen="1" TblGenList="reportcontroller=0,custom=0,custom|class=0" TblList="1" TblCaption="Investor Config Buyer Down" TblSrchType="NONE" TblBasicSearch="1" TblExtendedBasicSearch="1" TblSecurity="0,&quot;Default&quot;,0;1,&quot;Juzmatch Admin&quot;,8" TblLoaded="1" OutputFolder="/investor_config_buyer_down" TblReportType="custom" TblShowEmptyRows="0" TblUseGlobal="1" TblRecPerPage="20" TblRecPerPageList="10,20,50,ALL" TblGrpPerPage="3" TblGrpPerPageList="1,2,3,5,ALL" TblPagerStyle="2" TblUseButtonsForLinks="1" TblUseDropDownForAction="1" TblUseDropDownForListOptions="1" TblUseDropDownForExport="1" />
   </Database>
   <LinkDatabase DBID="juzmatch1" DBName="juzmatch" DBType="MySQL" DBConnectionMethod="DIRECT" DBHost="203.150.19.170" DBPort="3306" DBUID="u-kf2kJ16wONmhv2ryv7ag" DBPwd="WB_5Rb-d8crYwhS70KDsGT9RShal5y5_l1_yskRzOx4" DBQuoteS="`" DBQuoteE="`" DBDBMSName="MySQL" DBDBMSVer="50733" DBProviderName="e.World Technology Ltd." DBProviderVer="18" />
   <LinkDatabase DBID="juzmatch2" DBName="juzmatch" DBType="MySQL" DBConnectionMethod="URL" DBURL="https://uatbackend.juzmatch.com/tunnel.php" DBHost="203.150.19.170" DBPort="3306" DBUID="u-kf2kJ16wONmhv2ryv7ag" DBPwd="WB_5Rb-d8crYwhS70KDsGT9RShal5y5_l1_yskRzOx4" DBQuoteS="`" DBQuoteE="`" DBDBMSName="MySQL" DBDBMSVer="50733" DBProviderName="e.World Technology Ltd." DBProviderVer="18" />
@@ -2045,9 +2044,6 @@
           <Properties><![CDATA[[{"Id":"ExportList","Type":"Boolean","Value":"0"},{"Id":"ExportView","Type":"Boolean","Value":"1"},{"Id":"PageBreakRecordCount","Type":"Integer","Value":0},{"Id":"PageOrientation","Type":"String","Value":"portrait"},{"Id":"PageSize","Type":"String","Value":"a4"}]]]></Properties>
         </ExtTable>
         <ExtTable TblName="log_send_email">
-          <Properties><![CDATA[[{"Id":"ExportList","Type":"Boolean","Value":"0"},{"Id":"ExportView","Type":"Boolean","Value":"1"},{"Id":"PageBreakRecordCount","Type":"Integer","Value":0},{"Id":"PageOrientation","Type":"String","Value":"portrait"},{"Id":"PageSize","Type":"String","Value":"a4"}]]]></Properties>
-        </ExtTable>
-        <ExtTable TblName="investor_config_buyer_down.php">
           <Properties><![CDATA[[{"Id":"ExportList","Type":"Boolean","Value":"0"},{"Id":"ExportView","Type":"Boolean","Value":"1"},{"Id":"PageBreakRecordCount","Type":"Integer","Value":0},{"Id":"PageOrientation","Type":"String","Value":"portrait"},{"Id":"PageSize","Type":"String","Value":"a4"}]]]></Properties>
         </ExtTable>
         <Properties><![CDATA[[]]]></Properties>
@@ -5760,9 +5756,6 @@
           </ExtField>
           <Properties><![CDATA[[]]]></Properties>
         </ExtTable>
-        <ExtTable TblName="investor_config_buyer_down.php">
-          <Properties><![CDATA[[]]]></Properties>
-        </ExtTable>
         <Properties><![CDATA[[]]]></Properties>
       </ExtDatabase>
       <Properties><![CDATA[[{"Id":"InputGroup","Type":"Boolean","Value":"1"},{"Id":"Options","Type":"String","Value":""}]]]></Properties>
@@ -5819,9 +5812,6 @@
           <Properties><![CDATA[[]]]></Properties>
         </ExtTable>
         <ExtTable TblName="log_send_email">
-          <Properties><![CDATA[[]]]></Properties>
-        </ExtTable>
-        <ExtTable TblName="investor_config_buyer_down.php">
           <Properties><![CDATA[[]]]></Properties>
         </ExtTable>
         <Properties><![CDATA[[]]]></Properties>
@@ -6141,9 +6131,6 @@
           <Properties><![CDATA[[{"Id":"Add","Type":"Boolean","Value":"1"},{"Id":"Edit","Type":"Boolean","Value":"1"},{"Id":"Delete","Type":"Boolean","Value":"1"},{"Id":"View","Type":"Boolean","Value":"0"},{"Id":"ViewData","Type":"Boolean","Value":"0"},{"Id":"Search","Type":"Boolean","Value":"0"}]]]></Properties>
         </ExtTable>
         <ExtTable TblName="log_send_email">
-          <Properties><![CDATA[[{"Id":"Add","Type":"Boolean","Value":"1"},{"Id":"Edit","Type":"Boolean","Value":"1"},{"Id":"Delete","Type":"Boolean","Value":"1"},{"Id":"View","Type":"Boolean","Value":"0"},{"Id":"ViewData","Type":"Boolean","Value":"0"},{"Id":"Search","Type":"Boolean","Value":"0"}]]]></Properties>
-        </ExtTable>
-        <ExtTable TblName="investor_config_buyer_down.php">
           <Properties><![CDATA[[{"Id":"Add","Type":"Boolean","Value":"1"},{"Id":"Edit","Type":"Boolean","Value":"1"},{"Id":"Delete","Type":"Boolean","Value":"1"},{"Id":"View","Type":"Boolean","Value":"0"},{"Id":"ViewData","Type":"Boolean","Value":"0"},{"Id":"Search","Type":"Boolean","Value":"0"}]]]></Properties>
         </ExtTable>
         <Properties><![CDATA[[]]]></Properties>
@@ -6466,9 +6453,6 @@
           <Properties><![CDATA[[{"Id":"Enabled","Type":"Boolean","Value":"0"},{"Id":"TableWidth","Type":"String","Value":"0"},{"Id":"TableHeight","Type":"String","Value":"0"}]]]></Properties>
         </ExtTable>
         <ExtTable TblName="log_send_email">
-          <Properties><![CDATA[[{"Id":"Enabled","Type":"Boolean","Value":"0"},{"Id":"TableWidth","Type":"String","Value":"0"},{"Id":"TableHeight","Type":"String","Value":"0"}]]]></Properties>
-        </ExtTable>
-        <ExtTable TblName="investor_config_buyer_down.php">
           <Properties><![CDATA[[{"Id":"Enabled","Type":"Boolean","Value":"0"},{"Id":"TableWidth","Type":"String","Value":"0"},{"Id":"TableHeight","Type":"String","Value":"0"}]]]></Properties>
         </ExtTable>
         <Properties><![CDATA[[]]]></Properties>
@@ -10358,9 +10342,6 @@
           </ExtField>
           <Properties><![CDATA[[]]]></Properties>
         </ExtTable>
-        <ExtTable TblName="investor_config_buyer_down.php">
-          <Properties><![CDATA[[]]]></Properties>
-        </ExtTable>
         <Properties><![CDATA[[]]]></Properties>
       </ExtDatabase>
       <Properties><![CDATA[[{"Id":"InputGroup","Type":"Boolean","Value":"1"},{"Id":"Options","Type":"String","Value":""}]]]></Properties>
@@ -14071,9 +14052,6 @@
           </ExtField>
           <Properties><![CDATA[[{"Id":"PermissionType","Type":"String","Value":"bool"}]]]></Properties>
         </ExtTable>
-        <ExtTable TblName="investor_config_buyer_down.php">
-          <Properties><![CDATA[[{"Id":"PermissionType","Type":"String","Value":"bool"}]]]></Properties>
-        </ExtTable>
         <Properties><![CDATA[[]]]></Properties>
       </ExtDatabase>
       <Properties><![CDATA[[]]]></Properties>
@@ -14358,9 +14336,6 @@
         <ExtTable TblName="log_send_email">
           <Properties><![CDATA[[{"Id":"Orientation","Type":"String","Value":"portrait"},{"Id":"Size","Type":"String","Value":"A4"},{"Id":"ColumnWidth","Type":"Integer","Value":0}]]]></Properties>
         </ExtTable>
-        <ExtTable TblName="investor_config_buyer_down.php">
-          <Properties><![CDATA[[{"Id":"Orientation","Type":"String","Value":"portrait"},{"Id":"Size","Type":"String","Value":"A4"},{"Id":"ColumnWidth","Type":"Integer","Value":0}]]]></Properties>
-        </ExtTable>
         <Properties><![CDATA[[]]]></Properties>
       </ExtDatabase>
       <Properties><![CDATA[[{"Id":"OoxmlVersion","Type":"String","Value":"12"}]]]></Properties>
@@ -14643,9 +14618,6 @@
           <Properties><![CDATA[[{"Id":"PageOrientation","Type":"String","Value":"ORIENTATION_DEFAULT"},{"Id":"PageSize","Type":"String","Value":"PAPERSIZE_A4"}]]]></Properties>
         </ExtTable>
         <ExtTable TblName="log_send_email">
-          <Properties><![CDATA[[{"Id":"PageOrientation","Type":"String","Value":"ORIENTATION_DEFAULT"},{"Id":"PageSize","Type":"String","Value":"PAPERSIZE_A4"}]]]></Properties>
-        </ExtTable>
-        <ExtTable TblName="investor_config_buyer_down.php">
           <Properties><![CDATA[[{"Id":"PageOrientation","Type":"String","Value":"ORIENTATION_DEFAULT"},{"Id":"PageSize","Type":"String","Value":"PAPERSIZE_A4"}]]]></Properties>
         </ExtTable>
         <Properties><![CDATA[[]]]></Properties>
@@ -14960,9 +14932,6 @@
           <Properties><![CDATA[[{"Id":"UseDetailPreview","Type":"Boolean","Value":"1"},{"Id":"PreviewType","Type":"String","Value":"row"},{"Id":"PreviewRowColor","Type":"Color","Value":""},{"Id":"SingleRow","Type":"Boolean","Value":"0"},{"Id":"PageSize","Type":"Integer","Value":0},{"Id":"UseModalLinks","Type":"Boolean","Value":"0"}]]]></Properties>
         </ExtTable>
         <ExtTable TblName="log_send_email">
-          <Properties><![CDATA[[{"Id":"UseDetailPreview","Type":"Boolean","Value":"1"},{"Id":"PreviewType","Type":"String","Value":"row"},{"Id":"PreviewRowColor","Type":"Color","Value":""},{"Id":"SingleRow","Type":"Boolean","Value":"0"},{"Id":"PageSize","Type":"Integer","Value":0},{"Id":"UseModalLinks","Type":"Boolean","Value":"0"}]]]></Properties>
-        </ExtTable>
-        <ExtTable TblName="investor_config_buyer_down.php">
           <Properties><![CDATA[[{"Id":"UseDetailPreview","Type":"Boolean","Value":"1"},{"Id":"PreviewType","Type":"String","Value":"row"},{"Id":"PreviewRowColor","Type":"Color","Value":""},{"Id":"SingleRow","Type":"Boolean","Value":"0"},{"Id":"PageSize","Type":"Integer","Value":0},{"Id":"UseModalLinks","Type":"Boolean","Value":"0"}]]]></Properties>
         </ExtTable>
         <Properties><![CDATA[[]]]></Properties>
@@ -18860,9 +18829,6 @@
           </ExtField>
           <Properties><![CDATA[[]]]></Properties>
         </ExtTable>
-        <ExtTable TblName="investor_config_buyer_down.php">
-          <Properties><![CDATA[[]]]></Properties>
-        </ExtTable>
         <Properties><![CDATA[[]]]></Properties>
       </ExtDatabase>
       <Properties><![CDATA[[]]]></Properties>
@@ -19052,14 +19018,6 @@ function Row_Inserting($rsold, &$rsnew)
     $rsnew['asset_code'] = 'J'.date('ymd').rand(001, 999);
     return true;
 }]]></CustomScript>
-  <CustomScript ScriptType="Template" ScriptCodeType="Table" ScriptName="Content" ScriptCtrlID="custom" ScriptL1Key="investor_config_buyer_down.php"><![CDATA[<table class="table table-striped table-sm ew-view-table">
-</table>
-<table class="table table-striped table-sm ew-view-table">
-</table>
-<table class="table table-striped table-sm ew-view-table">
-</table>
-]]></CustomScript>
-  <Menu MenuID="227" MenuText="Investor Config Buyer Down" MenuParentID="-1" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="investor_config_buyer_down.php" MenuType="" MenuCustomUrl="0" MenuLevel="0" MenuShow="1" MenuDisplayOrder="-1" MenuIconClass="" MenuNavbar="0" />
   <Menu MenuID="104" MenuText="Dashboard" MenuParentID="-1" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="dashboard.php" MenuType="" MenuCustomUrl="0" MenuLevel="0" MenuShow="1" MenuDisplayOrder="100" MenuIconClass="fas fa-chart-line" MenuNavbar="0" />
   <Menu MenuID="87" MenuText="สินทรัพย์" MenuParentID="-1" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="8" MenuSecurity="" MenuUrl="" MenuType="" MenuCustomUrl="1" MenuLevel="0" MenuShow="1" MenuDisplayOrder="200" MenuIconClass="fas fa-home" MenuNavbar="0" />
   <Menu MenuID="7" MenuText="สินทรัพย์ทั้งหมด" MenuParentID="87" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="asset" MenuType="" MenuCustomUrl="0" MenuLevel="1" MenuShow="1" MenuDisplayOrder="100" MenuIconClass="fas fa-home" MenuNavbar="0" />
