@@ -625,6 +625,12 @@
       <Field FldName="uuser" FldType="200" FldTypeName="VARCHAR" NativeDataType="253" FldSupport="1" FldSort="0" FldSize="50" FldReq="1" FldAttribute="4" FldValidate="INTEGER" FldGenerate="1" FldEdit="1" FldAdd="1" FldAddOpt="1" FldSearch="1" FldSrchOpr="=" FldCaption="Update User" FldViewTag="FORMATTED TEXT" FldHtmlTag="TEXT" FldTagSize="30" FldSelectType="Values" FldTagAPrefix="None" FldFmtType="Number" FldIncLeadDigit="-2" FldUseParen="-2" FldGpDigits="-2" FldQuoteS="'" FldQuoteE="'" FldAutoUpdateValue="CurrentUserID()" FldMultiUpdate="1" FldResizeQuality="75" />
       <Field FldName="uip" FldType="200" FldTypeName="VARCHAR" NativeDataType="253" FldSupport="1" FldSort="0" FldSize="255" FldReq="1" FldAttribute="4" FldGenerate="1" FldEdit="1" FldAdd="1" FldAddOpt="1" FldSearch="1" FldSrchOpr="LIKE" FldCaption="Update IP" FldViewTag="FORMATTED TEXT" FldHtmlTag="TEXT" FldTagSize="30" FldTagMaxLength="255" FldSelectType="Values" FldTagAPrefix="None" FldIncLeadDigit="-2" FldUseParen="-2" FldGpDigits="-2" FldQuoteS="'" FldQuoteE="'" FldAutoUpdateValue="CurrentUserIP()" FldMultiUpdate="1" FldResizeQuality="75" />
       <Field FldName="udate" FldType="135" FldTypeName="DATETIME" NativeDataType="12" FldSupport="1" FldSort="0" FldSize="19" FldReq="1" FldAttribute="4" FldValidate="DATE" FldPopCalendar="1" FldGenerate="1" FldEdit="1" FldAdd="1" FldAddOpt="1" FldSearch="1" FldSrchOpr="=" FldCaption="Update Date" FldViewTag="FORMATTED TEXT" FldHtmlTag="TEXT" FldSelectType="Values" FldTagAPrefix="None" FldFmtType="Date/Time" FldIncLeadDigit="-2" FldUseParen="-2" FldGpDigits="-2" FldQuoteS="'" FldQuoteE="'" FldAutoUpdateValue="CurrentDateTime()" FldMultiUpdate="1" FldResizeQuality="75" />
+      <Field FldName="asset_price" FldType="4" FldTypeName="FLOAT" NativeDataType="4" FldSupport="1" FldSize="12" FldReq="1" FldAttribute="4" FldValidate="FLOAT" FldGenerate="1" FldList="1" FldExport="1" FldView="1" FldEdit="1" FldAdd="1" FldAddOpt="1" FldSearch="1" FldSrchOpr="=" FldCaption="ราคาบ้านที่ลูกค้าเลือก" FldViewTag="FORMATTED TEXT" FldHtmlTag="TEXT" FldTagSize="30" FldTagMaxLength="12" FldSelectType="Values" FldTagAPrefix="None" FldFmtType="Number" FldNumDigits="2" FldIncLeadDigit="-2" FldUseParen="-2" FldGpDigits="-2" FldMultiUpdate="1" FldResizeQuality="75" />
+      <Field FldName="booking_price" FldType="4" FldTypeName="FLOAT" NativeDataType="4" FldSupport="1" FldSize="12" FldReq="1" FldAttribute="4" FldValidate="FLOAT" FldGenerate="1" FldList="1" FldExport="1" FldView="1" FldEdit="1" FldAdd="1" FldAddOpt="1" FldSearch="1" FldSrchOpr="=" FldCaption="เงินจองที่ลูกค้าจ่าย" FldViewTag="FORMATTED TEXT" FldHtmlTag="TEXT" FldTagSize="30" FldTagMaxLength="12" FldSelectType="Values" FldTagAPrefix="None" FldFmtType="Number" FldNumDigits="2" FldIncLeadDigit="-2" FldUseParen="-2" FldGpDigits="-2" FldMultiUpdate="1" FldResizeQuality="75" />
+      <Field FldName="down_price" FldType="4" FldTypeName="FLOAT" NativeDataType="4" FldSupport="1" FldSize="12" FldReq="1" FldAttribute="4" FldValidate="FLOAT" FldGenerate="1" FldList="1" FldExport="1" FldView="1" FldEdit="1" FldAdd="1" FldAddOpt="1" FldSearch="1" FldSrchOpr="=" FldCaption="เงินดาวน์ที่ลูกค้าจ่าย" FldViewTag="FORMATTED TEXT" FldHtmlTag="TEXT" FldTagSize="30" FldTagMaxLength="12" FldSelectType="Values" FldTagAPrefix="None" FldFmtType="Number" FldNumDigits="2" FldIncLeadDigit="-2" FldUseParen="-2" FldGpDigits="-2" FldMultiUpdate="1" FldResizeQuality="75" />
+      <Field FldName="move_in_on_20th" FldType="16" FldTypeName="TINYINT" NativeDataType="1" FldSupport="1" FldSize="1" FldReq="1" FldAttribute="4" FldValidate="REGEX" FldServerValidateArgs="/^[10]+$/" FldClientValidateArgs="/^[10]+$/" FldGenerate="1" FldList="1" FldExport="1" FldView="1" FldEdit="1" FldAdd="1" FldAddOpt="1" FldSearch="1" FldSrchOpr="=" FldDefault="0" FldDbDefault="0" FldCaption="move in on 20th" FldViewTag="FORMATTED TEXT" FldHtmlTag="CHECKBOX" FldTagMaxLength="1" FldTagValues="&quot;1&quot;,&quot;Yes&quot;|&quot;0&quot;,&quot;No&quot;" FldSelectType="Values" FldTagAPrefix="None" FldIncLeadDigit="-2" FldUseParen="-2" FldGpDigits="-2" FldMultiUpdate="1" FldResizeQuality="75" />
+      <Field FldName="number_days_pay_first_month" FldType="3" FldTypeName="INT" NativeDataType="3" FldSupport="1" FldSize="11" FldReq="1" FldAttribute="4" FldValidate="INTEGER" FldGenerate="1" FldList="1" FldExport="1" FldView="1" FldEdit="1" FldAdd="1" FldAddOpt="1" FldSearch="1" FldSrchOpr="=" FldDefault="0" FldDbDefault="0" FldCaption="number days pay first month" FldViewTag="FORMATTED TEXT" FldHtmlTag="TEXT" FldTagSize="30" FldTagMaxLength="11" FldSelectType="Values" FldTagAPrefix="None" FldFmtType="Number" FldIncLeadDigit="-2" FldUseParen="-2" FldGpDigits="-2" FldMultiUpdate="1" FldResizeQuality="75" />
+      <Field FldName="number_days_in_first_month" FldType="3" FldTypeName="INT" NativeDataType="3" FldSupport="1" FldSize="11" FldReq="1" FldAttribute="4" FldValidate="INTEGER" FldGenerate="1" FldList="1" FldExport="1" FldView="1" FldEdit="1" FldAdd="1" FldAddOpt="1" FldSearch="1" FldSrchOpr="=" FldCaption="number days in first month" FldViewTag="FORMATTED TEXT" FldHtmlTag="TEXT" FldTagSize="30" FldTagMaxLength="11" FldSelectType="Values" FldTagAPrefix="None" FldFmtType="Number" FldIncLeadDigit="-2" FldUseParen="-2" FldGpDigits="-2" FldMultiUpdate="1" FldResizeQuality="75" />
     </Table>
     <Table TblName="buyer_save_buy_asset" TblType="TABLE" TblGen="1" TblGenList="controller=0,info=0,list=0,list|class=0,add=0,add|class=0,view=0,view|class=0,edit=0,edit|class=0,delete=0,delete|class=0" TblList="1" TblView="1" TblEdit="1" TblAdd="1" TblDelete="1" TblCaption="Buyer พร้อมซื้อ" TblUpdatable="1" TblSrchType="BASIC" TblSearchHighlight="1" TblBasicSearch="1" TblExtendedBasicSearch="1" TblSecurity="0,&quot;Default&quot;,0;1,&quot;Juzmatch Admin&quot;,47" TblLoaded="1" TblShowEmptyRows="0" TblUseGlobal="1" TblRecPerPage="20" TblRecPerPageList="10,20,50,ALL" TblGrpPerPage="3" TblGrpPerPageList="1,2,3,5,ALL" TblPagerStyle="2" TblAuditTrail="1" TblDisplayRowCount="1" TblUseButtonsForLinks="1" TblUseDropDownForAction="1" TblUseDropDownForListOptions="1" TblUseDropDownForExport="1">
       <Field FldName="buyer_save_buy_asset_id" FldType="3" FldTypeName="INT" NativeDataType="3" FldSupport="1" FldSort="0" FldSize="11" FldIsPrimaryKey="1" FldAutoIncrement="1" FldAttribute="96" FldValidate="INTEGER" FldGenerate="1" FldSrchOpr="=" FldCaption="buyer save buy asset id" FldViewTag="FORMATTED TEXT" FldHtmlTag="NO" FldSelectType="Values" FldTagAPrefix="None" FldIncLeadDigit="-2" FldUseParen="-2" FldGpDigits="-2" FldColumnWrap="0" FldResizeQuality="75" />
@@ -3842,6 +3848,24 @@
             <Properties><![CDATA[[{"Id":"Options","Type":"String","Value":""}]]]></Properties>
           </ExtField>
           <ExtField FldName="udate">
+            <Properties><![CDATA[[{"Id":"Options","Type":"String","Value":""}]]]></Properties>
+          </ExtField>
+          <ExtField FldName="asset_price">
+            <Properties><![CDATA[[{"Id":"Options","Type":"String","Value":""}]]]></Properties>
+          </ExtField>
+          <ExtField FldName="booking_price">
+            <Properties><![CDATA[[{"Id":"Options","Type":"String","Value":""}]]]></Properties>
+          </ExtField>
+          <ExtField FldName="down_price">
+            <Properties><![CDATA[[{"Id":"Options","Type":"String","Value":""}]]]></Properties>
+          </ExtField>
+          <ExtField FldName="move_in_on_20th">
+            <Properties><![CDATA[[{"Id":"Options","Type":"String","Value":""}]]]></Properties>
+          </ExtField>
+          <ExtField FldName="number_days_pay_first_month">
+            <Properties><![CDATA[[{"Id":"Options","Type":"String","Value":""}]]]></Properties>
+          </ExtField>
+          <ExtField FldName="number_days_in_first_month">
             <Properties><![CDATA[[{"Id":"Options","Type":"String","Value":""}]]]></Properties>
           </ExtField>
           <Properties><![CDATA[[]]]></Properties>
@@ -8541,6 +8565,24 @@
           <ExtField FldName="udate">
             <Properties><![CDATA[[{"Id":"Step","Type":"Integer","Value":15},{"Id":"Options","Type":"String","Value":""},{"Id":"IsEncrypt","Type":"String","Value":"False"}]]]></Properties>
           </ExtField>
+          <ExtField FldName="asset_price">
+            <Properties><![CDATA[[{"Id":"Step","Type":"Integer","Value":15},{"Id":"Options","Type":"String","Value":""}]]]></Properties>
+          </ExtField>
+          <ExtField FldName="booking_price">
+            <Properties><![CDATA[[{"Id":"Step","Type":"Integer","Value":15},{"Id":"Options","Type":"String","Value":""}]]]></Properties>
+          </ExtField>
+          <ExtField FldName="down_price">
+            <Properties><![CDATA[[{"Id":"Step","Type":"Integer","Value":15},{"Id":"Options","Type":"String","Value":""}]]]></Properties>
+          </ExtField>
+          <ExtField FldName="move_in_on_20th">
+            <Properties><![CDATA[[{"Id":"Step","Type":"Integer","Value":15},{"Id":"Options","Type":"String","Value":""}]]]></Properties>
+          </ExtField>
+          <ExtField FldName="number_days_pay_first_month">
+            <Properties><![CDATA[[{"Id":"Step","Type":"Integer","Value":15},{"Id":"Options","Type":"String","Value":""}]]]></Properties>
+          </ExtField>
+          <ExtField FldName="number_days_in_first_month">
+            <Properties><![CDATA[[{"Id":"Step","Type":"Integer","Value":15},{"Id":"Options","Type":"String","Value":""}]]]></Properties>
+          </ExtField>
           <Properties><![CDATA[[]]]></Properties>
         </ExtTable>
         <ExtTable TblName="buyer_save_buy_asset">
@@ -12666,6 +12708,24 @@
             <Properties><![CDATA[[{"Id":"page_add","Type":"String","Value":""},{"Id":"page_addopt","Type":"String","Value":""},{"Id":"page_view","Type":"String","Value":""},{"Id":"page_edit","Type":"String","Value":""},{"Id":"page_update","Type":"String","Value":""},{"Id":"page_delete","Type":"String","Value":""},{"Id":"page_search","Type":"String","Value":""},{"Id":"page_list","Type":"String","Value":""},{"Id":"action_add","Type":"String","Value":""},{"Id":"action_copy","Type":"String","Value":""},{"Id":"action_edit","Type":"String","Value":""},{"Id":"action_gridadd","Type":"String","Value":""},{"Id":"action_gridedit","Type":"String","Value":""},{"Id":"page_master","Type":"String","Value":""},{"Id":"page_report","Type":"String","Value":""},{"Id":"page_grid","Type":"String","Value":""},{"Id":"page_preview","Type":"String","Value":""}]]]></Properties>
           </ExtField>
           <ExtField FldName="udate">
+            <Properties><![CDATA[[{"Id":"page_add","Type":"String","Value":""},{"Id":"page_addopt","Type":"String","Value":""},{"Id":"page_view","Type":"String","Value":""},{"Id":"page_edit","Type":"String","Value":""},{"Id":"page_update","Type":"String","Value":""},{"Id":"page_delete","Type":"String","Value":""},{"Id":"page_search","Type":"String","Value":""},{"Id":"page_list","Type":"String","Value":""},{"Id":"action_add","Type":"String","Value":""},{"Id":"action_copy","Type":"String","Value":""},{"Id":"action_edit","Type":"String","Value":""},{"Id":"action_gridadd","Type":"String","Value":""},{"Id":"action_gridedit","Type":"String","Value":""},{"Id":"page_master","Type":"String","Value":""},{"Id":"page_report","Type":"String","Value":""},{"Id":"page_grid","Type":"String","Value":""},{"Id":"page_preview","Type":"String","Value":""}]]]></Properties>
+          </ExtField>
+          <ExtField FldName="asset_price">
+            <Properties><![CDATA[[{"Id":"page_add","Type":"String","Value":""},{"Id":"page_addopt","Type":"String","Value":""},{"Id":"page_view","Type":"String","Value":""},{"Id":"page_edit","Type":"String","Value":""},{"Id":"page_update","Type":"String","Value":""},{"Id":"page_delete","Type":"String","Value":""},{"Id":"page_search","Type":"String","Value":""},{"Id":"page_list","Type":"String","Value":""},{"Id":"action_add","Type":"String","Value":""},{"Id":"action_copy","Type":"String","Value":""},{"Id":"action_edit","Type":"String","Value":""},{"Id":"action_gridadd","Type":"String","Value":""},{"Id":"action_gridedit","Type":"String","Value":""},{"Id":"page_master","Type":"String","Value":""},{"Id":"page_report","Type":"String","Value":""},{"Id":"page_grid","Type":"String","Value":""},{"Id":"page_preview","Type":"String","Value":""}]]]></Properties>
+          </ExtField>
+          <ExtField FldName="booking_price">
+            <Properties><![CDATA[[{"Id":"page_add","Type":"String","Value":""},{"Id":"page_addopt","Type":"String","Value":""},{"Id":"page_view","Type":"String","Value":""},{"Id":"page_edit","Type":"String","Value":""},{"Id":"page_update","Type":"String","Value":""},{"Id":"page_delete","Type":"String","Value":""},{"Id":"page_search","Type":"String","Value":""},{"Id":"page_list","Type":"String","Value":""},{"Id":"action_add","Type":"String","Value":""},{"Id":"action_copy","Type":"String","Value":""},{"Id":"action_edit","Type":"String","Value":""},{"Id":"action_gridadd","Type":"String","Value":""},{"Id":"action_gridedit","Type":"String","Value":""},{"Id":"page_master","Type":"String","Value":""},{"Id":"page_report","Type":"String","Value":""},{"Id":"page_grid","Type":"String","Value":""},{"Id":"page_preview","Type":"String","Value":""}]]]></Properties>
+          </ExtField>
+          <ExtField FldName="down_price">
+            <Properties><![CDATA[[{"Id":"page_add","Type":"String","Value":""},{"Id":"page_addopt","Type":"String","Value":""},{"Id":"page_view","Type":"String","Value":""},{"Id":"page_edit","Type":"String","Value":""},{"Id":"page_update","Type":"String","Value":""},{"Id":"page_delete","Type":"String","Value":""},{"Id":"page_search","Type":"String","Value":""},{"Id":"page_list","Type":"String","Value":""},{"Id":"action_add","Type":"String","Value":""},{"Id":"action_copy","Type":"String","Value":""},{"Id":"action_edit","Type":"String","Value":""},{"Id":"action_gridadd","Type":"String","Value":""},{"Id":"action_gridedit","Type":"String","Value":""},{"Id":"page_master","Type":"String","Value":""},{"Id":"page_report","Type":"String","Value":""},{"Id":"page_grid","Type":"String","Value":""},{"Id":"page_preview","Type":"String","Value":""}]]]></Properties>
+          </ExtField>
+          <ExtField FldName="move_in_on_20th">
+            <Properties><![CDATA[[{"Id":"page_add","Type":"String","Value":""},{"Id":"page_addopt","Type":"String","Value":""},{"Id":"page_view","Type":"String","Value":""},{"Id":"page_edit","Type":"String","Value":""},{"Id":"page_update","Type":"String","Value":""},{"Id":"page_delete","Type":"String","Value":""},{"Id":"page_search","Type":"String","Value":""},{"Id":"page_list","Type":"String","Value":""},{"Id":"action_add","Type":"String","Value":""},{"Id":"action_copy","Type":"String","Value":""},{"Id":"action_edit","Type":"String","Value":""},{"Id":"action_gridadd","Type":"String","Value":""},{"Id":"action_gridedit","Type":"String","Value":""},{"Id":"page_master","Type":"String","Value":""},{"Id":"page_report","Type":"String","Value":""},{"Id":"page_grid","Type":"String","Value":""},{"Id":"page_preview","Type":"String","Value":""}]]]></Properties>
+          </ExtField>
+          <ExtField FldName="number_days_pay_first_month">
+            <Properties><![CDATA[[{"Id":"page_add","Type":"String","Value":""},{"Id":"page_addopt","Type":"String","Value":""},{"Id":"page_view","Type":"String","Value":""},{"Id":"page_edit","Type":"String","Value":""},{"Id":"page_update","Type":"String","Value":""},{"Id":"page_delete","Type":"String","Value":""},{"Id":"page_search","Type":"String","Value":""},{"Id":"page_list","Type":"String","Value":""},{"Id":"action_add","Type":"String","Value":""},{"Id":"action_copy","Type":"String","Value":""},{"Id":"action_edit","Type":"String","Value":""},{"Id":"action_gridadd","Type":"String","Value":""},{"Id":"action_gridedit","Type":"String","Value":""},{"Id":"page_master","Type":"String","Value":""},{"Id":"page_report","Type":"String","Value":""},{"Id":"page_grid","Type":"String","Value":""},{"Id":"page_preview","Type":"String","Value":""}]]]></Properties>
+          </ExtField>
+          <ExtField FldName="number_days_in_first_month">
             <Properties><![CDATA[[{"Id":"page_add","Type":"String","Value":""},{"Id":"page_addopt","Type":"String","Value":""},{"Id":"page_view","Type":"String","Value":""},{"Id":"page_edit","Type":"String","Value":""},{"Id":"page_update","Type":"String","Value":""},{"Id":"page_delete","Type":"String","Value":""},{"Id":"page_search","Type":"String","Value":""},{"Id":"page_list","Type":"String","Value":""},{"Id":"action_add","Type":"String","Value":""},{"Id":"action_copy","Type":"String","Value":""},{"Id":"action_edit","Type":"String","Value":""},{"Id":"action_gridadd","Type":"String","Value":""},{"Id":"action_gridedit","Type":"String","Value":""},{"Id":"page_master","Type":"String","Value":""},{"Id":"page_report","Type":"String","Value":""},{"Id":"page_grid","Type":"String","Value":""},{"Id":"page_preview","Type":"String","Value":""}]]]></Properties>
           </ExtField>
           <Properties><![CDATA[[{"Id":"PermissionType","Type":"String","Value":"bool"}]]]></Properties>
@@ -17559,6 +17619,24 @@
           <ExtField FldName="udate">
             <Properties><![CDATA[[{"Id":"IsEncrypt","Type":"Boolean","Value":"0"}]]]></Properties>
           </ExtField>
+          <ExtField FldName="asset_price">
+            <Properties><![CDATA[[{"Id":"IsEncrypt","Type":"Boolean","Value":"0"}]]]></Properties>
+          </ExtField>
+          <ExtField FldName="booking_price">
+            <Properties><![CDATA[[{"Id":"IsEncrypt","Type":"Boolean","Value":"0"}]]]></Properties>
+          </ExtField>
+          <ExtField FldName="down_price">
+            <Properties><![CDATA[[{"Id":"IsEncrypt","Type":"Boolean","Value":"0"}]]]></Properties>
+          </ExtField>
+          <ExtField FldName="move_in_on_20th">
+            <Properties><![CDATA[[{"Id":"IsEncrypt","Type":"Boolean","Value":"0"}]]]></Properties>
+          </ExtField>
+          <ExtField FldName="number_days_pay_first_month">
+            <Properties><![CDATA[[{"Id":"IsEncrypt","Type":"Boolean","Value":"0"}]]]></Properties>
+          </ExtField>
+          <ExtField FldName="number_days_in_first_month">
+            <Properties><![CDATA[[{"Id":"IsEncrypt","Type":"Boolean","Value":"0"}]]]></Properties>
+          </ExtField>
           <Properties><![CDATA[[]]]></Properties>
         </ExtTable>
         <ExtTable TblName="buyer_save_buy_asset">
@@ -20387,38 +20465,49 @@ function Row_Updating($rsold, &$rsnew)
             return true;
         }
 }]]></CustomScript>
-  <CustomScript ScriptType="Server" ScriptCodeType="Table" ScriptName="Row_Updated" ScriptL1Key="asset_appointment"><![CDATA[// Row Updated event
-function Row_Updated($rsold, &$rsnew)
+  <CustomScript ScriptType="Server" ScriptCodeType="Table" ScriptName="Row_Updating" ScriptL1Key="asset_appointment"><![CDATA[// Row Updating event
+function Row_Updating($rsold, &$rsnew)
 {
-    //Log("Row Updated");
+    // Enter your code here
+    // To cancel, set return value to false
+        // print_r($rsold);
+        // print_r($rsnew);
+
         if ($rsnew['status'] == 1) {
             // print_r($rsold);
-            $member_id = $$rsold['member_id'];
-            $asset_id = $$rsold['asset_id'];
+            $member_id = (int) $rsold['member_id'];
+            $asset_id = (int) $rsold['asset_id'];
+            
+            $req_data = array( 
+                "member_id" => $member_id, 
+                "asset_id" => $asset_id
+            ); 
+            $reqJSON=json_encode($req_data);//returns JSON string
+            
+            // print($reqJSON);
+
             $curl = curl_init();
 
             curl_setopt_array($curl, array(
-                CURLOPT_URL => 'https://uatapi.juzmatch.com/buyer/comfirmAppointment',
-                CURLOPT_RETURNTRANSFER => true,
-                CURLOPT_ENCODING => '',
-                CURLOPT_MAXREDIRS => 10,
-                CURLOPT_TIMEOUT => 0,
-                CURLOPT_FOLLOWLOCATION => true,
-                CURLOPT_HTTP_VERSION => CURL_HTTP_VERSION_1_1,
-                CURLOPT_CUSTOMREQUEST => 'POST',
-                CURLOPT_POSTFIELDS =>'{
-                "member_id": '.$member_id.',
-                "asset_id": '.$asset_id.'
-            }',
-                CURLOPT_HTTPHEADER => array(
+            CURLOPT_URL => API_URL.'buyer/comfirmAppointment',
+            CURLOPT_RETURNTRANSFER => true,
+            CURLOPT_ENCODING => '',
+            CURLOPT_MAXREDIRS => 10,
+            CURLOPT_TIMEOUT => 0,
+            CURLOPT_FOLLOWLOCATION => true,
+            CURLOPT_HTTP_VERSION => CURL_HTTP_VERSION_1_1,
+            CURLOPT_CUSTOMREQUEST => 'POST',
+            CURLOPT_POSTFIELDS => $reqJSON,
+            CURLOPT_HTTPHEADER => array(
                 'Content-Type: application/json'
-                ),
+            ),
             ));
-            
+
             $response = curl_exec($curl);
-            
+
             curl_close($curl);
             // echo $response;
+
             return true;
         } else {
             return true;
