@@ -2085,6 +2085,7 @@
       <Field FldName="status_payment" FldType="3" FldTypeName="INT" NativeDataType="3" FldSupport="1" FldSize="11" FldAttribute="100" FldValidate="INTEGER" FldGenerate="1" FldList="1" FldExport="1" FldView="1" FldEdit="1" FldAdd="1" FldAddOpt="1" FldSearch="1" FldExtendedBasicSearch="1" FldSrchOpr="=" FldDefault="1" FldDbDefault="1" FldCaption="สถานะชำระเงิน" FldViewTag="FORMATTED TEXT" FldHtmlTag="SELECT" FldTagSize="30" FldTagValues="&quot;1&quot;,&quot;รอชำระเงิน&quot;|&quot;2&quot;,&quot;ชำระเงินสำเร็จ&quot;|&quot;3&quot;,&quot;ชำระเงินไม่สำเร็จ&quot;" FldHtmlTagReadOnly="1" FldSelectType="Values" FldTagAPrefix="None" FldFmtType="Number" FldIncLeadDigit="-2" FldUseParen="-2" FldGpDigits="-2" FldMultiUpdate="1" FldResizeQuality="75" />
       <Field FldName="date_payment" FldType="135" FldTypeName="DATETIME" NativeDataType="12" FldSupport="1" FldSize="19" FldAttribute="100" FldValidate="DATE" FldRequired="1" FldPopCalendar="1" FldGenerate="1" FldList="1" FldExport="1" FldView="1" FldEdit="1" FldAdd="1" FldAddOpt="1" FldSearch="1" FldExtendedBasicSearch="1" FldSrchOpr="BETWEEN" FldCaption="ผู้พัฒนาโครงการ" FldViewTag="FORMATTED TEXT" FldHtmlTag="TEXT" FldHtmlTagReadOnly="1" FldSelectType="Values" FldTagAPrefix="None" FldFmtType="Date/Time" FldDtFormat="7" FldIncLeadDigit="-2" FldUseParen="-2" FldGpDigits="-2" FldQuoteS="'" FldQuoteE="'" FldMultiUpdate="1" FldResizeQuality="75" />
     </Table>
+    <Table TblName="monthlyPayment.php" TblType="REPORT" TblGen="1" TblList="1" TblCaption="Monthly Payment" TblSrchType="NONE" TblBasicSearch="1" TblExtendedBasicSearch="1" TblSecurity="0,&quot;Default&quot;,0;1,&quot;Juzmatch Admin&quot;,8" TblLoaded="1" OutputFolder="/" TblReportType="custom" TblShowEmptyRows="0" TblUseGlobal="1" TblRecPerPage="20" TblRecPerPageList="10,20,50,ALL" TblGrpPerPage="3" TblGrpPerPageList="1,2,3,5,ALL" TblPagerStyle="2" TblUseButtonsForLinks="1" TblUseDropDownForAction="1" TblUseDropDownForListOptions="1" TblUseDropDownForExport="1" />
   </Database>
   <LinkDatabase DBID="juzmatch1" DBName="juzmatch" DBType="MySQL" DBConnectionMethod="DIRECT" DBHost="203.150.19.170" DBPort="3306" DBUID="u-kf2kJ16wONmhv2ryv7ag" DBPwd="WB_5Rb-d8crYwhS70KDsGT9RShal5y5_l1_yskRzOx4" DBQuoteS="`" DBQuoteE="`" DBDBMSName="MySQL" DBDBMSVer="50733" DBProviderName="e.World Technology Ltd." DBProviderVer="18" />
   <LinkDatabase DBID="juzmatch2" DBName="juzmatch" DBType="MySQL" DBConnectionMethod="URL" DBURL="https://uatbackend.juzmatch.com/tunnel.php" DBHost="203.150.19.170" DBPort="3306" DBUID="u-kf2kJ16wONmhv2ryv7ag" DBPwd="WB_5Rb-d8crYwhS70KDsGT9RShal5y5_l1_yskRzOx4" DBQuoteS="`" DBQuoteE="`" DBDBMSName="MySQL" DBDBMSVer="50733" DBProviderName="e.World Technology Ltd." DBProviderVer="18" />
@@ -2396,6 +2397,9 @@
           <Properties><![CDATA[[{"Id":"ExportList","Type":"Boolean","Value":"0"},{"Id":"ExportView","Type":"Boolean","Value":"1"},{"Id":"PageBreakRecordCount","Type":"Integer","Value":0},{"Id":"PageOrientation","Type":"String","Value":"portrait"},{"Id":"PageSize","Type":"String","Value":"a4"}]]]></Properties>
         </ExtTable>
         <ExtTable TblName="assetStockReport">
+          <Properties><![CDATA[[{"Id":"ExportList","Type":"Boolean","Value":"0"},{"Id":"ExportView","Type":"Boolean","Value":"1"},{"Id":"PageBreakRecordCount","Type":"Integer","Value":0},{"Id":"PageOrientation","Type":"String","Value":"portrait"},{"Id":"PageSize","Type":"String","Value":"a4"}]]]></Properties>
+        </ExtTable>
+        <ExtTable TblName="monthlyPayment.php">
           <Properties><![CDATA[[{"Id":"ExportList","Type":"Boolean","Value":"0"},{"Id":"ExportView","Type":"Boolean","Value":"1"},{"Id":"PageBreakRecordCount","Type":"Integer","Value":0},{"Id":"PageOrientation","Type":"String","Value":"portrait"},{"Id":"PageSize","Type":"String","Value":"a4"}]]]></Properties>
         </ExtTable>
         <Properties><![CDATA[[]]]></Properties>
@@ -6483,6 +6487,9 @@
         <ExtTable TblName="assetStockReport">
           <Properties><![CDATA[[]]]></Properties>
         </ExtTable>
+        <ExtTable TblName="monthlyPayment.php">
+          <Properties><![CDATA[[]]]></Properties>
+        </ExtTable>
         <Properties><![CDATA[[]]]></Properties>
       </ExtDatabase>
       <Properties><![CDATA[[{"Id":"InputGroup","Type":"Boolean","Value":"1"},{"Id":"Options","Type":"String","Value":""}]]]></Properties>
@@ -6569,6 +6576,9 @@
           <Properties><![CDATA[[]]]></Properties>
         </ExtTable>
         <ExtTable TblName="assetStockReport">
+          <Properties><![CDATA[[]]]></Properties>
+        </ExtTable>
+        <ExtTable TblName="monthlyPayment.php">
           <Properties><![CDATA[[]]]></Properties>
         </ExtTable>
         <Properties><![CDATA[[]]]></Properties>
@@ -6938,6 +6948,9 @@
         <ExtTable TblName="assetStockReport">
           <Properties><![CDATA[[{"Id":"Add","Type":"Boolean","Value":"1"},{"Id":"Edit","Type":"Boolean","Value":"1"},{"Id":"Delete","Type":"Boolean","Value":"1"},{"Id":"View","Type":"Boolean","Value":"0"},{"Id":"ViewData","Type":"Boolean","Value":"0"},{"Id":"Search","Type":"Boolean","Value":"0"}]]]></Properties>
         </ExtTable>
+        <ExtTable TblName="monthlyPayment.php">
+          <Properties><![CDATA[[{"Id":"Add","Type":"Boolean","Value":"1"},{"Id":"Edit","Type":"Boolean","Value":"1"},{"Id":"Delete","Type":"Boolean","Value":"1"},{"Id":"View","Type":"Boolean","Value":"0"},{"Id":"ViewData","Type":"Boolean","Value":"0"},{"Id":"Search","Type":"Boolean","Value":"0"}]]]></Properties>
+        </ExtTable>
         <Properties><![CDATA[[]]]></Properties>
       </ExtDatabase>
       <Properties><![CDATA[[]]]></Properties>
@@ -7303,6 +7316,9 @@
           <Properties><![CDATA[[{"Id":"Enabled","Type":"Boolean","Value":"0"},{"Id":"TableWidth","Type":"String","Value":"0"},{"Id":"TableHeight","Type":"String","Value":"0"}]]]></Properties>
         </ExtTable>
         <ExtTable TblName="assetStockReport">
+          <Properties><![CDATA[[{"Id":"Enabled","Type":"Boolean","Value":"0"},{"Id":"TableWidth","Type":"String","Value":"0"},{"Id":"TableHeight","Type":"String","Value":"0"}]]]></Properties>
+        </ExtTable>
+        <ExtTable TblName="monthlyPayment.php">
           <Properties><![CDATA[[{"Id":"Enabled","Type":"Boolean","Value":"0"},{"Id":"TableWidth","Type":"String","Value":"0"},{"Id":"TableHeight","Type":"String","Value":"0"}]]]></Properties>
         </ExtTable>
         <Properties><![CDATA[[]]]></Properties>
@@ -11567,6 +11583,9 @@
         <ExtTable TblName="assetStockReport">
           <Properties><![CDATA[[]]]></Properties>
         </ExtTable>
+        <ExtTable TblName="monthlyPayment.php">
+          <Properties><![CDATA[[]]]></Properties>
+        </ExtTable>
         <Properties><![CDATA[[]]]></Properties>
       </ExtDatabase>
       <Properties><![CDATA[[{"Id":"InputGroup","Type":"Boolean","Value":"1"},{"Id":"Options","Type":"String","Value":""}]]]></Properties>
@@ -15652,6 +15671,9 @@
         <ExtTable TblName="assetStockReport">
           <Properties><![CDATA[[{"Id":"PermissionType","Type":"String","Value":"bool"}]]]></Properties>
         </ExtTable>
+        <ExtTable TblName="monthlyPayment.php">
+          <Properties><![CDATA[[{"Id":"PermissionType","Type":"String","Value":"bool"}]]]></Properties>
+        </ExtTable>
         <Properties><![CDATA[[]]]></Properties>
       </ExtDatabase>
       <Properties><![CDATA[[]]]></Properties>
@@ -15966,6 +15988,9 @@
         <ExtTable TblName="assetStockReport">
           <Properties><![CDATA[[{"Id":"Orientation","Type":"String","Value":"portrait"},{"Id":"Size","Type":"String","Value":"A4"},{"Id":"ColumnWidth","Type":"Integer","Value":0}]]]></Properties>
         </ExtTable>
+        <ExtTable TblName="monthlyPayment.php">
+          <Properties><![CDATA[[{"Id":"Orientation","Type":"String","Value":"portrait"},{"Id":"Size","Type":"String","Value":"A4"},{"Id":"ColumnWidth","Type":"Integer","Value":0}]]]></Properties>
+        </ExtTable>
         <Properties><![CDATA[[]]]></Properties>
       </ExtDatabase>
       <Properties><![CDATA[[{"Id":"OoxmlVersion","Type":"String","Value":"12"}]]]></Properties>
@@ -16278,6 +16303,9 @@
           <Properties><![CDATA[[{"Id":"PageOrientation","Type":"String","Value":"ORIENTATION_DEFAULT"},{"Id":"PageSize","Type":"String","Value":"PAPERSIZE_A4"}]]]></Properties>
         </ExtTable>
         <ExtTable TblName="assetStockReport">
+          <Properties><![CDATA[[{"Id":"PageOrientation","Type":"String","Value":"ORIENTATION_DEFAULT"},{"Id":"PageSize","Type":"String","Value":"PAPERSIZE_A4"}]]]></Properties>
+        </ExtTable>
+        <ExtTable TblName="monthlyPayment.php">
           <Properties><![CDATA[[{"Id":"PageOrientation","Type":"String","Value":"ORIENTATION_DEFAULT"},{"Id":"PageSize","Type":"String","Value":"PAPERSIZE_A4"}]]]></Properties>
         </ExtTable>
         <Properties><![CDATA[[]]]></Properties>
@@ -16637,6 +16665,9 @@
           <Properties><![CDATA[[{"Id":"UseDetailPreview","Type":"Boolean","Value":"1"},{"Id":"PreviewType","Type":"String","Value":"row"},{"Id":"PreviewRowColor","Type":"Color","Value":""},{"Id":"SingleRow","Type":"Boolean","Value":"0"},{"Id":"PageSize","Type":"Integer","Value":0},{"Id":"UseModalLinks","Type":"Boolean","Value":"0"}]]]></Properties>
         </ExtTable>
         <ExtTable TblName="assetStockReport">
+          <Properties><![CDATA[[{"Id":"UseDetailPreview","Type":"Boolean","Value":"1"},{"Id":"PreviewType","Type":"String","Value":"row"},{"Id":"PreviewRowColor","Type":"Color","Value":""},{"Id":"SingleRow","Type":"Boolean","Value":"0"},{"Id":"PageSize","Type":"Integer","Value":0},{"Id":"UseModalLinks","Type":"Boolean","Value":"0"}]]]></Properties>
+        </ExtTable>
+        <ExtTable TblName="monthlyPayment.php">
           <Properties><![CDATA[[{"Id":"UseDetailPreview","Type":"Boolean","Value":"1"},{"Id":"PreviewType","Type":"String","Value":"row"},{"Id":"PreviewRowColor","Type":"Color","Value":""},{"Id":"SingleRow","Type":"Boolean","Value":"0"},{"Id":"PageSize","Type":"Integer","Value":0},{"Id":"UseModalLinks","Type":"Boolean","Value":"0"}]]]></Properties>
         </ExtTable>
         <Properties><![CDATA[[]]]></Properties>
@@ -20918,6 +20949,9 @@
         <ExtTable TblName="assetStockReport">
           <Properties><![CDATA[[]]]></Properties>
         </ExtTable>
+        <ExtTable TblName="monthlyPayment.php">
+          <Properties><![CDATA[[]]]></Properties>
+        </ExtTable>
         <Properties><![CDATA[[]]]></Properties>
       </ExtDatabase>
       <Properties><![CDATA[[{"Id":"Icon","Type":"String","Value":"fas fa-caret-right"},{"Id":"PopoverDelay","Type":"String","Value":"{ show: 100, hide: 500 }"},{"Id":"PopoverTrigger","Type":"String","Value":"click"},{"Id":"PopoverPlacement","Type":"String","Value":"auto"},{"Id":"OffcanvasPlacement","Type":"String","Value":"bottom"},{"Id":"OffcanvasWidth","Type":"String","Value":""},{"Id":"OffcanvasHeight","Type":"String","Value":"50vh"},{"Id":"Selector","Type":"String","Value":""}]]]></Properties>
@@ -21513,6 +21547,7 @@ function Row_Inserted($rsold, &$rsnew)
   <Menu MenuID="72" MenuText="Save Log Search Non Member" MenuParentID="-1" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="save_log_search_nonmember" MenuType="" MenuCustomUrl="0" MenuLevel="0" MenuShow="0" MenuDisplayOrder="3900" MenuIconClass="" MenuNavbar="0" />
   <Menu MenuID="73" MenuText="Save Search" MenuParentID="-1" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="save_search" MenuType="" MenuCustomUrl="0" MenuLevel="0" MenuShow="0" MenuDisplayOrder="4000" MenuIconClass="" MenuNavbar="0" />
   <Menu MenuID="74" MenuText="Save Webhook" MenuParentID="-1" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="save_webhook" MenuType="" MenuCustomUrl="0" MenuLevel="0" MenuShow="0" MenuDisplayOrder="4100" MenuIconClass="" MenuNavbar="0" />
+  <Menu MenuID="238" MenuText="Monthly Payment" MenuParentID="-1" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="monthlyPayment.php" MenuType="" MenuCustomUrl="0" MenuLevel="0" MenuShow="1" MenuDisplayOrder="-1" MenuIconClass="" MenuNavbar="0" />
   <Locale Id="th-TH">
     <Properties><![CDATA[[{"Id":"id","Type":"String","Value":"th-TH"},{"Id":"desc","Type":"String","Value":"ไทย (ไทย)"},{"Id":"number","Type":"String","Value":"#,##0.###"},{"Id":"currency","Type":"String","Value":"¤#,##0.00"},{"Id":"currency_code","Type":"String","Value":"THB"},{"Id":"currency_symbol","Type":"String","Value":"฿"},{"Id":"percent","Type":"String","Value":"#,##0%"},{"Id":"date","Type":"String","Value":"d/M/yy"},{"Id":"time","Type":"String","Value":"HH:mm"},{"Id":"time_zone","Type":"Null","Value":"UTC+7"}]]]></Properties>
   </Locale>
