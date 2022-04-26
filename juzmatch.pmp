@@ -2332,7 +2332,7 @@
       <Field FldName="response" FldType="200" FldTypeName="VARCHAR" NativeDataType="253" FldSupport="1" FldSize="250" FldAttribute="100" FldGenerate="1" FldList="1" FldExport="1" FldView="1" FldEdit="1" FldAdd="1" FldAddOpt="1" FldSearch="1" FldBasicSearch="1" FldSrchOpr="LIKE" FldCaption="response" FldViewTag="FORMATTED TEXT" FldHtmlTag="TEXT" FldTagSize="30" FldTagMaxLength="250" FldSelectType="Values" FldTagAPrefix="None" FldIncLeadDigit="-2" FldUseParen="-2" FldGpDigits="-2" FldQuoteS="'" FldQuoteE="'" FldMultiUpdate="1" FldResizeQuality="75" />
     </Table>
     <Table TblName="doc_creden" TblType="TABLE" TblGen="1" TblGenList="controller=1,info=1,list=1,list|class=1,add=1,add|class=1,view=1,view|class=1,edit=1,edit|class=1,delete=1,delete|class=1" TblList="1" TblView="1" TblEdit="1" TblAdd="1" TblDelete="1" TblCaption="doc creden" TblUpdatable="1" TblSrchType="BASIC" TblBasicSearch="1" TblExtendedBasicSearch="1" TblCopy="1" TblSecurity="0,&quot;Default&quot;,0;1,&quot;Juzmatch Admin&quot;,47" TblLoaded="1" TblShowEmptyRows="0" TblUseGlobal="1" TblRecPerPage="20" TblRecPerPageList="10,20,50,ALL" TblGrpPerPage="3" TblGrpPerPageList="1,2,3,5,ALL" TblPagerStyle="2" TblUseButtonsForLinks="1" TblUseDropDownForAction="1" TblUseDropDownForListOptions="1" TblUseDropDownForExport="1">
-      <Field FldName="document_id" FldType="3" FldTypeName="INT" NativeDataType="3" FldSupport="1" FldSize="11" FldAttribute="100" FldValidate="INTEGER" FldGenerate="1" FldList="1" FldExport="1" FldView="1" FldEdit="1" FldAdd="1" FldAddOpt="1" FldSearch="1" FldBasicSearch="1" FldSrchOpr="=" FldCaption="document id" FldViewTag="FORMATTED TEXT" FldHtmlTag="TEXT" FldTagSize="30" FldTagMaxLength="11" FldSelectType="Values" FldTagAPrefix="None" FldFmtType="Number" FldIncLeadDigit="-2" FldUseParen="-2" FldGpDigits="-2" FldMultiUpdate="1" FldResizeQuality="75" />
+      <Field FldName="document_id" FldType="200" FldTypeName="VARCHAR" NativeDataType="253" FldSupport="1" FldSize="250" FldAttribute="100" FldGenerate="1" FldList="1" FldExport="1" FldView="1" FldEdit="1" FldAdd="1" FldAddOpt="1" FldSearch="1" FldBasicSearch="1" FldSrchOpr="LIKE" FldCaption="document id" FldViewTag="FORMATTED TEXT" FldHtmlTag="TEXT" FldTagSize="30" FldTagMaxLength="250" FldSelectType="Values" FldTagAPrefix="None" FldIncLeadDigit="-2" FldUseParen="-2" FldGpDigits="-2" FldQuoteS="'" FldQuoteE="'" FldMultiUpdate="1" FldResizeQuality="75" />
       <Field FldName="doc_creden_id" FldType="3" FldTypeName="INT" NativeDataType="3" FldSupport="1" FldSize="11" FldIsPrimaryKey="1" FldAutoIncrement="1" FldAttribute="96" FldValidate="INTEGER" FldGenerate="1" FldList="1" FldExport="1" FldView="1" FldEdit="1" FldSearch="1" FldSrchOpr="=" FldCaption="doc creden id" FldViewTag="FORMATTED TEXT" FldHtmlTag="NO" FldTagMaxLength="11" FldSelectType="Values" FldTagAPrefix="None" FldIncLeadDigit="-2" FldUseParen="-2" FldGpDigits="-2" FldResizeQuality="75" />
       <Field FldName="doc_temp_id" FldType="3" FldTypeName="INT" NativeDataType="3" FldSupport="1" FldSize="11" FldAttribute="100" FldValidate="INTEGER" FldGenerate="1" FldList="1" FldExport="1" FldView="1" FldEdit="1" FldAdd="1" FldAddOpt="1" FldSearch="1" FldSrchOpr="=" FldCaption="doc temp id" FldViewTag="FORMATTED TEXT" FldHtmlTag="TEXT" FldTagSize="30" FldTagMaxLength="11" FldSelectType="Values" FldTagAPrefix="None" FldFmtType="Number" FldIncLeadDigit="-2" FldUseParen="-2" FldGpDigits="-2" FldMultiUpdate="1" FldResizeQuality="75" />
       <Field FldName="txid" FldType="200" FldTypeName="VARCHAR" NativeDataType="253" FldSupport="1" FldSize="250" FldAttribute="100" FldGenerate="1" FldList="1" FldExport="1" FldView="1" FldEdit="1" FldAdd="1" FldAddOpt="1" FldSearch="1" FldBasicSearch="1" FldSrchOpr="LIKE" FldCaption="txid" FldViewTag="FORMATTED TEXT" FldHtmlTag="TEXT" FldTagSize="30" FldTagMaxLength="250" FldSelectType="Values" FldTagAPrefix="None" FldIncLeadDigit="-2" FldUseParen="-2" FldGpDigits="-2" FldQuoteS="'" FldQuoteE="'" FldMultiUpdate="1" FldResizeQuality="75" />
@@ -2346,6 +2346,7 @@
       <Field FldName="udate" FldType="135" FldTypeName="DATETIME" NativeDataType="12" FldSupport="1" FldSize="19" FldAttribute="100" FldValidate="DATE" FldPopCalendar="1" FldGenerate="1" FldList="1" FldExport="1" FldView="1" FldEdit="1" FldAdd="1" FldAddOpt="1" FldSearch="1" FldSrchOpr="=" FldCaption="udate" FldViewTag="FORMATTED TEXT" FldHtmlTag="TEXT" FldTagMaxLength="19" FldSelectType="Values" FldTagAPrefix="None" FldFmtType="Date/Time" FldIncLeadDigit="-2" FldUseParen="-2" FldGpDigits="-2" FldQuoteS="'" FldQuoteE="'" FldMultiUpdate="1" FldResizeQuality="75" />
       <Field FldName="uuser" FldType="200" FldTypeName="VARCHAR" NativeDataType="253" FldSupport="1" FldSize="50" FldAttribute="100" FldGenerate="1" FldList="1" FldExport="1" FldView="1" FldEdit="1" FldAdd="1" FldAddOpt="1" FldSearch="1" FldSrchOpr="LIKE" FldCaption="uuser" FldViewTag="FORMATTED TEXT" FldHtmlTag="TEXT" FldTagSize="30" FldTagMaxLength="50" FldSelectType="Values" FldTagAPrefix="None" FldIncLeadDigit="-2" FldUseParen="-2" FldGpDigits="-2" FldQuoteS="'" FldQuoteE="'" FldMultiUpdate="1" FldResizeQuality="75" />
       <Field FldName="uip" FldType="200" FldTypeName="VARCHAR" NativeDataType="253" FldSupport="1" FldSize="50" FldAttribute="100" FldGenerate="1" FldList="1" FldExport="1" FldView="1" FldEdit="1" FldAdd="1" FldAddOpt="1" FldSearch="1" FldBasicSearch="1" FldSrchOpr="LIKE" FldCaption="uip" FldViewTag="FORMATTED TEXT" FldHtmlTag="TEXT" FldTagSize="30" FldTagMaxLength="50" FldSelectType="Values" FldTagAPrefix="None" FldIncLeadDigit="-2" FldUseParen="-2" FldGpDigits="-2" FldQuoteS="'" FldQuoteE="'" FldMultiUpdate="1" FldResizeQuality="75" />
+      <Field FldName="doc_url" FldType="200" FldTypeName="VARCHAR" NativeDataType="253" FldSupport="1" FldSize="250" FldAttribute="100" FldGenerate="1" FldList="1" FldExport="1" FldView="1" FldEdit="1" FldAdd="1" FldAddOpt="1" FldSearch="1" FldBasicSearch="1" FldSrchOpr="LIKE" FldCaption="doc url" FldViewTag="FORMATTED TEXT" FldHtmlTag="TEXT" FldTagSize="30" FldTagMaxLength="250" FldSelectType="Values" FldTagAPrefix="None" FldIncLeadDigit="-2" FldUseParen="-2" FldGpDigits="-2" FldQuoteS="'" FldQuoteE="'" FldMultiUpdate="1" FldResizeQuality="75" />
     </Table>
     <Table TblName="doc_creden_log" TblType="TABLE" TblGen="1" TblGenList="controller=1,info=1,list=1,list|class=1,add=1,add|class=1,view=1,view|class=1,edit=1,edit|class=1,delete=1,delete|class=1" TblList="1" TblView="1" TblEdit="1" TblAdd="1" TblDelete="1" TblCaption="doc creden log" TblUpdatable="1" TblSrchType="BASIC" TblBasicSearch="1" TblExtendedBasicSearch="1" TblCopy="1" TblSecurity="0,&quot;Default&quot;,0;1,&quot;Juzmatch Admin&quot;,47" TblLoaded="1" TblShowEmptyRows="0" TblUseGlobal="1" TblRecPerPage="20" TblRecPerPageList="10,20,50,ALL" TblGrpPerPage="3" TblGrpPerPageList="1,2,3,5,ALL" TblPagerStyle="2" TblUseButtonsForLinks="1" TblUseDropDownForAction="1" TblUseDropDownForListOptions="1" TblUseDropDownForExport="1">
       <Field FldName="id" FldType="3" FldTypeName="INT" NativeDataType="3" FldSupport="1" FldSize="11" FldIsPrimaryKey="1" FldAutoIncrement="1" FldAttribute="96" FldValidate="INTEGER" FldGenerate="1" FldList="1" FldExport="1" FldView="1" FldEdit="1" FldSearch="1" FldSrchOpr="=" FldCaption="id" FldViewTag="FORMATTED TEXT" FldHtmlTag="NO" FldTagMaxLength="11" FldSelectType="Values" FldTagAPrefix="None" FldIncLeadDigit="-2" FldUseParen="-2" FldGpDigits="-2" FldResizeQuality="75" />
@@ -2428,6 +2429,7 @@
       <Field FldName="asset_deed" FldType="200" FldTypeName="VARCHAR" NativeDataType="253" FldSupport="1" FldSize="250" FldAttribute="100" FldGenerate="1" FldList="1" FldExport="1" FldView="1" FldEdit="1" FldAdd="1" FldAddOpt="1" FldSearch="1" FldBasicSearch="1" FldSrchOpr="LIKE" FldCaption="asset deed" FldViewTag="FORMATTED TEXT" FldHtmlTag="TEXT" FldTagSize="30" FldTagMaxLength="250" FldSelectType="Values" FldTagAPrefix="None" FldIncLeadDigit="-2" FldUseParen="-2" FldGpDigits="-2" FldQuoteS="'" FldQuoteE="'" FldMultiUpdate="1" FldResizeQuality="75" />
       <Field FldName="asset_project" FldType="200" FldTypeName="VARCHAR" NativeDataType="253" FldSupport="1" FldSize="250" FldAttribute="100" FldGenerate="1" FldList="1" FldExport="1" FldView="1" FldEdit="1" FldAdd="1" FldAddOpt="1" FldSearch="1" FldBasicSearch="1" FldSrchOpr="LIKE" FldCaption="asset project" FldViewTag="FORMATTED TEXT" FldHtmlTag="TEXT" FldTagSize="30" FldTagMaxLength="250" FldSelectType="Values" FldTagAPrefix="None" FldIncLeadDigit="-2" FldUseParen="-2" FldGpDigits="-2" FldQuoteS="'" FldQuoteE="'" FldMultiUpdate="1" FldResizeQuality="75" />
       <Field FldName="asset_area" FldType="200" FldTypeName="VARCHAR" NativeDataType="253" FldSupport="1" FldSize="250" FldAttribute="100" FldGenerate="1" FldList="1" FldExport="1" FldView="1" FldEdit="1" FldAdd="1" FldAddOpt="1" FldSearch="1" FldBasicSearch="1" FldSrchOpr="LIKE" FldCaption="asset area" FldViewTag="FORMATTED TEXT" FldHtmlTag="TEXT" FldTagSize="30" FldTagMaxLength="250" FldSelectType="Values" FldTagAPrefix="None" FldIncLeadDigit="-2" FldUseParen="-2" FldGpDigits="-2" FldQuoteS="'" FldQuoteE="'" FldMultiUpdate="1" FldResizeQuality="75" />
+      <Field FldName="buyer_booking_asset_id" FldType="3" FldTypeName="INT" NativeDataType="3" FldSupport="1" FldSize="11" FldReq="1" FldAttribute="4" FldValidate="INTEGER" FldGenerate="1" FldList="1" FldExport="1" FldView="1" FldEdit="1" FldAdd="1" FldAddOpt="1" FldSearch="1" FldSrchOpr="=" FldCaption="buyer booking asset id" FldViewTag="FORMATTED TEXT" FldHtmlTag="TEXT" FldTagSize="30" FldTagMaxLength="11" FldSelectType="Values" FldTagAPrefix="None" FldFmtType="Number" FldIncLeadDigit="-2" FldUseParen="-2" FldGpDigits="-2" FldMultiUpdate="1" FldResizeQuality="75" />
     </Table>
     <Table TblName="doc_juzmatch2" TblType="TABLE" TblGen="1" TblGenList="controller=1,info=1,list=1,list|class=1,add=1,add|class=1,view=1,view|class=1,edit=1,edit|class=1,delete=1,delete|class=1" TblList="1" TblView="1" TblEdit="1" TblAdd="1" TblDelete="1" TblCaption="doc juzmatch 2" TblUpdatable="1" TblSrchType="BASIC" TblBasicSearch="1" TblExtendedBasicSearch="1" TblCopy="1" TblSecurity="0,&quot;Default&quot;,0;1,&quot;Juzmatch Admin&quot;,47" TblLoaded="1" TblShowEmptyRows="0" TblUseGlobal="1" TblRecPerPage="20" TblRecPerPageList="10,20,50,ALL" TblGrpPerPage="3" TblGrpPerPageList="1,2,3,5,ALL" TblPagerStyle="2" TblUseButtonsForLinks="1" TblUseDropDownForAction="1" TblUseDropDownForListOptions="1" TblUseDropDownForExport="1">
       <Field FldName="id" FldType="3" FldTypeName="INT" NativeDataType="3" FldSupport="1" FldSize="11" FldIsPrimaryKey="1" FldAutoIncrement="1" FldAttribute="96" FldValidate="INTEGER" FldGenerate="1" FldList="1" FldExport="1" FldView="1" FldEdit="1" FldSearch="1" FldSrchOpr="=" FldCaption="id" FldViewTag="FORMATTED TEXT" FldHtmlTag="NO" FldTagMaxLength="11" FldSelectType="Values" FldTagAPrefix="None" FldIncLeadDigit="-2" FldUseParen="-2" FldGpDigits="-2" FldResizeQuality="75" />
@@ -2495,6 +2497,7 @@
       <Field FldName="asset_code" FldType="200" FldTypeName="VARCHAR" NativeDataType="253" FldSupport="1" FldSize="250" FldAttribute="100" FldGenerate="1" FldList="1" FldExport="1" FldView="1" FldEdit="1" FldAdd="1" FldAddOpt="1" FldSearch="1" FldBasicSearch="1" FldSrchOpr="LIKE" FldCaption="asset code" FldViewTag="FORMATTED TEXT" FldHtmlTag="TEXT" FldTagSize="30" FldTagMaxLength="250" FldSelectType="Values" FldTagAPrefix="None" FldIncLeadDigit="-2" FldUseParen="-2" FldGpDigits="-2" FldQuoteS="'" FldQuoteE="'" FldMultiUpdate="1" FldResizeQuality="75" />
       <Field FldName="investment_money_txt" FldType="201" FldTypeName="VARCHAR" NativeDataType="253" FldSupport="1" FldSize="500" FldAttribute="100" FldGenerate="1" FldView="1" FldEdit="1" FldAdd="1" FldAddOpt="1" FldSearch="1" FldBasicSearch="1" FldSrchOpr="LIKE" FldCaption="investment money txt" FldViewTag="FORMATTED TEXT" FldHtmlTag="TEXTAREA" FldTagMaxLength="500" FldSelectType="Values" FldTagCols="35" FldTagRows="4" FldTagAPrefix="None" FldIncLeadDigit="-2" FldUseParen="-2" FldGpDigits="-2" FldQuoteS="'" FldQuoteE="'" FldMultiUpdate="1" FldResizeQuality="75" />
       <Field FldName="first_benefits_month" FldType="3" FldTypeName="INT" NativeDataType="3" FldSupport="1" FldSize="11" FldAttribute="100" FldValidate="INTEGER" FldGenerate="1" FldList="1" FldExport="1" FldView="1" FldEdit="1" FldAdd="1" FldAddOpt="1" FldSearch="1" FldSrchOpr="=" FldCaption="first benefits month" FldViewTag="FORMATTED TEXT" FldHtmlTag="TEXT" FldTagSize="30" FldTagMaxLength="11" FldSelectType="Values" FldTagAPrefix="None" FldFmtType="Number" FldIncLeadDigit="-2" FldUseParen="-2" FldGpDigits="-2" FldMultiUpdate="1" FldResizeQuality="75" />
+      <Field FldName="buyer_booking_asset_id" FldType="3" FldTypeName="INT" NativeDataType="3" FldSupport="1" FldSize="11" FldReq="1" FldAttribute="4" FldValidate="INTEGER" FldGenerate="1" FldList="1" FldExport="1" FldView="1" FldEdit="1" FldAdd="1" FldAddOpt="1" FldSearch="1" FldSrchOpr="=" FldCaption="buyer booking asset id" FldViewTag="FORMATTED TEXT" FldHtmlTag="TEXT" FldTagSize="30" FldTagMaxLength="11" FldSelectType="Values" FldTagAPrefix="None" FldFmtType="Number" FldIncLeadDigit="-2" FldUseParen="-2" FldGpDigits="-2" FldMultiUpdate="1" FldResizeQuality="75" />
     </Table>
     <Table TblName="doc_juzmatch3" TblType="TABLE" TblGen="1" TblGenList="controller=1,info=1,list=1,list|class=1,add=1,add|class=1,view=1,view|class=1,edit=1,edit|class=1,delete=1,delete|class=1" TblList="1" TblView="1" TblEdit="1" TblAdd="1" TblDelete="1" TblCaption="doc juzmatch 3" TblUpdatable="1" TblSrchType="BASIC" TblBasicSearch="1" TblExtendedBasicSearch="1" TblCopy="1" TblSecurity="0,&quot;Default&quot;,0;1,&quot;Juzmatch Admin&quot;,47" TblLoaded="1" TblShowEmptyRows="0" TblUseGlobal="1" TblRecPerPage="20" TblRecPerPageList="10,20,50,ALL" TblGrpPerPage="3" TblGrpPerPageList="1,2,3,5,ALL" TblPagerStyle="2" TblUseButtonsForLinks="1" TblUseDropDownForAction="1" TblUseDropDownForListOptions="1" TblUseDropDownForExport="1">
       <Field FldName="id" FldType="3" FldTypeName="INT" NativeDataType="3" FldSupport="1" FldSize="11" FldIsPrimaryKey="1" FldAutoIncrement="1" FldAttribute="96" FldValidate="INTEGER" FldGenerate="1" FldList="1" FldExport="1" FldView="1" FldEdit="1" FldSearch="1" FldSrchOpr="=" FldCaption="id" FldViewTag="FORMATTED TEXT" FldHtmlTag="NO" FldTagMaxLength="11" FldSelectType="Values" FldTagAPrefix="None" FldIncLeadDigit="-2" FldUseParen="-2" FldGpDigits="-2" FldResizeQuality="75" />
@@ -2559,6 +2562,7 @@
       <Field FldName="next_pay_date_txt" FldType="200" FldTypeName="VARCHAR" NativeDataType="253" FldSupport="1" FldSize="250" FldAttribute="100" FldGenerate="1" FldList="1" FldExport="1" FldView="1" FldEdit="1" FldAdd="1" FldAddOpt="1" FldSearch="1" FldBasicSearch="1" FldSrchOpr="LIKE" FldCaption="next pay date txt" FldViewTag="FORMATTED TEXT" FldHtmlTag="TEXT" FldTagSize="30" FldTagMaxLength="250" FldSelectType="Values" FldTagAPrefix="None" FldIncLeadDigit="-2" FldUseParen="-2" FldGpDigits="-2" FldQuoteS="'" FldQuoteE="'" FldMultiUpdate="1" FldResizeQuality="75" />
       <Field FldName="doc_date" FldType="133" FldTypeName="DATE" NativeDataType="10" FldSupport="1" FldSize="10" FldAttribute="100" FldValidate="DATE" FldPopCalendar="1" FldGenerate="1" FldList="1" FldExport="1" FldView="1" FldEdit="1" FldAdd="1" FldAddOpt="1" FldSearch="1" FldSrchOpr="=" FldCaption="doc date" FldViewTag="FORMATTED TEXT" FldHtmlTag="TEXT" FldTagMaxLength="10" FldSelectType="Values" FldTagAPrefix="None" FldFmtType="Date/Time" FldIncLeadDigit="-2" FldUseParen="-2" FldGpDigits="-2" FldQuoteS="'" FldQuoteE="'" FldMultiUpdate="1" FldResizeQuality="75" />
       <Field FldName="investor_email" FldType="200" FldTypeName="VARCHAR" NativeDataType="253" FldSupport="1" FldSize="250" FldAttribute="100" FldGenerate="1" FldList="1" FldExport="1" FldView="1" FldEdit="1" FldAdd="1" FldAddOpt="1" FldSearch="1" FldBasicSearch="1" FldSrchOpr="LIKE" FldCaption="investor email" FldViewTag="FORMATTED TEXT" FldHtmlTag="TEXT" FldTagSize="30" FldTagMaxLength="250" FldSelectType="Values" FldTagAPrefix="None" FldIncLeadDigit="-2" FldUseParen="-2" FldGpDigits="-2" FldQuoteS="'" FldQuoteE="'" FldMultiUpdate="1" FldResizeQuality="75" />
+      <Field FldName="buyer_booking_asset_id" FldType="3" FldTypeName="INT" NativeDataType="3" FldSupport="1" FldSize="11" FldReq="1" FldAttribute="4" FldValidate="INTEGER" FldGenerate="1" FldList="1" FldExport="1" FldView="1" FldEdit="1" FldAdd="1" FldAddOpt="1" FldSearch="1" FldSrchOpr="=" FldCaption="buyer booking asset id" FldViewTag="FORMATTED TEXT" FldHtmlTag="TEXT" FldTagSize="30" FldTagMaxLength="11" FldSelectType="Values" FldTagAPrefix="None" FldFmtType="Number" FldIncLeadDigit="-2" FldUseParen="-2" FldGpDigits="-2" FldMultiUpdate="1" FldResizeQuality="75" />
     </Table>
     <Table TblName="doc_temp" TblType="TABLE" TblGen="1" TblGenList="controller=1,info=1,list=1,list|class=1,add=1,add|class=1,edit=1,edit|class=1,delete=1,delete|class=1" TblList="1" TblEdit="1" TblAdd="1" TblAddReturnPage="_LIST" TblDelete="1" TblCaption="Template Document" TblUpdatable="1" TblSrchType="BASIC" TblBasicSearch="0" TblExtendedBasicSearch="0" TblSecurity="0,&quot;Default&quot;,0;1,&quot;Juzmatch Admin&quot;,47" TblLoaded="1" TblShowEmptyRows="0" TblUseGlobal="1" TblRecPerPage="20" TblRecPerPageList="10,20,50,ALL" TblGrpPerPage="3" TblGrpPerPageList="1,2,3,5,ALL" TblPagerStyle="2" TblAuditTrail="1" TblShowMultipleDetails="1" TblEditReturnPage="_EDIT" TblDisplayRowCount="1" TblUseButtonsForLinks="1" TblUseDropDownForAction="1" TblUseDropDownForListOptions="1" TblUseDropDownForExport="1">
       <Field FldName="doc_temp_id" FldType="3" FldTypeName="INT" NativeDataType="3" FldSupport="1" FldSort="0" FldSize="11" FldIsPrimaryKey="1" FldAutoIncrement="1" FldAttribute="96" FldValidate="INTEGER" FldGenerate="1" FldSearch="1" FldSrchOpr="=" FldCaption="doc temp id" FldViewTag="FORMATTED TEXT" FldHtmlTag="NO" FldTagMaxLength="11" FldSelectType="Values" FldTagAPrefix="None" FldIncLeadDigit="-2" FldUseParen="-2" FldGpDigits="-2" FldColumnWrap="0" FldOrderBy="1" FldOrder="DESC" FldResizeQuality="75" />
@@ -2581,6 +2585,10 @@
       <Field FldName="req_config" FldType="201" FldTypeName="TEXT" NativeDataType="252" FldSupport="1" FldSize="65535" FldAttribute="100" FldGenerate="1" FldView="1" FldEdit="1" FldAdd="1" FldAddOpt="1" FldSearch="1" FldBasicSearch="1" FldSrchOpr="LIKE" FldCaption="req config" FldViewTag="FORMATTED TEXT" FldHtmlTag="TEXTAREA" FldTagMaxLength="65535" FldSelectType="Values" FldTagCols="35" FldTagRows="4" FldTagAPrefix="None" FldIncLeadDigit="-2" FldUseParen="-2" FldGpDigits="-2" FldQuoteS="'" FldQuoteE="'" FldMultiUpdate="1" FldResizeQuality="75" />
       <Field FldName="req_response" FldType="201" FldTypeName="TEXT" NativeDataType="252" FldSupport="1" FldSize="65535" FldAttribute="100" FldGenerate="1" FldView="1" FldEdit="1" FldAdd="1" FldAddOpt="1" FldSearch="1" FldBasicSearch="1" FldSrchOpr="LIKE" FldCaption="req response" FldViewTag="FORMATTED TEXT" FldHtmlTag="TEXTAREA" FldTagMaxLength="65535" FldSelectType="Values" FldTagCols="35" FldTagRows="4" FldTagAPrefix="None" FldIncLeadDigit="-2" FldUseParen="-2" FldGpDigits="-2" FldQuoteS="'" FldQuoteE="'" FldMultiUpdate="1" FldResizeQuality="75" />
       <Field FldName="error_message" FldType="201" FldTypeName="TEXT" NativeDataType="252" FldSupport="1" FldSize="65535" FldAttribute="100" FldGenerate="1" FldView="1" FldEdit="1" FldAdd="1" FldAddOpt="1" FldSearch="1" FldBasicSearch="1" FldSrchOpr="LIKE" FldCaption="error message" FldViewTag="FORMATTED TEXT" FldHtmlTag="TEXTAREA" FldTagMaxLength="65535" FldSelectType="Values" FldTagCols="35" FldTagRows="4" FldTagAPrefix="None" FldIncLeadDigit="-2" FldUseParen="-2" FldGpDigits="-2" FldQuoteS="'" FldQuoteE="'" FldMultiUpdate="1" FldResizeQuality="75" />
+    </Table>
+    <Table TblName="reason_terminate_contract" TblType="TABLE" TblGen="1" TblList="1" TblView="1" TblEdit="1" TblAdd="1" TblDelete="1" TblCaption="reason terminate contract" TblUpdatable="1" TblSrchType="BASIC" TblBasicSearch="1" TblExtendedBasicSearch="1" TblCopy="1" TblSecurity="0,&quot;Default&quot;,0;1,&quot;Juzmatch Admin&quot;,47" TblLoaded="1" TblShowEmptyRows="0" TblUseGlobal="1" TblRecPerPage="20" TblRecPerPageList="10,20,50,ALL" TblGrpPerPage="3" TblGrpPerPageList="1,2,3,5,ALL" TblPagerStyle="2" TblUseButtonsForLinks="1" TblUseDropDownForAction="1" TblUseDropDownForListOptions="1" TblUseDropDownForExport="1">
+      <Field FldName="reason_id" FldType="3" FldTypeName="INT" NativeDataType="3" FldSupport="1" FldSize="11" FldIsPrimaryKey="1" FldAutoIncrement="1" FldAttribute="96" FldValidate="INTEGER" FldGenerate="1" FldList="1" FldExport="1" FldView="1" FldEdit="1" FldSearch="1" FldSrchOpr="=" FldCaption="reason id" FldViewTag="FORMATTED TEXT" FldHtmlTag="NO" FldTagMaxLength="11" FldSelectType="Values" FldTagAPrefix="None" FldIncLeadDigit="-2" FldUseParen="-2" FldGpDigits="-2" FldResizeQuality="75" />
+      <Field FldName="reason_text" FldType="201" FldTypeName="TEXT" NativeDataType="252" FldSupport="1" FldSize="65535" FldReq="1" FldAttribute="4" FldGenerate="1" FldView="1" FldEdit="1" FldAdd="1" FldAddOpt="1" FldSearch="1" FldBasicSearch="1" FldSrchOpr="LIKE" FldCaption="reason text" FldViewTag="FORMATTED TEXT" FldHtmlTag="TEXTAREA" FldTagMaxLength="65535" FldSelectType="Values" FldTagCols="35" FldTagRows="4" FldTagAPrefix="None" FldIncLeadDigit="-2" FldUseParen="-2" FldGpDigits="-2" FldQuoteS="'" FldQuoteE="'" FldMultiUpdate="1" FldResizeQuality="75" />
     </Table>
   </Database>
   <LinkDatabase DBID="juzmatch1" DBName="juzmatch" DBType="MySQL" DBConnectionMethod="URL" DBURL="https://uatbackend.juzmatch.com/tunnel.php" DBHost="localhost" DBPort="3306" DBUID="u-kf2kJ16wONmhv2ryv7ag" DBPwd="28nXWuEMWbEdzBRKDeDj27ZBfRP-JpNyFzrBoAy0I4o" DBQuoteS="`" DBQuoteE="`" DBDBMSName="MySQL" DBDBMSVer="80028" DBProviderName="e.World Technology Ltd." DBProviderVer="18" />
@@ -2959,6 +2967,9 @@
           <Properties><![CDATA[[{"Id":"ExportList","Type":"Boolean","Value":"0"},{"Id":"ExportView","Type":"Boolean","Value":"1"},{"Id":"PageBreakRecordCount","Type":"Integer","Value":0},{"Id":"PageOrientation","Type":"String","Value":"portrait"},{"Id":"PageSize","Type":"String","Value":"a4"}]]]></Properties>
         </ExtTable>
         <ExtTable TblName="mpay_req_log">
+          <Properties><![CDATA[[{"Id":"ExportList","Type":"Boolean","Value":"0"},{"Id":"ExportView","Type":"Boolean","Value":"1"},{"Id":"PageBreakRecordCount","Type":"Integer","Value":0},{"Id":"PageOrientation","Type":"String","Value":"portrait"},{"Id":"PageSize","Type":"String","Value":"a4"}]]]></Properties>
+        </ExtTable>
+        <ExtTable TblName="reason_terminate_contract">
           <Properties><![CDATA[[{"Id":"ExportList","Type":"Boolean","Value":"0"},{"Id":"ExportView","Type":"Boolean","Value":"1"},{"Id":"PageBreakRecordCount","Type":"Integer","Value":0},{"Id":"PageOrientation","Type":"String","Value":"portrait"},{"Id":"PageSize","Type":"String","Value":"a4"}]]]></Properties>
         </ExtTable>
         <Properties><![CDATA[[]]]></Properties>
@@ -7347,6 +7358,9 @@
           <Properties><![CDATA[[]]]></Properties>
         </ExtTable>
         <ExtTable TblName="doc_creden">
+          <ExtField FldName="doc_url">
+            <Properties><![CDATA[[{"Id":"Options","Type":"String","Value":""}]]]></Properties>
+          </ExtField>
           <Properties><![CDATA[[]]]></Properties>
         </ExtTable>
         <ExtTable TblName="doc_creden_log">
@@ -7380,6 +7394,9 @@
           <ExtField FldName="asset_area">
             <Properties><![CDATA[[{"Id":"Options","Type":"String","Value":""}]]]></Properties>
           </ExtField>
+          <ExtField FldName="buyer_booking_asset_id">
+            <Properties><![CDATA[[{"Id":"Options","Type":"String","Value":""}]]]></Properties>
+          </ExtField>
           <Properties><![CDATA[[]]]></Properties>
         </ExtTable>
         <ExtTable TblName="doc_juzmatch2">
@@ -7401,6 +7418,9 @@
           <ExtField FldName="first_benefits_month">
             <Properties><![CDATA[[{"Id":"Options","Type":"String","Value":""}]]]></Properties>
           </ExtField>
+          <ExtField FldName="buyer_booking_asset_id">
+            <Properties><![CDATA[[{"Id":"Options","Type":"String","Value":""}]]]></Properties>
+          </ExtField>
           <Properties><![CDATA[[]]]></Properties>
         </ExtTable>
         <ExtTable TblName="doc_juzmatch3">
@@ -7410,12 +7430,18 @@
           <ExtField FldName="investor_email">
             <Properties><![CDATA[[{"Id":"Options","Type":"String","Value":""}]]]></Properties>
           </ExtField>
+          <ExtField FldName="buyer_booking_asset_id">
+            <Properties><![CDATA[[{"Id":"Options","Type":"String","Value":""}]]]></Properties>
+          </ExtField>
           <Properties><![CDATA[[]]]></Properties>
         </ExtTable>
         <ExtTable TblName="doc_temp">
           <Properties><![CDATA[[]]]></Properties>
         </ExtTable>
         <ExtTable TblName="mpay_req_log">
+          <Properties><![CDATA[[]]]></Properties>
+        </ExtTable>
+        <ExtTable TblName="reason_terminate_contract">
           <Properties><![CDATA[[]]]></Properties>
         </ExtTable>
         <Properties><![CDATA[[]]]></Properties>
@@ -7570,6 +7596,9 @@
           <Properties><![CDATA[[]]]></Properties>
         </ExtTable>
         <ExtTable TblName="mpay_req_log">
+          <Properties><![CDATA[[]]]></Properties>
+        </ExtTable>
+        <ExtTable TblName="reason_terminate_contract">
           <Properties><![CDATA[[]]]></Properties>
         </ExtTable>
         <Properties><![CDATA[[]]]></Properties>
@@ -8005,6 +8034,9 @@
         <ExtTable TblName="mpay_req_log">
           <Properties><![CDATA[[{"Id":"Add","Type":"Boolean","Value":"1"},{"Id":"Edit","Type":"Boolean","Value":"1"},{"Id":"Delete","Type":"Boolean","Value":"1"},{"Id":"View","Type":"Boolean","Value":"0"},{"Id":"ViewData","Type":"Boolean","Value":"0"},{"Id":"Search","Type":"Boolean","Value":"0"}]]]></Properties>
         </ExtTable>
+        <ExtTable TblName="reason_terminate_contract">
+          <Properties><![CDATA[[{"Id":"Add","Type":"Boolean","Value":"1"},{"Id":"Edit","Type":"Boolean","Value":"1"},{"Id":"Delete","Type":"Boolean","Value":"1"},{"Id":"View","Type":"Boolean","Value":"0"},{"Id":"ViewData","Type":"Boolean","Value":"0"},{"Id":"Search","Type":"Boolean","Value":"0"}]]]></Properties>
+        </ExtTable>
         <Properties><![CDATA[[]]]></Properties>
       </ExtDatabase>
       <Properties><![CDATA[[]]]></Properties>
@@ -8436,6 +8468,9 @@
           <Properties><![CDATA[[{"Id":"Enabled","Type":"Boolean","Value":"0"},{"Id":"TableWidth","Type":"String","Value":"0"},{"Id":"TableHeight","Type":"String","Value":"0"}]]]></Properties>
         </ExtTable>
         <ExtTable TblName="mpay_req_log">
+          <Properties><![CDATA[[{"Id":"Enabled","Type":"Boolean","Value":"0"},{"Id":"TableWidth","Type":"String","Value":"0"},{"Id":"TableHeight","Type":"String","Value":"0"}]]]></Properties>
+        </ExtTable>
+        <ExtTable TblName="reason_terminate_contract">
           <Properties><![CDATA[[{"Id":"Enabled","Type":"Boolean","Value":"0"},{"Id":"TableWidth","Type":"String","Value":"0"},{"Id":"TableHeight","Type":"String","Value":"0"}]]]></Properties>
         </ExtTable>
         <Properties><![CDATA[[]]]></Properties>
@@ -13001,6 +13036,9 @@
           <Properties><![CDATA[[]]]></Properties>
         </ExtTable>
         <ExtTable TblName="doc_creden">
+          <ExtField FldName="doc_url">
+            <Properties><![CDATA[[{"Id":"Step","Type":"Integer","Value":15},{"Id":"Options","Type":"String","Value":""}]]]></Properties>
+          </ExtField>
           <Properties><![CDATA[[]]]></Properties>
         </ExtTable>
         <ExtTable TblName="doc_creden_log">
@@ -13034,6 +13072,9 @@
           <ExtField FldName="asset_area">
             <Properties><![CDATA[[{"Id":"Step","Type":"Integer","Value":15},{"Id":"Options","Type":"String","Value":""}]]]></Properties>
           </ExtField>
+          <ExtField FldName="buyer_booking_asset_id">
+            <Properties><![CDATA[[{"Id":"Step","Type":"Integer","Value":15},{"Id":"Options","Type":"String","Value":""}]]]></Properties>
+          </ExtField>
           <Properties><![CDATA[[]]]></Properties>
         </ExtTable>
         <ExtTable TblName="doc_juzmatch2">
@@ -13055,6 +13096,9 @@
           <ExtField FldName="first_benefits_month">
             <Properties><![CDATA[[{"Id":"Step","Type":"Integer","Value":15},{"Id":"Options","Type":"String","Value":""}]]]></Properties>
           </ExtField>
+          <ExtField FldName="buyer_booking_asset_id">
+            <Properties><![CDATA[[{"Id":"Step","Type":"Integer","Value":15},{"Id":"Options","Type":"String","Value":""}]]]></Properties>
+          </ExtField>
           <Properties><![CDATA[[]]]></Properties>
         </ExtTable>
         <ExtTable TblName="doc_juzmatch3">
@@ -13064,12 +13108,18 @@
           <ExtField FldName="investor_email">
             <Properties><![CDATA[[{"Id":"Step","Type":"Integer","Value":15},{"Id":"Options","Type":"String","Value":""}]]]></Properties>
           </ExtField>
+          <ExtField FldName="buyer_booking_asset_id">
+            <Properties><![CDATA[[{"Id":"Step","Type":"Integer","Value":15},{"Id":"Options","Type":"String","Value":""}]]]></Properties>
+          </ExtField>
           <Properties><![CDATA[[]]]></Properties>
         </ExtTable>
         <ExtTable TblName="doc_temp">
           <Properties><![CDATA[[]]]></Properties>
         </ExtTable>
         <ExtTable TblName="mpay_req_log">
+          <Properties><![CDATA[[]]]></Properties>
+        </ExtTable>
+        <ExtTable TblName="reason_terminate_contract">
           <Properties><![CDATA[[]]]></Properties>
         </ExtTable>
         <Properties><![CDATA[[]]]></Properties>
@@ -17458,6 +17508,9 @@
           <Properties><![CDATA[[{"Id":"PermissionType","Type":"String","Value":"bool"}]]]></Properties>
         </ExtTable>
         <ExtTable TblName="doc_creden">
+          <ExtField FldName="doc_url">
+            <Properties><![CDATA[[{"Id":"page_add","Type":"String","Value":""},{"Id":"page_addopt","Type":"String","Value":""},{"Id":"page_view","Type":"String","Value":""},{"Id":"page_edit","Type":"String","Value":""},{"Id":"page_update","Type":"String","Value":""},{"Id":"page_delete","Type":"String","Value":""},{"Id":"page_search","Type":"String","Value":""},{"Id":"page_list","Type":"String","Value":""},{"Id":"action_add","Type":"String","Value":""},{"Id":"action_copy","Type":"String","Value":""},{"Id":"action_edit","Type":"String","Value":""},{"Id":"action_gridadd","Type":"String","Value":""},{"Id":"action_gridedit","Type":"String","Value":""},{"Id":"page_master","Type":"String","Value":""},{"Id":"page_report","Type":"String","Value":""},{"Id":"page_grid","Type":"String","Value":""},{"Id":"page_preview","Type":"String","Value":""}]]]></Properties>
+          </ExtField>
           <Properties><![CDATA[[{"Id":"PermissionType","Type":"String","Value":"bool"}]]]></Properties>
         </ExtTable>
         <ExtTable TblName="doc_creden_log">
@@ -17491,6 +17544,9 @@
           <ExtField FldName="asset_area">
             <Properties><![CDATA[[{"Id":"page_add","Type":"String","Value":""},{"Id":"page_addopt","Type":"String","Value":""},{"Id":"page_view","Type":"String","Value":""},{"Id":"page_edit","Type":"String","Value":""},{"Id":"page_update","Type":"String","Value":""},{"Id":"page_delete","Type":"String","Value":""},{"Id":"page_search","Type":"String","Value":""},{"Id":"page_list","Type":"String","Value":""},{"Id":"action_add","Type":"String","Value":""},{"Id":"action_copy","Type":"String","Value":""},{"Id":"action_edit","Type":"String","Value":""},{"Id":"action_gridadd","Type":"String","Value":""},{"Id":"action_gridedit","Type":"String","Value":""},{"Id":"page_master","Type":"String","Value":""},{"Id":"page_report","Type":"String","Value":""},{"Id":"page_grid","Type":"String","Value":""},{"Id":"page_preview","Type":"String","Value":""}]]]></Properties>
           </ExtField>
+          <ExtField FldName="buyer_booking_asset_id">
+            <Properties><![CDATA[[{"Id":"page_add","Type":"String","Value":""},{"Id":"page_addopt","Type":"String","Value":""},{"Id":"page_view","Type":"String","Value":""},{"Id":"page_edit","Type":"String","Value":""},{"Id":"page_update","Type":"String","Value":""},{"Id":"page_delete","Type":"String","Value":""},{"Id":"page_search","Type":"String","Value":""},{"Id":"page_list","Type":"String","Value":""},{"Id":"action_add","Type":"String","Value":""},{"Id":"action_copy","Type":"String","Value":""},{"Id":"action_edit","Type":"String","Value":""},{"Id":"action_gridadd","Type":"String","Value":""},{"Id":"action_gridedit","Type":"String","Value":""},{"Id":"page_master","Type":"String","Value":""},{"Id":"page_report","Type":"String","Value":""},{"Id":"page_grid","Type":"String","Value":""},{"Id":"page_preview","Type":"String","Value":""}]]]></Properties>
+          </ExtField>
           <Properties><![CDATA[[{"Id":"PermissionType","Type":"String","Value":"bool"}]]]></Properties>
         </ExtTable>
         <ExtTable TblName="doc_juzmatch2">
@@ -17512,6 +17568,9 @@
           <ExtField FldName="first_benefits_month">
             <Properties><![CDATA[[{"Id":"page_add","Type":"String","Value":""},{"Id":"page_addopt","Type":"String","Value":""},{"Id":"page_view","Type":"String","Value":""},{"Id":"page_edit","Type":"String","Value":""},{"Id":"page_update","Type":"String","Value":""},{"Id":"page_delete","Type":"String","Value":""},{"Id":"page_search","Type":"String","Value":""},{"Id":"page_list","Type":"String","Value":""},{"Id":"action_add","Type":"String","Value":""},{"Id":"action_copy","Type":"String","Value":""},{"Id":"action_edit","Type":"String","Value":""},{"Id":"action_gridadd","Type":"String","Value":""},{"Id":"action_gridedit","Type":"String","Value":""},{"Id":"page_master","Type":"String","Value":""},{"Id":"page_report","Type":"String","Value":""},{"Id":"page_grid","Type":"String","Value":""},{"Id":"page_preview","Type":"String","Value":""}]]]></Properties>
           </ExtField>
+          <ExtField FldName="buyer_booking_asset_id">
+            <Properties><![CDATA[[{"Id":"page_add","Type":"String","Value":""},{"Id":"page_addopt","Type":"String","Value":""},{"Id":"page_view","Type":"String","Value":""},{"Id":"page_edit","Type":"String","Value":""},{"Id":"page_update","Type":"String","Value":""},{"Id":"page_delete","Type":"String","Value":""},{"Id":"page_search","Type":"String","Value":""},{"Id":"page_list","Type":"String","Value":""},{"Id":"action_add","Type":"String","Value":""},{"Id":"action_copy","Type":"String","Value":""},{"Id":"action_edit","Type":"String","Value":""},{"Id":"action_gridadd","Type":"String","Value":""},{"Id":"action_gridedit","Type":"String","Value":""},{"Id":"page_master","Type":"String","Value":""},{"Id":"page_report","Type":"String","Value":""},{"Id":"page_grid","Type":"String","Value":""},{"Id":"page_preview","Type":"String","Value":""}]]]></Properties>
+          </ExtField>
           <Properties><![CDATA[[{"Id":"PermissionType","Type":"String","Value":"bool"}]]]></Properties>
         </ExtTable>
         <ExtTable TblName="doc_juzmatch3">
@@ -17521,12 +17580,18 @@
           <ExtField FldName="investor_email">
             <Properties><![CDATA[[{"Id":"page_add","Type":"String","Value":""},{"Id":"page_addopt","Type":"String","Value":""},{"Id":"page_view","Type":"String","Value":""},{"Id":"page_edit","Type":"String","Value":""},{"Id":"page_update","Type":"String","Value":""},{"Id":"page_delete","Type":"String","Value":""},{"Id":"page_search","Type":"String","Value":""},{"Id":"page_list","Type":"String","Value":""},{"Id":"action_add","Type":"String","Value":""},{"Id":"action_copy","Type":"String","Value":""},{"Id":"action_edit","Type":"String","Value":""},{"Id":"action_gridadd","Type":"String","Value":""},{"Id":"action_gridedit","Type":"String","Value":""},{"Id":"page_master","Type":"String","Value":""},{"Id":"page_report","Type":"String","Value":""},{"Id":"page_grid","Type":"String","Value":""},{"Id":"page_preview","Type":"String","Value":""}]]]></Properties>
           </ExtField>
+          <ExtField FldName="buyer_booking_asset_id">
+            <Properties><![CDATA[[{"Id":"page_add","Type":"String","Value":""},{"Id":"page_addopt","Type":"String","Value":""},{"Id":"page_view","Type":"String","Value":""},{"Id":"page_edit","Type":"String","Value":""},{"Id":"page_update","Type":"String","Value":""},{"Id":"page_delete","Type":"String","Value":""},{"Id":"page_search","Type":"String","Value":""},{"Id":"page_list","Type":"String","Value":""},{"Id":"action_add","Type":"String","Value":""},{"Id":"action_copy","Type":"String","Value":""},{"Id":"action_edit","Type":"String","Value":""},{"Id":"action_gridadd","Type":"String","Value":""},{"Id":"action_gridedit","Type":"String","Value":""},{"Id":"page_master","Type":"String","Value":""},{"Id":"page_report","Type":"String","Value":""},{"Id":"page_grid","Type":"String","Value":""},{"Id":"page_preview","Type":"String","Value":""}]]]></Properties>
+          </ExtField>
           <Properties><![CDATA[[{"Id":"PermissionType","Type":"String","Value":"bool"}]]]></Properties>
         </ExtTable>
         <ExtTable TblName="doc_temp">
           <Properties><![CDATA[[{"Id":"PermissionType","Type":"String","Value":"bool"}]]]></Properties>
         </ExtTable>
         <ExtTable TblName="mpay_req_log">
+          <Properties><![CDATA[[{"Id":"PermissionType","Type":"String","Value":"bool"}]]]></Properties>
+        </ExtTable>
+        <ExtTable TblName="reason_terminate_contract">
           <Properties><![CDATA[[{"Id":"PermissionType","Type":"String","Value":"bool"}]]]></Properties>
         </ExtTable>
         <Properties><![CDATA[[]]]></Properties>
@@ -17909,6 +17974,9 @@
         <ExtTable TblName="mpay_req_log">
           <Properties><![CDATA[[{"Id":"Orientation","Type":"String","Value":"portrait"},{"Id":"Size","Type":"String","Value":"A4"},{"Id":"ColumnWidth","Type":"Integer","Value":0}]]]></Properties>
         </ExtTable>
+        <ExtTable TblName="reason_terminate_contract">
+          <Properties><![CDATA[[{"Id":"Orientation","Type":"String","Value":"portrait"},{"Id":"Size","Type":"String","Value":"A4"},{"Id":"ColumnWidth","Type":"Integer","Value":0}]]]></Properties>
+        </ExtTable>
         <Properties><![CDATA[[]]]></Properties>
       </ExtDatabase>
       <Properties><![CDATA[[{"Id":"OoxmlVersion","Type":"String","Value":"12"}]]]></Properties>
@@ -18287,6 +18355,9 @@
           <Properties><![CDATA[[{"Id":"PageOrientation","Type":"String","Value":"ORIENTATION_DEFAULT"},{"Id":"PageSize","Type":"String","Value":"PAPERSIZE_A4"}]]]></Properties>
         </ExtTable>
         <ExtTable TblName="mpay_req_log">
+          <Properties><![CDATA[[{"Id":"PageOrientation","Type":"String","Value":"ORIENTATION_DEFAULT"},{"Id":"PageSize","Type":"String","Value":"PAPERSIZE_A4"}]]]></Properties>
+        </ExtTable>
+        <ExtTable TblName="reason_terminate_contract">
           <Properties><![CDATA[[{"Id":"PageOrientation","Type":"String","Value":"ORIENTATION_DEFAULT"},{"Id":"PageSize","Type":"String","Value":"PAPERSIZE_A4"}]]]></Properties>
         </ExtTable>
         <Properties><![CDATA[[]]]></Properties>
@@ -18712,6 +18783,9 @@
           <Properties><![CDATA[[{"Id":"UseDetailPreview","Type":"Boolean","Value":"1"},{"Id":"PreviewType","Type":"String","Value":"row"},{"Id":"PreviewRowColor","Type":"Color","Value":""},{"Id":"SingleRow","Type":"Boolean","Value":"0"},{"Id":"PageSize","Type":"Integer","Value":0},{"Id":"UseModalLinks","Type":"Boolean","Value":"0"}]]]></Properties>
         </ExtTable>
         <ExtTable TblName="mpay_req_log">
+          <Properties><![CDATA[[{"Id":"UseDetailPreview","Type":"Boolean","Value":"1"},{"Id":"PreviewType","Type":"String","Value":"row"},{"Id":"PreviewRowColor","Type":"Color","Value":""},{"Id":"SingleRow","Type":"Boolean","Value":"0"},{"Id":"PageSize","Type":"Integer","Value":0},{"Id":"UseModalLinks","Type":"Boolean","Value":"0"}]]]></Properties>
+        </ExtTable>
+        <ExtTable TblName="reason_terminate_contract">
           <Properties><![CDATA[[{"Id":"UseDetailPreview","Type":"Boolean","Value":"1"},{"Id":"PreviewType","Type":"String","Value":"row"},{"Id":"PreviewRowColor","Type":"Color","Value":""},{"Id":"SingleRow","Type":"Boolean","Value":"0"},{"Id":"PageSize","Type":"Integer","Value":0},{"Id":"UseModalLinks","Type":"Boolean","Value":"0"}]]]></Properties>
         </ExtTable>
         <Properties><![CDATA[[]]]></Properties>
@@ -23294,6 +23368,9 @@
           <Properties><![CDATA[[]]]></Properties>
         </ExtTable>
         <ExtTable TblName="doc_creden">
+          <ExtField FldName="doc_url">
+            <Properties><![CDATA[[{"Id":"IsEncrypt","Type":"Boolean","Value":"0"}]]]></Properties>
+          </ExtField>
           <Properties><![CDATA[[]]]></Properties>
         </ExtTable>
         <ExtTable TblName="doc_creden_log">
@@ -23327,6 +23404,9 @@
           <ExtField FldName="asset_area">
             <Properties><![CDATA[[{"Id":"IsEncrypt","Type":"Boolean","Value":"0"}]]]></Properties>
           </ExtField>
+          <ExtField FldName="buyer_booking_asset_id">
+            <Properties><![CDATA[[{"Id":"IsEncrypt","Type":"Boolean","Value":"0"}]]]></Properties>
+          </ExtField>
           <Properties><![CDATA[[]]]></Properties>
         </ExtTable>
         <ExtTable TblName="doc_juzmatch2">
@@ -23348,6 +23428,9 @@
           <ExtField FldName="first_benefits_month">
             <Properties><![CDATA[[{"Id":"IsEncrypt","Type":"Boolean","Value":"0"}]]]></Properties>
           </ExtField>
+          <ExtField FldName="buyer_booking_asset_id">
+            <Properties><![CDATA[[{"Id":"IsEncrypt","Type":"Boolean","Value":"0"}]]]></Properties>
+          </ExtField>
           <Properties><![CDATA[[]]]></Properties>
         </ExtTable>
         <ExtTable TblName="doc_juzmatch3">
@@ -23357,12 +23440,18 @@
           <ExtField FldName="investor_email">
             <Properties><![CDATA[[{"Id":"IsEncrypt","Type":"Boolean","Value":"0"}]]]></Properties>
           </ExtField>
+          <ExtField FldName="buyer_booking_asset_id">
+            <Properties><![CDATA[[{"Id":"IsEncrypt","Type":"Boolean","Value":"0"}]]]></Properties>
+          </ExtField>
           <Properties><![CDATA[[]]]></Properties>
         </ExtTable>
         <ExtTable TblName="doc_temp">
           <Properties><![CDATA[[]]]></Properties>
         </ExtTable>
         <ExtTable TblName="mpay_req_log">
+          <Properties><![CDATA[[]]]></Properties>
+        </ExtTable>
+        <ExtTable TblName="reason_terminate_contract">
           <Properties><![CDATA[[]]]></Properties>
         </ExtTable>
         <Properties><![CDATA[[]]]></Properties>
@@ -23950,32 +24039,32 @@ function Row_Inserted($rsold, &$rsnew)
         </div>]]></CustomScript>
   <CustomScript ScriptType="Template" ScriptCodeType="Table" ScriptName="Content" ScriptCtrlID="custom" ScriptL1Key="cancelTheLease.php"><![CDATA[<table class="table table-striped table-sm ew-view-table">
 </table>]]></CustomScript>
-  <Menu MenuID="251" MenuText="scb req log" MenuParentID="-1" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="scb_req_log" MenuType="" MenuCustomUrl="0" MenuLevel="0" MenuShow="0" MenuDisplayOrder="100" MenuIconClass="" MenuNavbar="0" />
-  <Menu MenuID="252" MenuText="creden log" MenuParentID="-1" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="creden_log" MenuType="" MenuCustomUrl="0" MenuLevel="0" MenuShow="0" MenuDisplayOrder="200" MenuIconClass="" MenuNavbar="0" />
-  <Menu MenuID="253" MenuText="doc creden" MenuParentID="-1" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="doc_creden" MenuType="" MenuCustomUrl="0" MenuLevel="0" MenuShow="0" MenuDisplayOrder="300" MenuIconClass="" MenuNavbar="0" />
-  <Menu MenuID="254" MenuText="doc creden log" MenuParentID="-1" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="doc_creden_log" MenuType="" MenuCustomUrl="0" MenuLevel="0" MenuShow="0" MenuDisplayOrder="400" MenuIconClass="" MenuNavbar="0" />
-  <Menu MenuID="255" MenuText="doc creden running" MenuParentID="-1" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="doc_creden_running" MenuType="" MenuCustomUrl="0" MenuLevel="0" MenuShow="0" MenuDisplayOrder="500" MenuIconClass="" MenuNavbar="0" />
-  <Menu MenuID="256" MenuText="doc creden signer" MenuParentID="-1" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="doc_creden_signer" MenuType="" MenuCustomUrl="0" MenuLevel="0" MenuShow="0" MenuDisplayOrder="600" MenuIconClass="" MenuNavbar="0" />
-  <Menu MenuID="257" MenuText="doc juzmatch 1" MenuParentID="-1" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="doc_juzmatch1" MenuType="" MenuCustomUrl="0" MenuLevel="0" MenuShow="0" MenuDisplayOrder="700" MenuIconClass="" MenuNavbar="0" />
-  <Menu MenuID="258" MenuText="doc juzmatch 2" MenuParentID="-1" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="doc_juzmatch2" MenuType="" MenuCustomUrl="0" MenuLevel="0" MenuShow="0" MenuDisplayOrder="800" MenuIconClass="" MenuNavbar="0" />
-  <Menu MenuID="259" MenuText="doc juzmatch 3" MenuParentID="-1" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="doc_juzmatch3" MenuType="" MenuCustomUrl="0" MenuLevel="0" MenuShow="0" MenuDisplayOrder="900" MenuIconClass="" MenuNavbar="0" />
-  <Menu MenuID="261" MenuText="mpay req log" MenuParentID="-1" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="mpay_req_log" MenuType="" MenuCustomUrl="0" MenuLevel="0" MenuShow="0" MenuDisplayOrder="1000" MenuIconClass="" MenuNavbar="0" />
-  <Menu MenuID="248" MenuText="ยกเลิกสัญญาเช่าซื้อ" MenuParentID="-1" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="cancelTheLease.php" MenuType="" MenuCustomUrl="0" MenuLevel="0" MenuShow="0" MenuDisplayOrder="1300" MenuIconClass="" MenuNavbar="0" />
-  <Menu MenuID="246" MenuText="peak expense" MenuParentID="-1" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="peak_expense" MenuType="" MenuCustomUrl="0" MenuLevel="0" MenuShow="0" MenuDisplayOrder="1400" MenuIconClass="" MenuNavbar="0" />
-  <Menu MenuID="247" MenuText="peak expense item" MenuParentID="-1" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="peak_expense_item" MenuType="" MenuCustomUrl="0" MenuLevel="0" MenuShow="0" MenuDisplayOrder="1500" MenuIconClass="" MenuNavbar="0" />
-  <Menu MenuID="245" MenuText="log cronjob" MenuParentID="-1" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="log_cronjob" MenuType="" MenuCustomUrl="0" MenuLevel="0" MenuShow="0" MenuDisplayOrder="1600" MenuIconClass="" MenuNavbar="0" />
-  <Menu MenuID="243" MenuText="log 2c 2p" MenuParentID="-1" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="log_2c2p" MenuType="" MenuCustomUrl="0" MenuLevel="0" MenuShow="0" MenuDisplayOrder="1700" MenuIconClass="" MenuNavbar="0" />
-  <Menu MenuID="244" MenuText="log test payment" MenuParentID="-1" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="log_test_payment" MenuType="" MenuCustomUrl="0" MenuLevel="0" MenuShow="0" MenuDisplayOrder="1800" MenuIconClass="" MenuNavbar="0" />
-  <Menu MenuID="230" MenuText="member scb detail log" MenuParentID="-1" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="member_scb_detail_log" MenuType="" MenuCustomUrl="0" MenuLevel="0" MenuShow="0" MenuDisplayOrder="1900" MenuIconClass="" MenuNavbar="0" />
-  <Menu MenuID="231" MenuText="peak contact" MenuParentID="-1" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="peak_contact" MenuType="" MenuCustomUrl="0" MenuLevel="0" MenuShow="0" MenuDisplayOrder="2000" MenuIconClass="" MenuNavbar="0" />
-  <Menu MenuID="232" MenuText="peak product" MenuParentID="-1" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="peak_product" MenuType="" MenuCustomUrl="0" MenuLevel="0" MenuShow="0" MenuDisplayOrder="2100" MenuIconClass="" MenuNavbar="0" />
-  <Menu MenuID="233" MenuText="peak receipt" MenuParentID="-1" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="peak_receipt" MenuType="" MenuCustomUrl="0" MenuLevel="0" MenuShow="0" MenuDisplayOrder="2200" MenuIconClass="" MenuNavbar="0" />
-  <Menu MenuID="234" MenuText="peak receipt product" MenuParentID="-1" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="peak_receipt_product" MenuType="" MenuCustomUrl="0" MenuLevel="0" MenuShow="0" MenuDisplayOrder="2300" MenuIconClass="" MenuNavbar="0" />
-  <Menu MenuID="235" MenuText="peak req log" MenuParentID="-1" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="peak_req_log" MenuType="" MenuCustomUrl="0" MenuLevel="0" MenuShow="0" MenuDisplayOrder="2400" MenuIconClass="" MenuNavbar="0" />
-  <Menu MenuID="228" MenuText="asset address" MenuParentID="-1" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="asset_address" MenuType="" MenuCustomUrl="0" MenuLevel="0" MenuShow="0" MenuDisplayOrder="2500" MenuIconClass="" MenuNavbar="0" />
-  <Menu MenuID="229" MenuText="log member scb" MenuParentID="-1" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="log_member_scb" MenuType="" MenuCustomUrl="0" MenuLevel="0" MenuShow="0" MenuDisplayOrder="2600" MenuIconClass="" MenuNavbar="0" />
-  <Menu MenuID="104" MenuText="Dashboard" MenuParentID="-1" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="dashboard.php" MenuType="" MenuCustomUrl="0" MenuLevel="0" MenuShow="0" MenuDisplayOrder="2700" MenuIconClass="fas fa-chart-line" MenuNavbar="0" />
-  <Menu MenuID="87" MenuText="สินทรัพย์" MenuParentID="-1" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="8" MenuSecurity="" MenuUrl="" MenuType="" MenuCustomUrl="1" MenuLevel="0" MenuShow="1" MenuDisplayOrder="2800" MenuIconClass="fas fa-home" MenuNavbar="0" />
+  <Menu MenuID="251" MenuText="scb req log" MenuParentID="-1" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="scb_req_log" MenuType="" MenuCustomUrl="0" MenuLevel="0" MenuShow="0" MenuDisplayOrder="200" MenuIconClass="" MenuNavbar="0" />
+  <Menu MenuID="252" MenuText="creden log" MenuParentID="-1" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="creden_log" MenuType="" MenuCustomUrl="0" MenuLevel="0" MenuShow="0" MenuDisplayOrder="300" MenuIconClass="" MenuNavbar="0" />
+  <Menu MenuID="253" MenuText="doc creden" MenuParentID="-1" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="doc_creden" MenuType="" MenuCustomUrl="0" MenuLevel="0" MenuShow="0" MenuDisplayOrder="400" MenuIconClass="" MenuNavbar="0" />
+  <Menu MenuID="254" MenuText="doc creden log" MenuParentID="-1" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="doc_creden_log" MenuType="" MenuCustomUrl="0" MenuLevel="0" MenuShow="0" MenuDisplayOrder="500" MenuIconClass="" MenuNavbar="0" />
+  <Menu MenuID="255" MenuText="doc creden running" MenuParentID="-1" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="doc_creden_running" MenuType="" MenuCustomUrl="0" MenuLevel="0" MenuShow="0" MenuDisplayOrder="600" MenuIconClass="" MenuNavbar="0" />
+  <Menu MenuID="256" MenuText="doc creden signer" MenuParentID="-1" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="doc_creden_signer" MenuType="" MenuCustomUrl="0" MenuLevel="0" MenuShow="0" MenuDisplayOrder="700" MenuIconClass="" MenuNavbar="0" />
+  <Menu MenuID="257" MenuText="doc juzmatch 1" MenuParentID="-1" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="doc_juzmatch1" MenuType="" MenuCustomUrl="0" MenuLevel="0" MenuShow="0" MenuDisplayOrder="800" MenuIconClass="" MenuNavbar="0" />
+  <Menu MenuID="258" MenuText="doc juzmatch 2" MenuParentID="-1" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="doc_juzmatch2" MenuType="" MenuCustomUrl="0" MenuLevel="0" MenuShow="0" MenuDisplayOrder="900" MenuIconClass="" MenuNavbar="0" />
+  <Menu MenuID="259" MenuText="doc juzmatch 3" MenuParentID="-1" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="doc_juzmatch3" MenuType="" MenuCustomUrl="0" MenuLevel="0" MenuShow="0" MenuDisplayOrder="1000" MenuIconClass="" MenuNavbar="0" />
+  <Menu MenuID="261" MenuText="mpay req log" MenuParentID="-1" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="mpay_req_log" MenuType="" MenuCustomUrl="0" MenuLevel="0" MenuShow="0" MenuDisplayOrder="1100" MenuIconClass="" MenuNavbar="0" />
+  <Menu MenuID="248" MenuText="ยกเลิกสัญญาเช่าซื้อ" MenuParentID="-1" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="cancelTheLease.php" MenuType="" MenuCustomUrl="0" MenuLevel="0" MenuShow="0" MenuDisplayOrder="1200" MenuIconClass="" MenuNavbar="0" />
+  <Menu MenuID="246" MenuText="peak expense" MenuParentID="-1" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="peak_expense" MenuType="" MenuCustomUrl="0" MenuLevel="0" MenuShow="0" MenuDisplayOrder="1300" MenuIconClass="" MenuNavbar="0" />
+  <Menu MenuID="247" MenuText="peak expense item" MenuParentID="-1" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="peak_expense_item" MenuType="" MenuCustomUrl="0" MenuLevel="0" MenuShow="0" MenuDisplayOrder="1400" MenuIconClass="" MenuNavbar="0" />
+  <Menu MenuID="245" MenuText="log cronjob" MenuParentID="-1" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="log_cronjob" MenuType="" MenuCustomUrl="0" MenuLevel="0" MenuShow="0" MenuDisplayOrder="1500" MenuIconClass="" MenuNavbar="0" />
+  <Menu MenuID="243" MenuText="log 2c 2p" MenuParentID="-1" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="log_2c2p" MenuType="" MenuCustomUrl="0" MenuLevel="0" MenuShow="0" MenuDisplayOrder="1600" MenuIconClass="" MenuNavbar="0" />
+  <Menu MenuID="244" MenuText="log test payment" MenuParentID="-1" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="log_test_payment" MenuType="" MenuCustomUrl="0" MenuLevel="0" MenuShow="0" MenuDisplayOrder="1700" MenuIconClass="" MenuNavbar="0" />
+  <Menu MenuID="230" MenuText="member scb detail log" MenuParentID="-1" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="member_scb_detail_log" MenuType="" MenuCustomUrl="0" MenuLevel="0" MenuShow="0" MenuDisplayOrder="1800" MenuIconClass="" MenuNavbar="0" />
+  <Menu MenuID="231" MenuText="peak contact" MenuParentID="-1" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="peak_contact" MenuType="" MenuCustomUrl="0" MenuLevel="0" MenuShow="0" MenuDisplayOrder="1900" MenuIconClass="" MenuNavbar="0" />
+  <Menu MenuID="232" MenuText="peak product" MenuParentID="-1" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="peak_product" MenuType="" MenuCustomUrl="0" MenuLevel="0" MenuShow="0" MenuDisplayOrder="2000" MenuIconClass="" MenuNavbar="0" />
+  <Menu MenuID="233" MenuText="peak receipt" MenuParentID="-1" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="peak_receipt" MenuType="" MenuCustomUrl="0" MenuLevel="0" MenuShow="0" MenuDisplayOrder="2100" MenuIconClass="" MenuNavbar="0" />
+  <Menu MenuID="234" MenuText="peak receipt product" MenuParentID="-1" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="peak_receipt_product" MenuType="" MenuCustomUrl="0" MenuLevel="0" MenuShow="0" MenuDisplayOrder="2200" MenuIconClass="" MenuNavbar="0" />
+  <Menu MenuID="235" MenuText="peak req log" MenuParentID="-1" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="peak_req_log" MenuType="" MenuCustomUrl="0" MenuLevel="0" MenuShow="0" MenuDisplayOrder="2300" MenuIconClass="" MenuNavbar="0" />
+  <Menu MenuID="228" MenuText="asset address" MenuParentID="-1" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="asset_address" MenuType="" MenuCustomUrl="0" MenuLevel="0" MenuShow="0" MenuDisplayOrder="2400" MenuIconClass="" MenuNavbar="0" />
+  <Menu MenuID="229" MenuText="log member scb" MenuParentID="-1" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="log_member_scb" MenuType="" MenuCustomUrl="0" MenuLevel="0" MenuShow="0" MenuDisplayOrder="2500" MenuIconClass="" MenuNavbar="0" />
+  <Menu MenuID="104" MenuText="Dashboard" MenuParentID="-1" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="dashboard.php" MenuType="" MenuCustomUrl="0" MenuLevel="0" MenuShow="0" MenuDisplayOrder="2600" MenuIconClass="fas fa-chart-line" MenuNavbar="0" />
+  <Menu MenuID="87" MenuText="สินทรัพย์" MenuParentID="-1" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="8" MenuSecurity="" MenuUrl="" MenuType="" MenuCustomUrl="1" MenuLevel="0" MenuShow="1" MenuDisplayOrder="2700" MenuIconClass="fas fa-home" MenuNavbar="0" />
   <Menu MenuID="7" MenuText="สินทรัพย์ทั้งหมด" MenuParentID="87" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="asset" MenuType="" MenuCustomUrl="0" MenuLevel="1" MenuShow="1" MenuDisplayOrder="100" MenuIconClass="fas fa-home" MenuNavbar="0" />
   <Menu MenuID="227" MenuText="นัดเยี่ยมชมสินทรัพย์" MenuParentID="87" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="asset_appointment" MenuType="" MenuCustomUrl="0" MenuLevel="1" MenuShow="1" MenuDisplayOrder="200" MenuIconClass="fas fa-door-open" MenuNavbar="0" />
   <Menu MenuID="218" MenuText="สินทรัพย์ที่ Buyer จอง" MenuParentID="87" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="buyer_all_booking_asset" MenuType="" MenuCustomUrl="0" MenuLevel="1" MenuShow="1" MenuDisplayOrder="300" MenuIconClass="fas fa-hands-helping" MenuNavbar="0" />
@@ -23995,7 +24084,7 @@ function Row_Inserted($rsold, &$rsnew)
   <Menu MenuID="18" MenuText="Asset View" MenuParentID="87" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="asset_view" MenuType="" MenuCustomUrl="0" MenuLevel="1" MenuShow="0" MenuDisplayOrder="1200" MenuIconClass="" MenuNavbar="0" />
   <Menu MenuID="14" MenuText="Asset Interested" MenuParentID="87" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="asset_interested" MenuType="" MenuCustomUrl="0" MenuLevel="1" MenuShow="0" MenuDisplayOrder="1300" MenuIconClass="" MenuNavbar="0" />
   <Menu MenuID="13" MenuText="Asset Favorite" MenuParentID="87" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="asset_favorite" MenuType="" MenuCustomUrl="0" MenuLevel="1" MenuShow="0" MenuDisplayOrder="1400" MenuIconClass="" MenuNavbar="0" />
-  <Menu MenuID="91" MenuText="Member" MenuParentID="-1" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="8" MenuSecurity="" MenuUrl="" MenuType="" MenuCustomUrl="1" MenuLevel="0" MenuShow="1" MenuDisplayOrder="2900" MenuIconClass="fas fa-user-friends" MenuNavbar="0" />
+  <Menu MenuID="91" MenuText="Member" MenuParentID="-1" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="8" MenuSecurity="" MenuUrl="" MenuType="" MenuCustomUrl="1" MenuLevel="0" MenuShow="1" MenuDisplayOrder="2800" MenuIconClass="fas fa-user-friends" MenuNavbar="0" />
   <Menu MenuID="58" MenuText="All Member" MenuParentID="91" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="member" MenuType="" MenuCustomUrl="0" MenuLevel="1" MenuShow="1" MenuDisplayOrder="100" MenuIconClass="fas fa-users" MenuNavbar="0" />
   <Menu MenuID="99" MenuText="Buyer" MenuParentID="91" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="buyer" MenuType="" MenuCustomUrl="0" MenuLevel="1" MenuShow="1" MenuDisplayOrder="200" MenuIconClass="fas fa-user" MenuNavbar="0" />
   <Menu MenuID="98" MenuText="Investor" MenuParentID="91" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="investor" MenuType="" MenuCustomUrl="0" MenuLevel="1" MenuShow="1" MenuDisplayOrder="300" MenuIconClass="fas fa-user" MenuNavbar="0" />
@@ -24004,7 +24093,7 @@ function Row_Inserted($rsold, &$rsnew)
   <Menu MenuID="59" MenuText="Member OTP (Not Use)" MenuParentID="91" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="member_otp" MenuType="" MenuCustomUrl="0" MenuLevel="1" MenuShow="0" MenuDisplayOrder="600" MenuIconClass="" MenuNavbar="0" />
   <Menu MenuID="62" MenuText="Notification" MenuParentID="91" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="notification" MenuType="" MenuCustomUrl="0" MenuLevel="1" MenuShow="0" MenuDisplayOrder="700" MenuIconClass="" MenuNavbar="0" />
   <Menu MenuID="1" MenuText="ที่อยู่" MenuParentID="91" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="address" MenuType="" MenuCustomUrl="0" MenuLevel="1" MenuShow="0" MenuDisplayOrder="800" MenuIconClass="" MenuNavbar="0" />
-  <Menu MenuID="88" MenuText="Buyer" MenuParentID="-1" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="8" MenuSecurity="" MenuUrl="" MenuType="" MenuCustomUrl="1" MenuLevel="0" MenuShow="0" MenuDisplayOrder="3000" MenuIconClass="" MenuNavbar="0" />
+  <Menu MenuID="88" MenuText="Buyer" MenuParentID="-1" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="8" MenuSecurity="" MenuUrl="" MenuType="" MenuCustomUrl="1" MenuLevel="0" MenuShow="0" MenuDisplayOrder="2900" MenuIconClass="" MenuNavbar="0" />
   <Menu MenuID="100" MenuText="สินทรัพย์ Buyer" MenuParentID="88" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="buyer_asset" MenuType="" MenuCustomUrl="0" MenuLevel="1" MenuShow="0" MenuDisplayOrder="100" MenuIconClass="" MenuNavbar="0" />
   <Menu MenuID="31" MenuText="Buyer Verify" MenuParentID="88" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="buyer_verify" MenuType="" MenuCustomUrl="0" MenuLevel="1" MenuShow="0" MenuDisplayOrder="200" MenuIconClass="" MenuNavbar="0" />
   <Menu MenuID="78" MenuText="Buyer Todo List" MenuParentID="88" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="todo_list" MenuType="" MenuCustomUrl="0" MenuLevel="1" MenuShow="0" MenuDisplayOrder="300" MenuIconClass="" MenuNavbar="0" />
@@ -24016,7 +24105,7 @@ function Row_Inserted($rsold, &$rsnew)
   <Menu MenuID="25" MenuText="Buyer พร้อมซื้อ" MenuParentID="88" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="buyer_asset_ready_buy" MenuType="" MenuCustomUrl="0" MenuLevel="1" MenuShow="0" MenuDisplayOrder="900" MenuIconClass="" MenuNavbar="0" />
   <Menu MenuID="24" MenuText="Buyer Save Location Search" MenuParentID="88" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="buy_save_location_search" MenuType="" MenuCustomUrl="0" MenuLevel="1" MenuShow="0" MenuDisplayOrder="1000" MenuIconClass="" MenuNavbar="0" />
   <Menu MenuID="30" MenuText="Buyer พร้อมซื้อ (Not Use)" MenuParentID="88" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="buyer_save_buy_asset" MenuType="" MenuCustomUrl="0" MenuLevel="1" MenuShow="0" MenuDisplayOrder="1100" MenuIconClass="" MenuNavbar="0" />
-  <Menu MenuID="208" MenuText="Report" MenuParentID="-1" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="8" MenuSecurity="" MenuUrl="" MenuType="" MenuCustomUrl="1" MenuLevel="0" MenuShow="1" MenuDisplayOrder="3100" MenuIconClass="fas fa-file-invoice" MenuNavbar="0" />
+  <Menu MenuID="208" MenuText="Report" MenuParentID="-1" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="8" MenuSecurity="" MenuUrl="" MenuType="" MenuCustomUrl="1" MenuLevel="0" MenuShow="1" MenuDisplayOrder="3000" MenuIconClass="fas fa-file-invoice" MenuNavbar="0" />
   <Menu MenuID="217" MenuText="Buyer Payment Monthly" MenuParentID="208" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="buyerPaymentMonthly.php" MenuType="" MenuCustomUrl="0" MenuLevel="1" MenuShow="0" MenuDisplayOrder="100" MenuIconClass="fas fa-file-export" MenuNavbar="0" />
   <Menu MenuID="216" MenuText="Investor Receive Monthly" MenuParentID="208" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="investorReceiveMonthly.php" MenuType="" MenuCustomUrl="0" MenuLevel="1" MenuShow="0" MenuDisplayOrder="200" MenuIconClass="fas fa-file-export" MenuNavbar="0" />
   <Menu MenuID="60" MenuText="Member SCB Daily" MenuParentID="208" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="member_scb" MenuType="" MenuCustomUrl="0" MenuLevel="1" MenuShow="1" MenuDisplayOrder="300" MenuIconClass="fas fa-file-export" MenuNavbar="0" />
@@ -24028,7 +24117,7 @@ function Row_Inserted($rsold, &$rsnew)
   <Menu MenuID="240" MenuText="จำนวนผู้ค้างจ่าย" MenuParentID="208" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="number_of_accrued" MenuType="" MenuCustomUrl="0" MenuLevel="1" MenuShow="1" MenuDisplayOrder="900" MenuIconClass="" MenuNavbar="0" />
   <Menu MenuID="241" MenuText="จำนวนงวดที่ค้างจ่าย" MenuParentID="208" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="number_of_unpaid_units" MenuType="" MenuCustomUrl="0" MenuLevel="1" MenuShow="1" MenuDisplayOrder="1000" MenuIconClass="" MenuNavbar="0" />
   <Menu MenuID="242" MenuText="จำนวนเงินที่ค้างจ่าย" MenuParentID="208" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="outstanding_amount" MenuType="" MenuCustomUrl="0" MenuLevel="1" MenuShow="1" MenuDisplayOrder="1100" MenuIconClass="" MenuNavbar="0" />
-  <Menu MenuID="89" MenuText="Investor" MenuParentID="-1" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="8" MenuSecurity="" MenuUrl="" MenuType="" MenuCustomUrl="1" MenuLevel="0" MenuShow="0" MenuDisplayOrder="3200" MenuIconClass="" MenuNavbar="0" />
+  <Menu MenuID="89" MenuText="Investor" MenuParentID="-1" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="8" MenuSecurity="" MenuUrl="" MenuType="" MenuCustomUrl="1" MenuLevel="0" MenuShow="0" MenuDisplayOrder="3100" MenuIconClass="" MenuNavbar="0" />
   <Menu MenuID="37" MenuText="Investor จองสินทรัพย์" MenuParentID="89" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="invertor_booking" MenuType="" MenuCustomUrl="0" MenuLevel="1" MenuShow="0" MenuDisplayOrder="100" MenuIconClass="" MenuNavbar="0" />
   <Menu MenuID="63" MenuText="Investor ชำระเงินจอง" MenuParentID="89" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="payment_inverter_booking" MenuType="" MenuCustomUrl="0" MenuLevel="1" MenuShow="0" MenuDisplayOrder="200" MenuIconClass="" MenuNavbar="0" />
   <Menu MenuID="11" MenuText="Config ผลตอบแทนรายเดือน Investor" MenuParentID="89" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="asset_config_schedule" MenuType="" MenuCustomUrl="0" MenuLevel="1" MenuShow="0" MenuDisplayOrder="300" MenuIconClass="" MenuNavbar="0" />
@@ -24036,15 +24125,15 @@ function Row_Inserted($rsold, &$rsnew)
   <Menu MenuID="36" MenuText="ผลตอบแทนรายเดือน Investor(Not Use)" MenuParentID="89" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="invertor_asset_schedule" MenuType="" MenuCustomUrl="0" MenuLevel="1" MenuShow="0" MenuDisplayOrder="500" MenuIconClass="" MenuNavbar="0" />
   <Menu MenuID="101" MenuText="สินทรัพย์ Investor" MenuParentID="89" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="inverter_asset" MenuType="" MenuCustomUrl="0" MenuLevel="1" MenuShow="0" MenuDisplayOrder="600" MenuIconClass="" MenuNavbar="0" />
   <Menu MenuID="103" MenuText="Investor Verify" MenuParentID="89" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="investor_verify" MenuType="" MenuCustomUrl="0" MenuLevel="1" MenuShow="0" MenuDisplayOrder="700" MenuIconClass="" MenuNavbar="0" />
-  <Menu MenuID="86" MenuText="Juz Highlight" MenuParentID="-1" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="8" MenuSecurity="" MenuUrl="" MenuType="" MenuCustomUrl="1" MenuLevel="0" MenuShow="1" MenuDisplayOrder="3300" MenuIconClass="far fa-newspaper" MenuNavbar="0" />
+  <Menu MenuID="86" MenuText="Juz Highlight" MenuParentID="-1" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="8" MenuSecurity="" MenuUrl="" MenuType="" MenuCustomUrl="1" MenuLevel="0" MenuShow="1" MenuDisplayOrder="3200" MenuIconClass="far fa-newspaper" MenuNavbar="0" />
   <Menu MenuID="5" MenuText="Juz Highlight Banner" MenuParentID="86" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="article_banner" MenuType="" MenuCustomUrl="0" MenuLevel="1" MenuShow="1" MenuDisplayOrder="100" MenuIconClass="far fa-image" MenuNavbar="0" />
   <Menu MenuID="6" MenuText="Juz Highlight Category" MenuParentID="86" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="article_category" MenuType="" MenuCustomUrl="0" MenuLevel="1" MenuShow="1" MenuDisplayOrder="200" MenuIconClass="fas fa-list" MenuNavbar="0" />
   <Menu MenuID="4" MenuText="Juz Highlight" MenuParentID="86" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="article" MenuType="" MenuCustomUrl="0" MenuLevel="1" MenuShow="1" MenuDisplayOrder="300" MenuIconClass="far fa-newspaper" MenuNavbar="0" />
-  <Menu MenuID="83" MenuText="User Management" MenuParentID="-1" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="8" MenuSecurity="" MenuUrl="" MenuType="" MenuCustomUrl="1" MenuLevel="0" MenuShow="1" MenuDisplayOrder="3400" MenuIconClass="fas fa-user-cog" MenuNavbar="0" />
+  <Menu MenuID="83" MenuText="User Management" MenuParentID="-1" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="8" MenuSecurity="" MenuUrl="" MenuType="" MenuCustomUrl="1" MenuLevel="0" MenuShow="1" MenuDisplayOrder="3300" MenuIconClass="fas fa-user-cog" MenuNavbar="0" />
   <Menu MenuID="80" MenuText="User Level Permissions" MenuParentID="83" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="userlevelpermissions" MenuType="" MenuCustomUrl="0" MenuLevel="1" MenuShow="0" MenuDisplayOrder="100" MenuIconClass="" MenuNavbar="0" />
   <Menu MenuID="81" MenuText="User Group" MenuParentID="83" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="userlevels" MenuType="" MenuCustomUrl="0" MenuLevel="1" MenuShow="1" MenuDisplayOrder="200" MenuIconClass="fas fa-users-cog" MenuNavbar="0" />
   <Menu MenuID="79" MenuText="User" MenuParentID="83" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="users" MenuType="" MenuCustomUrl="0" MenuLevel="1" MenuShow="1" MenuDisplayOrder="300" MenuIconClass="fas fa-user-cog" MenuNavbar="0" />
-  <Menu MenuID="84" MenuText="Setting" MenuParentID="-1" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="8" MenuSecurity="" MenuUrl="" MenuType="" MenuCustomUrl="1" MenuLevel="0" MenuShow="1" MenuDisplayOrder="3500" MenuIconClass="fas fa-cogs" MenuNavbar="0" />
+  <Menu MenuID="84" MenuText="Setting" MenuParentID="-1" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="8" MenuSecurity="" MenuUrl="" MenuType="" MenuCustomUrl="1" MenuLevel="0" MenuShow="1" MenuDisplayOrder="3400" MenuIconClass="fas fa-cogs" MenuNavbar="0" />
   <Menu MenuID="82" MenuText="History Log" MenuParentID="84" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="audittrail" MenuType="" MenuCustomUrl="0" MenuLevel="1" MenuShow="1" MenuDisplayOrder="100" MenuIconClass="fas fa-history" MenuNavbar="0" />
   <Menu MenuID="54" MenuText="Web Config" MenuParentID="84" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="master_config" MenuType="" MenuCustomUrl="0" MenuLevel="1" MenuShow="0" MenuDisplayOrder="200" MenuIconClass="" MenuNavbar="0" />
   <Menu MenuID="102" MenuText="Web Config" MenuParentID="84" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="web_config" MenuType="" MenuCustomUrl="0" MenuLevel="1" MenuShow="1" MenuDisplayOrder="300" MenuIconClass="fas fa-cog" MenuNavbar="0" />
@@ -24055,11 +24144,11 @@ function Row_Inserted($rsold, &$rsnew)
   <Menu MenuID="35" MenuText="API Error Log" MenuParentID="84" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="error_log" MenuType="" MenuCustomUrl="0" MenuLevel="1" MenuShow="0" MenuDisplayOrder="800" MenuIconClass="" MenuNavbar="0" />
   <Menu MenuID="33" MenuText="Check Login" MenuParentID="84" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="check_login" MenuType="" MenuCustomUrl="0" MenuLevel="1" MenuShow="0" MenuDisplayOrder="900" MenuIconClass="" MenuNavbar="0" />
   <Menu MenuID="67" MenuText="Run Number Asset Juzmatch" MenuParentID="84" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="run_number_asset_juzmatch" MenuType="" MenuCustomUrl="0" MenuLevel="1" MenuShow="0" MenuDisplayOrder="1000" MenuIconClass="" MenuNavbar="0" />
-  <Menu MenuID="90" MenuText="Seller" MenuParentID="-1" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="8" MenuSecurity="" MenuUrl="" MenuType="" MenuCustomUrl="1" MenuLevel="0" MenuShow="0" MenuDisplayOrder="3600" MenuIconClass="" MenuNavbar="0" />
+  <Menu MenuID="90" MenuText="Seller" MenuParentID="-1" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="8" MenuSecurity="" MenuUrl="" MenuType="" MenuCustomUrl="1" MenuLevel="0" MenuShow="0" MenuDisplayOrder="3500" MenuIconClass="" MenuNavbar="0" />
   <Menu MenuID="75" MenuText="Seller Verify" MenuParentID="90" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="seller_verify" MenuType="" MenuCustomUrl="0" MenuLevel="1" MenuShow="0" MenuDisplayOrder="100" MenuIconClass="" MenuNavbar="0" />
   <Menu MenuID="70" MenuText="สินทรัพย์ Seller ประกาศขาย" MenuParentID="90" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="sale_asset" MenuType="" MenuCustomUrl="0" MenuLevel="1" MenuShow="0" MenuDisplayOrder="200" MenuIconClass="" MenuNavbar="0" />
   <Menu MenuID="97" MenuText="นัดเยี่ยมชมสินทรัพย์" MenuParentID="90" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="seller_appointment" MenuType="" MenuCustomUrl="0" MenuLevel="1" MenuShow="0" MenuDisplayOrder="300" MenuIconClass="" MenuNavbar="0" />
-  <Menu MenuID="85" MenuText="Master Data" MenuParentID="-1" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="8" MenuSecurity="" MenuUrl="" MenuType="" MenuCustomUrl="1" MenuLevel="0" MenuShow="1" MenuDisplayOrder="3700" MenuIconClass="fas fa-database" MenuNavbar="0" />
+  <Menu MenuID="85" MenuText="Master Data" MenuParentID="-1" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="8" MenuSecurity="" MenuUrl="" MenuType="" MenuCustomUrl="1" MenuLevel="0" MenuShow="1" MenuDisplayOrder="3600" MenuIconClass="fas fa-database" MenuNavbar="0" />
   <Menu MenuID="32" MenuText="ประเภทสินทรัพย์" MenuParentID="85" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="category" MenuType="" MenuCustomUrl="0" MenuLevel="1" MenuShow="1" MenuDisplayOrder="100" MenuIconClass="fas fa-list" MenuNavbar="0" />
   <Menu MenuID="23" MenuText="ผู้พัฒนาโครงการ" MenuParentID="85" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="brand" MenuType="" MenuCustomUrl="0" MenuLevel="1" MenuShow="1" MenuDisplayOrder="200" MenuIconClass="fas fa-list" MenuNavbar="0" />
   <Menu MenuID="56" MenuText="Facilities Group" MenuParentID="85" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="master_facilities_group" MenuType="" MenuCustomUrl="0" MenuLevel="1" MenuShow="1" MenuDisplayOrder="300" MenuIconClass="fas fa-list" MenuNavbar="0" />
@@ -24077,28 +24166,29 @@ function Row_Inserted($rsold, &$rsnew)
   <Menu MenuID="50" MenuText="Master Asset Icon Pros" MenuParentID="85" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="master_asset_icon_pros" MenuType="" MenuCustomUrl="0" MenuLevel="1" MenuShow="0" MenuDisplayOrder="1500" MenuIconClass="" MenuNavbar="0" />
   <Menu MenuID="52" MenuText="Master Buyer Calculator" MenuParentID="85" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="master_buyer_calculator" MenuType="" MenuCustomUrl="0" MenuLevel="1" MenuShow="0" MenuDisplayOrder="1600" MenuIconClass="" MenuNavbar="0" />
   <Menu MenuID="53" MenuText="Master Calculator (Not Use)" MenuParentID="85" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="master_calculator" MenuType="" MenuCustomUrl="0" MenuLevel="1" MenuShow="0" MenuDisplayOrder="1700" MenuIconClass="" MenuNavbar="0" />
-  <Menu MenuID="41" MenuText="Log Buyer Asset Ready Buy" MenuParentID="-1" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="log_buyer_asset_ready_buy" MenuType="" MenuCustomUrl="0" MenuLevel="0" MenuShow="0" MenuDisplayOrder="3800" MenuIconClass="" MenuNavbar="0" />
-  <Menu MenuID="42" MenuText="Log Buyer Asset Rent" MenuParentID="-1" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="log_buyer_asset_rent" MenuType="" MenuCustomUrl="0" MenuLevel="0" MenuShow="0" MenuDisplayOrder="3900" MenuIconClass="" MenuNavbar="0" />
-  <Menu MenuID="43" MenuText="Log Buyer Asset Schedule" MenuParentID="-1" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="log_buyer_asset_schedule" MenuType="" MenuCustomUrl="0" MenuLevel="0" MenuShow="0" MenuDisplayOrder="4000" MenuIconClass="" MenuNavbar="0" />
-  <Menu MenuID="44" MenuText="Log Buyer Booking Asset" MenuParentID="-1" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="log_buyer_booking_asset" MenuType="" MenuCustomUrl="0" MenuLevel="0" MenuShow="0" MenuDisplayOrder="4100" MenuIconClass="" MenuNavbar="0" />
-  <Menu MenuID="221" MenuText="log notification" MenuParentID="-1" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="log_notification" MenuType="" MenuCustomUrl="0" MenuLevel="0" MenuShow="0" MenuDisplayOrder="4200" MenuIconClass="" MenuNavbar="0" />
-  <Menu MenuID="222" MenuText="log send email" MenuParentID="-1" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="log_send_email" MenuType="" MenuCustomUrl="0" MenuLevel="0" MenuShow="0" MenuDisplayOrder="4300" MenuIconClass="" MenuNavbar="0" />
-  <Menu MenuID="38" MenuText="Juzcalculator" MenuParentID="-1" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="juzcalculator" MenuType="" MenuCustomUrl="0" MenuLevel="0" MenuShow="0" MenuDisplayOrder="4400" MenuIconClass="" MenuNavbar="0" />
-  <Menu MenuID="93" MenuText="Pipedrive Req Log" MenuParentID="-1" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="pipedrive_req_log" MenuType="" MenuCustomUrl="0" MenuLevel="0" MenuShow="0" MenuDisplayOrder="4500" MenuIconClass="" MenuNavbar="0" />
-  <Menu MenuID="40" MenuText="รายจ่าย" MenuParentID="-1" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="juzcalculator_outcome" MenuType="" MenuCustomUrl="0" MenuLevel="0" MenuShow="0" MenuDisplayOrder="4600" MenuIconClass="" MenuNavbar="0" />
-  <Menu MenuID="94" MenuText="Subscriptions" MenuParentID="-1" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="subscriptions" MenuType="" MenuCustomUrl="0" MenuLevel="0" MenuShow="0" MenuDisplayOrder="4700" MenuIconClass="" MenuNavbar="0" />
-  <Menu MenuID="39" MenuText="รายได้" MenuParentID="-1" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="juzcalculator_income" MenuType="" MenuCustomUrl="0" MenuLevel="0" MenuShow="0" MenuDisplayOrder="4800" MenuIconClass="" MenuNavbar="0" />
-  <Menu MenuID="46" MenuText="Log Investor Payment Booking" MenuParentID="-1" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="log_payment_inverter_booking" MenuType="" MenuCustomUrl="0" MenuLevel="0" MenuShow="0" MenuDisplayOrder="4900" MenuIconClass="" MenuNavbar="0" />
-  <Menu MenuID="47" MenuText="Log Search" MenuParentID="-1" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="log_search" MenuType="" MenuCustomUrl="0" MenuLevel="0" MenuShow="0" MenuDisplayOrder="5000" MenuIconClass="" MenuNavbar="0" />
-  <Menu MenuID="48" MenuText="Log View Article" MenuParentID="-1" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="log_view_article" MenuType="" MenuCustomUrl="0" MenuLevel="0" MenuShow="0" MenuDisplayOrder="5100" MenuIconClass="" MenuNavbar="0" />
-  <Menu MenuID="95" MenuText="log member" MenuParentID="-1" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="log_member" MenuType="" MenuCustomUrl="0" MenuLevel="0" MenuShow="0" MenuDisplayOrder="5200" MenuIconClass="" MenuNavbar="0" />
-  <Menu MenuID="49" MenuText="Log Visit Asset" MenuParentID="-1" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="log_visit_asset" MenuType="" MenuCustomUrl="0" MenuLevel="0" MenuShow="0" MenuDisplayOrder="5300" MenuIconClass="" MenuNavbar="0" />
-  <Menu MenuID="69" MenuText="Run Number Member" MenuParentID="-1" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="run_number_member" MenuType="" MenuCustomUrl="0" MenuLevel="0" MenuShow="0" MenuDisplayOrder="5400" MenuIconClass="" MenuNavbar="0" />
-  <Menu MenuID="66" MenuText="Run Number Asset Buyer" MenuParentID="-1" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="run_number_asset_buyer" MenuType="" MenuCustomUrl="0" MenuLevel="0" MenuShow="0" MenuDisplayOrder="5500" MenuIconClass="" MenuNavbar="0" />
-  <Menu MenuID="71" MenuText="Save Interest" MenuParentID="-1" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="save_interest" MenuType="" MenuCustomUrl="0" MenuLevel="0" MenuShow="0" MenuDisplayOrder="5600" MenuIconClass="" MenuNavbar="0" />
-  <Menu MenuID="72" MenuText="Save Log Search Non Member" MenuParentID="-1" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="save_log_search_nonmember" MenuType="" MenuCustomUrl="0" MenuLevel="0" MenuShow="0" MenuDisplayOrder="5700" MenuIconClass="" MenuNavbar="0" />
-  <Menu MenuID="73" MenuText="Save Search" MenuParentID="-1" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="save_search" MenuType="" MenuCustomUrl="0" MenuLevel="0" MenuShow="0" MenuDisplayOrder="5800" MenuIconClass="" MenuNavbar="0" />
-  <Menu MenuID="74" MenuText="Save Webhook" MenuParentID="-1" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="save_webhook" MenuType="" MenuCustomUrl="0" MenuLevel="0" MenuShow="0" MenuDisplayOrder="5900" MenuIconClass="" MenuNavbar="0" />
+  <Menu MenuID="41" MenuText="Log Buyer Asset Ready Buy" MenuParentID="-1" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="log_buyer_asset_ready_buy" MenuType="" MenuCustomUrl="0" MenuLevel="0" MenuShow="0" MenuDisplayOrder="3700" MenuIconClass="" MenuNavbar="0" />
+  <Menu MenuID="42" MenuText="Log Buyer Asset Rent" MenuParentID="-1" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="log_buyer_asset_rent" MenuType="" MenuCustomUrl="0" MenuLevel="0" MenuShow="0" MenuDisplayOrder="3800" MenuIconClass="" MenuNavbar="0" />
+  <Menu MenuID="43" MenuText="Log Buyer Asset Schedule" MenuParentID="-1" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="log_buyer_asset_schedule" MenuType="" MenuCustomUrl="0" MenuLevel="0" MenuShow="0" MenuDisplayOrder="3900" MenuIconClass="" MenuNavbar="0" />
+  <Menu MenuID="44" MenuText="Log Buyer Booking Asset" MenuParentID="-1" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="log_buyer_booking_asset" MenuType="" MenuCustomUrl="0" MenuLevel="0" MenuShow="0" MenuDisplayOrder="4000" MenuIconClass="" MenuNavbar="0" />
+  <Menu MenuID="221" MenuText="log notification" MenuParentID="-1" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="log_notification" MenuType="" MenuCustomUrl="0" MenuLevel="0" MenuShow="0" MenuDisplayOrder="4100" MenuIconClass="" MenuNavbar="0" />
+  <Menu MenuID="222" MenuText="log send email" MenuParentID="-1" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="log_send_email" MenuType="" MenuCustomUrl="0" MenuLevel="0" MenuShow="0" MenuDisplayOrder="4200" MenuIconClass="" MenuNavbar="0" />
+  <Menu MenuID="38" MenuText="Juzcalculator" MenuParentID="-1" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="juzcalculator" MenuType="" MenuCustomUrl="0" MenuLevel="0" MenuShow="0" MenuDisplayOrder="4300" MenuIconClass="" MenuNavbar="0" />
+  <Menu MenuID="93" MenuText="Pipedrive Req Log" MenuParentID="-1" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="pipedrive_req_log" MenuType="" MenuCustomUrl="0" MenuLevel="0" MenuShow="0" MenuDisplayOrder="4400" MenuIconClass="" MenuNavbar="0" />
+  <Menu MenuID="40" MenuText="รายจ่าย" MenuParentID="-1" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="juzcalculator_outcome" MenuType="" MenuCustomUrl="0" MenuLevel="0" MenuShow="0" MenuDisplayOrder="4500" MenuIconClass="" MenuNavbar="0" />
+  <Menu MenuID="94" MenuText="Subscriptions" MenuParentID="-1" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="subscriptions" MenuType="" MenuCustomUrl="0" MenuLevel="0" MenuShow="0" MenuDisplayOrder="4600" MenuIconClass="" MenuNavbar="0" />
+  <Menu MenuID="39" MenuText="รายได้" MenuParentID="-1" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="juzcalculator_income" MenuType="" MenuCustomUrl="0" MenuLevel="0" MenuShow="0" MenuDisplayOrder="4700" MenuIconClass="" MenuNavbar="0" />
+  <Menu MenuID="46" MenuText="Log Investor Payment Booking" MenuParentID="-1" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="log_payment_inverter_booking" MenuType="" MenuCustomUrl="0" MenuLevel="0" MenuShow="0" MenuDisplayOrder="4800" MenuIconClass="" MenuNavbar="0" />
+  <Menu MenuID="47" MenuText="Log Search" MenuParentID="-1" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="log_search" MenuType="" MenuCustomUrl="0" MenuLevel="0" MenuShow="0" MenuDisplayOrder="4900" MenuIconClass="" MenuNavbar="0" />
+  <Menu MenuID="48" MenuText="Log View Article" MenuParentID="-1" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="log_view_article" MenuType="" MenuCustomUrl="0" MenuLevel="0" MenuShow="0" MenuDisplayOrder="5000" MenuIconClass="" MenuNavbar="0" />
+  <Menu MenuID="95" MenuText="log member" MenuParentID="-1" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="log_member" MenuType="" MenuCustomUrl="0" MenuLevel="0" MenuShow="0" MenuDisplayOrder="5100" MenuIconClass="" MenuNavbar="0" />
+  <Menu MenuID="49" MenuText="Log Visit Asset" MenuParentID="-1" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="log_visit_asset" MenuType="" MenuCustomUrl="0" MenuLevel="0" MenuShow="0" MenuDisplayOrder="5200" MenuIconClass="" MenuNavbar="0" />
+  <Menu MenuID="69" MenuText="Run Number Member" MenuParentID="-1" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="run_number_member" MenuType="" MenuCustomUrl="0" MenuLevel="0" MenuShow="0" MenuDisplayOrder="5300" MenuIconClass="" MenuNavbar="0" />
+  <Menu MenuID="66" MenuText="Run Number Asset Buyer" MenuParentID="-1" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="run_number_asset_buyer" MenuType="" MenuCustomUrl="0" MenuLevel="0" MenuShow="0" MenuDisplayOrder="5400" MenuIconClass="" MenuNavbar="0" />
+  <Menu MenuID="71" MenuText="Save Interest" MenuParentID="-1" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="save_interest" MenuType="" MenuCustomUrl="0" MenuLevel="0" MenuShow="0" MenuDisplayOrder="5500" MenuIconClass="" MenuNavbar="0" />
+  <Menu MenuID="72" MenuText="Save Log Search Non Member" MenuParentID="-1" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="save_log_search_nonmember" MenuType="" MenuCustomUrl="0" MenuLevel="0" MenuShow="0" MenuDisplayOrder="5600" MenuIconClass="" MenuNavbar="0" />
+  <Menu MenuID="73" MenuText="Save Search" MenuParentID="-1" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="save_search" MenuType="" MenuCustomUrl="0" MenuLevel="0" MenuShow="0" MenuDisplayOrder="5700" MenuIconClass="" MenuNavbar="0" />
+  <Menu MenuID="74" MenuText="Save Webhook" MenuParentID="-1" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="save_webhook" MenuType="" MenuCustomUrl="0" MenuLevel="0" MenuShow="0" MenuDisplayOrder="5800" MenuIconClass="" MenuNavbar="0" />
+  <Menu MenuID="262" MenuText="reason terminate contract" MenuParentID="-1" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="reason_terminate_contract" MenuType="" MenuCustomUrl="0" MenuLevel="0" MenuShow="0" MenuDisplayOrder="100" MenuIconClass="" MenuNavbar="0" />
   <Locale Id="th-TH">
     <Properties><![CDATA[[{"Id":"id","Type":"String","Value":"th-TH"},{"Id":"desc","Type":"String","Value":"ไทย (ไทย)"},{"Id":"number","Type":"String","Value":"#,##0.###"},{"Id":"currency","Type":"String","Value":"¤#,##0.00"},{"Id":"currency_code","Type":"String","Value":"THB"},{"Id":"currency_symbol","Type":"String","Value":"฿"},{"Id":"percent","Type":"String","Value":"#,##0%"},{"Id":"date","Type":"String","Value":"d/M/yy"},{"Id":"time","Type":"String","Value":"HH:mm"},{"Id":"time_zone","Type":"Null","Value":"UTC+7"}]]]></Properties>
   </Locale>
